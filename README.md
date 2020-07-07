@@ -1,2 +1,2 @@
 # moorlag.github.io
-my personal website
+my personal website for educational learnings and demo'ing

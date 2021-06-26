@@ -2,28 +2,28 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Moorlag&#39;s Blog</title>
-    <link>./tags/</link>
+    <link>https://moorlag.github.io/tags/</link>
     <description>Recent content in Tags on Moorlag&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>(c) 2021 Ramon Moorlag</copyright>
-    <lastBuildDate>Sat, 26 Jun 2021 21:38:01 +0200</lastBuildDate><atom:link href="./tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 26 Jun 2021 21:38:01 +0200</lastBuildDate><atom:link href="https://moorlag.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>computer science</title>
-      <link>./tags/computer-science/</link>
+      <link>https://moorlag.github.io/tags/computer-science/</link>
       <pubDate>Sat, 26 Jun 2021 21:38:01 +0200</pubDate>
       
-      <guid>./tags/computer-science/</guid>
+      <guid>https://moorlag.github.io/tags/computer-science/</guid>
       <description></description>
       <content></content>
     </item>
     
     <item>
       <title>hello world</title>
-      <link>./tags/hello-world/</link>
+      <link>https://moorlag.github.io/tags/hello-world/</link>
       <pubDate>Sat, 26 Jun 2021 21:38:01 +0200</pubDate>
       
-      <guid>./tags/hello-world/</guid>
+      <guid>https://moorlag.github.io/tags/hello-world/</guid>
       <description></description>
       <content></content>
     </item>

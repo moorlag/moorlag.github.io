@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>hello world on Moorlag&#39;s Blog</title>
-    <link>./tags/hello-world/</link>
+    <link>https://moorlag.github.io/tags/hello-world/</link>
     <description>Recent content in hello world on Moorlag&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>(c) 2021 Ramon Moorlag</copyright>
-    <lastBuildDate>Sat, 26 Jun 2021 21:38:01 +0200</lastBuildDate><atom:link href="./tags/hello-world/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 26 Jun 2021 21:38:01 +0200</lastBuildDate><atom:link href="https://moorlag.github.io/tags/hello-world/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hello world - yet another blog</title>
-      <link>./posts/hello/</link>
+      <link>https://moorlag.github.io/posts/hello/</link>
       <pubDate>Sat, 26 Jun 2021 21:38:01 +0200</pubDate>
       
-      <guid>./posts/hello/</guid>
+      <guid>https://moorlag.github.io/posts/hello/</guid>
       <description>+++
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam nec interdum metus. Aenean rutrum ligula sodales ex auctor, sed tempus dui mollis. Curabitur ipsum dui, aliquet nec commodo at, tristique eget ante. Donec quis dolor nec nunc mollis interdum vel in purus. Sed vitae leo scelerisque, sollicitudin elit sed, congue ante. In augue nisl, vestibulum commodo est a, tristique porttitor est. Proin laoreet iaculis ornare. Nullam ut neque quam.</description>
       <content>&lt;p&gt;+++&lt;/p&gt;

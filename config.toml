@@ -1,7 +1,8 @@
-baseurl = "https://moorlag.github.io"
+baseurl = "."
 languageCode = "en-us"
 theme = "terminal"
 paginate = 5
+custom_css = "css/red.css"
 
 [params]
   # dir name of your main content (default is `content/posts`).

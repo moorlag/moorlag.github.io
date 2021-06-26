@@ -2,6 +2,7 @@ baseurl = "https://moorlag.github.io/"
 languageCode = "en-us"
 theme = "terminal"
 paginate = 5
+custom_css = "blue.css"
 
 
 [params]

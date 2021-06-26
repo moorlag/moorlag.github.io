@@ -1,2 +1,2 @@
-baseURL = "moorlag.github.io/blog/public/"
+baseURL = "moorlag.github.io/blog/"
 theme = "ananke"

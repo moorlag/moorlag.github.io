@@ -2,17 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>moorlag.github.io/blog/public/homepage/my-new-content/</loc>
+    <loc>moorlag.github.io/blog/homepage/my-new-content/</loc>
   </url><url>
-    <loc>moorlag.github.io/blog/public/my-new-page/</loc>
+    <loc>moorlag.github.io/blog/my-new-page/</loc>
     <lastmod>2021-06-26T08:23:16+02:00</lastmod>
   </url><url>
-    <loc>moorlag.github.io/blog/public/</loc>
+    <loc>moorlag.github.io/blog/</loc>
   </url><url>
-    <loc>moorlag.github.io/blog/public/categories/</loc>
+    <loc>moorlag.github.io/blog/categories/</loc>
   </url><url>
-    <loc>moorlag.github.io/blog/public/homepage/</loc>
+    <loc>moorlag.github.io/blog/homepage/</loc>
   </url><url>
-    <loc>moorlag.github.io/blog/public/tags/</loc>
+    <loc>moorlag.github.io/blog/tags/</loc>
   </url>
 </urlset>

@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title></title>
-    <link>https://example.com/</link>
+    <link>moorlag.github.io/blog/public/</link>
     <description>Recent content on </description>
-    <generator>Hugo -- gohugo.io</generator><atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- gohugo.io</generator><atom:link href="moorlag.github.io/blog/public/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My New Content</title>
-      <link>https://example.com/homepage/my-new-content/</link>
+      <link>moorlag.github.io/blog/public/homepage/my-new-content/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/homepage/my-new-content/</guid>
+      <guid>moorlag.github.io/blog/public/homepage/my-new-content/</guid>
       <description>This is just another section to appear on the homepage.</description>
     </item>
     
     <item>
       <title>My New Page</title>
-      <link>https://example.com/my-new-page/</link>
+      <link>moorlag.github.io/blog/public/my-new-page/</link>
       <pubDate>Sat, 26 Jun 2021 08:23:16 +0200</pubDate>
       
-      <guid>https://example.com/my-new-page/</guid>
+      <guid>moorlag.github.io/blog/public/my-new-page/</guid>
       <description></description>
     </item>
     

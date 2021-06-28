@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://moorlag.github.io/tags/hello-hugo/</loc>
+    <lastmod>2021-06-27T21:03:21+02:00</lastmod>
+  </url><url>
+    <loc>https://moorlag.github.io/posts/hello-hugo/</loc>
+    <lastmod>2021-06-27T21:03:21+02:00</lastmod>
+  </url><url>
+    <loc>https://moorlag.github.io/tags/hello-world/</loc>
+    <lastmod>2021-06-27T21:03:21+02:00</lastmod>
+  </url><url>
+    <loc>https://moorlag.github.io/</loc>
+    <lastmod>2021-06-27T21:03:21+02:00</lastmod>
+  </url><url>
+    <loc>https://moorlag.github.io/posts/</loc>
+    <lastmod>2021-06-27T21:03:21+02:00</lastmod>
+  </url><url>
+    <loc>https://moorlag.github.io/tags/</loc>
+    <lastmod>2021-06-27T21:03:21+02:00</lastmod>
+  </url><url>
+    <loc>https://moorlag.github.io/tags/computer-science/</loc>
+    <lastmod>2021-06-26T21:38:01+02:00</lastmod>
+  </url><url>
+    <loc>https://moorlag.github.io/posts/hello/</loc>
+    <lastmod>2021-06-26T21:38:01+02:00</lastmod>
+  </url><url>
+    <loc>https://moorlag.github.io/about/</loc>
+    <lastmod>2019-01-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://moorlag.github.io/showcase/</loc>
+    <lastmod>2018-07-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://moorlag.github.io/categories/</loc>
+  </url>
+</urlset>

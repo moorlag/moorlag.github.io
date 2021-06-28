@@ -1,22 +1,17 @@
 +++
 title = "About"
 date = "2019-01-25"
-author = "Radek"
+author = "Moorlag"
 +++
 
 # Hi there
 
-My name is Radek and I'm the author of this theme. I made it to help you present your ideas easier.
+My name is Ramon Moorlag and this is my blog. My thanks goes out to Radek for this beauty of a template.
 
-We all know how hard is to start something on the web, especially these days. You need to prepare a bunch of stuff, configure them and when that’s done — create the content.
+Serendipity is the one thing I have a firm believe in. Without that the following wouldn't have happened. ❤️
 
-This theme is pretty basic and covers all of the essentials. All you have to do is start typing!
+Co-founder Agora Roermond. 🚀A new school, with a new learning system based on the Agile framework, started a new curriculum computer science and having so much fun with teaching computer science (ds. Pierson College). ex-community manager and growth hacker at Leraar24.
 
-The theme includes:
+Besides that I enjoy traveling, seeing the world, talking to people and tasting new cultures. And a firm believe in the continued development of people once they realize that living is learning. 🥳
 
-- **5 duotone themes**, depending on your preferences (orange, red, blue, green, pink)
-- [**Fira Code**](https://github.com/tonsky/FiraCode) as default monospaced font. It's gorgeous!
-- **really nice, custom duotone** syntax highlighting based on [**PrismJS**](https://prismjs.com)
-- mobile friendly layout
-
-So, there you have it... enjoy!
+Have a problem that needs solving? Talk to me, I'm also self-employed.

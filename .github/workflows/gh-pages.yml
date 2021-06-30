@@ -1,17 +1,2 @@
-workflow "Hugo build" {
-  resolves = [
-    "Hugo Action",
-  ]
-  on = "push"
-}
-
-action "Hugo Action" {
-  uses = "moorlag/moorlag.github.io@master"
-  needs = "Filters for GitHub Actions"
- # args = "--theme=hyde-x"
-}
-
-action "Filters for GitHub Actions" {
-  uses = "actions/bin/filter@b2bea0749eed6beb495a8fa194c071847af60ea1"
-  args = "branch master"
-}
+- name: Action Hugo
+  uses: kevvurs/action-hugo@v1.0-rc2

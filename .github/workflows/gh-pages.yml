@@ -24,7 +24,7 @@ jobs:
       uses: actions/checkout@v2
       with:
           submodules: true  # Fetch Hugo themes
-          fetch-depth: 0    # Fetch all history for .GitInfo and .Lastmod
+          fetch-depth: 2    # Fetch all history for .GitInfo and .Lastmod
 
     # Step 2 - Sets up the latest version of Hugo
     - name: Setup Hugo

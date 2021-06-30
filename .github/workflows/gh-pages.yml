@@ -7,7 +7,7 @@ name: github pages
 # events but only for the master branch
 on:
   push:
-    branches: [ master ]
+    branches: [ moorlag.github.io ]
 
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
@@ -42,8 +42,8 @@ jobs:
       run: hugo --theme=fresh
 
     # Step 5 - Create name file
-    - name: Create cname file
-      run: echo 'freshswift.net' > public/CNAME
+   # - name: Create cname file
+    #  run: echo 'freshswift.net' > public/CNAME
 
     # Step 6 - Push our generated site to our gh-pages branch
     - name: Deploy

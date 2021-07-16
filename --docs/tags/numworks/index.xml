@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>numworks on Moorlag&#39;s Blog</title>
+    <link>https://moorlag.github.io/tags/numworks/</link>
+    <description>Recent content in numworks on Moorlag&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>(c) 2021 Ramon Moorlag</copyright>
+    <lastBuildDate>Tue, 15 Jan 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://moorlag.github.io/tags/numworks/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Numworks</title>
+      <link>https://moorlag.github.io/posts/2019-01-15-numworks/</link>
+      <pubDate>Tue, 15 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://moorlag.github.io/posts/2019-01-15-numworks/</guid>
+      <description>What is it and how does it work? This quick review of my unit starts off with a short story &amp;ldquo;Numworks about Numworks&amp;rdquo;. There is an online simulator of Numworks. It has all the same functions as the physical device.
+ _Targeting a high school audience and competing with Texas Instruments&#39; Ti-_nspire family, the NumWorks calculator is equipped with a non-touch color LCD2.
+Translated from the Wiki
+  It offers a programmable interface in Python.</description>
+      <content>&lt;h2 id=&#34;what-is-it-and-how-does-it-work&#34;&gt;What is it and how does it work?&lt;/h2&gt;
+&lt;p&gt;This quick review of my unit starts off with a short story &lt;em&gt;&amp;ldquo;Numworks about Numworks&amp;rdquo;.&lt;/em&gt;  There is an &lt;a href=&#34;https://www.numworks.com/simulator/&#34;&gt;online simulator of Numworks&lt;/a&gt;. It has all the same functions as the physical device.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;_Targeting a high school audience and competing with Texas Instruments&#39; Ti-_&lt;em&gt;nspire&lt;/em&gt; &lt;em&gt;family, the NumWorks calculator is equipped with a non-touch color LCD2.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Translated from the &lt;a href=&#34;https://fr.wikipedia.org/wiki/NumWorks&#34;&gt;Wiki&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;It offers a programmable interface in Python. Launched in France in the summer of 2017, the NumWorks calculator was quickly sold to several thousand students among French high schools, mainly thanks to a fine design, Python interface (programming language whose learning is mandatory in secondary education in France), the recommendations of many teachers and the creation of a community of users offering various applications online. The calculator is announced in open hardware (&amp;ldquo;open hardware&amp;rdquo;, schemas and plans are available) and under open source with a Creative Commons BY-NC-ND4 license.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Translated from the &lt;a href=&#34;https://fr.wikipedia.org/wiki/NumWorks&#34;&gt;Wiki&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;This is a calculator that has a great design and Python build into the OS. Updating is easy, just a modern webbrowser with webUSB. The device runs on a 100 MHz Cortex-M processor. It&amp;rsquo;s lightning fast and the fun part&amp;hellip; it runs Python! With software on &lt;a href=&#34;https://github.com/numworks&#34;&gt;GitHub&lt;/a&gt; and the community on &lt;a href=&#34;https://www.reddit.com/r/numworks/&#34;&gt;Reddit&lt;/a&gt; makes for an impressive online presence. Repair is easy! &lt;a href=&#34;https://www.numworks.com/resources/engineering/hardware/&#34;&gt;The entire process in terms of hardware&lt;/a&gt; is open source, The level of documentation is impressive. It&amp;rsquo;s excellent. This is what documentation should look like. Did I already mentioned that it runs Python?&lt;/p&gt;
+&lt;h3 id=&#34;why-do-you-need-it&#34;&gt;Why do you need it&lt;/h3&gt;
+&lt;p&gt;Great design, build with durability from the beginning and it can be upgraded. It has all the functions of a regular calculator and it can be programmed without much extra training.&lt;/p&gt;
+&lt;h4 id=&#34;whats-the-fun-part&#34;&gt;What&amp;rsquo;s the fun part?&lt;/h4&gt;
+&lt;p&gt;It runs Python, had a USB connection and utilizes webUSB for updating. The calculator runs the core uPy and can be programmed with a computer. Or if you are up for a challenge&amp;hellip; with the ABC-keyboard on the device. I&amp;rsquo;ve written a small script to return a random value of a dice.&lt;/p&gt;
+&lt;h2 id=&#34;code-example&#34;&gt;Code Example&lt;/h2&gt;
+&lt;p&gt;The example can also be found &lt;a href=&#34;https://workshop.numworks.com/python/r-moorlag/test&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;import random 
+
+#returns a number
+def roll_dice():
+  print (random.randint(1, 6)) 
+
+print(&amp;quot;&amp;quot;&amp;quot;
+This python script returns a random value between 1 and 6. It&#39;s a dice
+&amp;quot;&amp;quot;&amp;quot;)
+
+flag = True
+while flag:
+   user_prompt = input(&amp;quot;&amp;gt;&amp;quot;)
+   if user_prompt.lower() == &amp;quot;quit&amp;quot;:
+      flag = False
+   else:
+     print(&amp;quot;Rolling dice...\nYour number is:&amp;quot;) 
+     roll_dice()
+&lt;/code&gt;&lt;/pre&gt;</content>
+    </item>
+    
+  </channel>
+</rss>

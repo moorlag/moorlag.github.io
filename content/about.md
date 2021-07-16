@@ -15,3 +15,4 @@ Co-founder Agora Roermond. 🚀A new school, with a new learning system based on
 Besides that I enjoy traveling, seeing the world, talking to people and tasting new cultures. And a firm believe in the continued development of people once they realize that living is learning. 🥳
 
 Have a problem that needs solving? Talk to me, I'm also self-employed.
+![Ramon Moorlag](/img/ramon.jpeg)

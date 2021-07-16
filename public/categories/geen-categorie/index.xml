@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>geen-categorie on Moorlag&#39;s Blog</title>
+    <link>https://moorlag.github.io/categories/geen-categorie/</link>
+    <description>Recent content in geen-categorie on Moorlag&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>(c) 2021 Ramon Moorlag</copyright>
+    <lastBuildDate>Thu, 15 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://moorlag.github.io/categories/geen-categorie/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Let it be known, I&#39;m going Hugo!</title>
+      <link>https://moorlag.github.io/posts/2021-07-15-let-it-be-known-im-going-hugo/</link>
+      <pubDate>Thu, 15 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://moorlag.github.io/posts/2021-07-15-let-it-be-known-im-going-hugo/</guid>
+      <description>Yes, I&amp;rsquo;m going back to basics. Just some storage and no interactive elements (looking at you cookiewall). No more databases, Hugo runs on almost every webserver. Incl. this one
+Hugo logo
+With great anticipation I am transiting my personal blog to Hugo. 🚀
+Why?  It&amp;rsquo;s fun to learn something new! It&amp;rsquo;s quick! The quickstart only takes 7 minutes! It&amp;rsquo;s another way to use MarkDown (awesome!) And&amp;hellip; no more updates  Under the hood of Hugo  The world’s fastest framework for building websites</description>
+      <content>&lt;p&gt;Yes, I&amp;rsquo;m going back to basics. Just some storage and no interactive elements (looking at you cookiewall). No more databases, Hugo runs on almost every webserver. Incl. this one&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;images/gohugoio-card-900x450.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Hugo logo&lt;/p&gt;
+&lt;p&gt;With great anticipation I am transiting my personal blog to &lt;a href=&#34;https://gohugo.io/&#34;&gt;Hugo&lt;/a&gt;. 🚀&lt;/p&gt;
+&lt;h2 id=&#34;why&#34;&gt;Why?&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;It&amp;rsquo;s fun to learn something new!&lt;/li&gt;
+&lt;li&gt;It&amp;rsquo;s quick! The &lt;a href=&#34;https://gohugo.io/getting-started/quick-start/&#34;&gt;quickstart&lt;/a&gt; only takes 7 minutes!&lt;/li&gt;
+&lt;li&gt;It&amp;rsquo;s another way to use MarkDown (awesome!)&lt;/li&gt;
+&lt;li&gt;And&amp;hellip; no more updates&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;under-the-hood-of-hugo&#34;&gt;Under the hood of Hugo&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;The world’s fastest framework for building websites&lt;br&gt;
+Hugo is one of the most popular open-source static site generators. With its amazing speed and flexibility, Hugo makes building websites fun again.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://gohugo.io/&#34;&gt;https://gohugo.io/&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;markdown&#34;&gt;Markdown!&lt;/h2&gt;
+&lt;p&gt;Markdown is a way to write content for the web. It’s written in what people like to call “plaintext”, which is exactly the sort of text you’re used to writing and seeing. Plaintext is just the regular alphabet, with a few familiar symbols, like asterisks ( &lt;code&gt;*&lt;/code&gt; ) and backticks ( &lt;code&gt;`&lt;/code&gt; ).&lt;/p&gt;
+&lt;p&gt;Unlike cumbersome word processing applications, text written in Markdown can be easily shared between computers, mobile phones, and people. It’s quickly becoming the writing standard for &lt;a href=&#34;http://chronicle.com/blogs/profhacker/markdown-the-syntax-you-probably-already-know/35295&#34;&gt;academics&lt;/a&gt;, &lt;a href=&#34;http://blogs.plos.org/mfenner/2012/12/13/a-call-for-scholarly-markdown/&#34;&gt;scientists&lt;/a&gt;, &lt;a href=&#34;https://lifehacker.com/5943320/what-is-markdown-and-why-is-it-better-for-my-to+do-lists-and-notes&#34;&gt;writers&lt;/a&gt;, and many more. Websites like &lt;a href=&#34;https://www.github.com/&#34;&gt;GitHub&lt;/a&gt; and &lt;a href=&#34;https://www.reddit.com/&#34;&gt;reddit&lt;/a&gt; use Markdown to style their comments.&lt;/p&gt;
+&lt;p&gt;Formatting text in Markdown has a very gentle learning curve. It doesn’t do anything fancy like change the font size, color, or type. All you have control over is the display of the text—stuff like making things bold, creating headers, and organizing lists.&lt;/p&gt;
+&lt;p&gt;If you have ten minutes, you can learn Markdown!&lt;/p&gt;
+&lt;p&gt;In each lesson, you’ll be given an introduction to a single Markdown concept. Then, you’ll be asked to complete several exercises with that new knowledge.&lt;/p&gt;
+&lt;p&gt;Start learning Markdown today. Trust me, &lt;a href=&#34;https://www.markdowntutorial.com/&#34;&gt;this tutorial will stick&lt;/a&gt; (also available in &lt;a href=&#34;https://www.markdowntutorial.com/nl/&#34;&gt;Dutch&lt;/a&gt;!)&lt;/p&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>Secret Santa in 15 minutes? Unlock Your Inner Mailninja with YAMM!</title>
+      <link>https://moorlag.github.io/posts/2020-12-05-secret-santa-in-15-minutes-unlock-your-inner-mailninja-with-yamm/</link>
+      <pubDate>Sat, 05 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://moorlag.github.io/posts/2020-12-05-secret-santa-in-15-minutes-unlock-your-inner-mailninja-with-yamm/</guid>
+      <description>In this blog, I&amp;rsquo;ll share some insights and tips when I organized Secret Santa. Sounds easy, doesn&amp;rsquo;t it. Organizing Secret Santa with only superpowers. With my blog, I hope you can also use the superpowers I used to organize Secret Santa in 15 minutes. First I used Google Forms. This was a major thing. What information is helpful and gives a nice insight into the &amp;lsquo;giftee&amp;rsquo;? With this experiment, I tried my first Add-On, and we are now in love.</description>
+      <content>&lt;p&gt;&lt;img src=&#34;images/yamm_logo.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;In this blog, I&amp;rsquo;ll share some insights and tips when I organized Secret Santa. Sounds easy, doesn&amp;rsquo;t it. Organizing Secret Santa with only superpowers. With my blog, I hope you can also use the superpowers I used to organize Secret Santa in 15 minutes. First I used Google Forms. This was a major thing. What information is helpful and gives a nice insight into the &amp;lsquo;giftee&amp;rsquo;? With this experiment, I tried my first Add-On, and we are now in love. Add-ons make dull-tasks fun! (&amp;hellip; or at least simpeler)&lt;/p&gt;
+&lt;h2 id=&#34;the-secret-santa-questions-i-used&#34;&gt;The Secret Santa questions I used&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Name (yes, you need to ask)&lt;/li&gt;
+&lt;li&gt;Email&lt;/li&gt;
+&lt;li&gt;What makes you happy?&lt;/li&gt;
+&lt;li&gt;What is your favorite color? (in a selection list)&lt;/li&gt;
+&lt;li&gt;What is your lucky number?&lt;/li&gt;
+&lt;li&gt;What is the maiden name of your mother (ow, wait this isn&amp;rsquo;t a credit card hacking scam)&lt;/li&gt;
+&lt;li&gt;How would you rate 2020?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;and-then-how-can-i-used-the-earlier-mentioned-super-powers-with-yamm&#34;&gt;And then? How can I used the earlier mentioned Super Powers With YAMM?&lt;/h2&gt;
+&lt;p&gt;With that list (&lt;strong&gt;pro-tip&lt;/strong&gt; export it to a sheet) the fun starts. I used &lt;a href=&#34;https://yet-another-mail-merge.com/&#34;&gt;YAMM&lt;/a&gt; (Yet-another-Mail-Merge), free of usage with 50 mailmerges/day. Like any decent Mail-Merger, it used the first line as a guide. So the list is now used as a data collection; keep the titles simple; name, email, happy, color, number, 2020. I used the &lt;a href=&#34;https://support.yet-another-mail-merge.com/hc/en-us&#34;&gt;documentation&lt;/a&gt; a lot. An excellent example of good documentation. There are &lt;a href=&#34;https://support.yet-another-mail-merge.com/hc/en-us/articles/210729589-Use-a-predesigned-template-from-our-gallery&#34;&gt;free themed email templates&lt;/a&gt;! And now the fun continues. Do not only provide the &amp;lsquo;gifter&amp;rsquo; with the data of the &amp;lsquo;giftee&amp;rsquo;. Provide examples of gifts, suggestions for poems/nice letters and don&amp;rsquo;t be afraid to write an example Haiku :-)&lt;/p&gt;
+&lt;p&gt;The &amp;laquo; &amp;raquo; are the placeholders for the titles from the first line from the Sheet. &amp;laquo;User_Name&amp;raquo; here is used. Notice the camelbacks; the Two Capitals? Be &lt;strong&gt;very&lt;/strong&gt; consequent with capitals! Via Add-Ons in the Sheet. Easy right?&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;images/install_yamm1.png&#34; alt=&#34;Install YAMM open add-on menu&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Add &amp;lsquo;Add-ons&amp;rsquo;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;images/merry_christmas.PNG&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Example template - free to use -&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=-dAFP3YyAWo&amp;amp;ab&#34;&gt;https://www.youtube.com/watch?v=-dAFP3YyAWo&amp;amp;ab&lt;/a&gt;_channel=YetAnotherMailMerge&lt;/p&gt;
+&lt;h2 id=&#34;these-are-tips-to-be-an-email-ninja&#34;&gt;These are tips to be an Email ninja&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Select a themed email template&lt;/li&gt;
+&lt;li&gt;Double-check before sending&lt;/li&gt;
+&lt;li&gt;Track (!) opening rates. So we can nudge non-openers&lt;/li&gt;
+&lt;li&gt;Provide shops links&lt;/li&gt;
+&lt;li&gt;And repeat the suggested amount of money per gift&lt;/li&gt;
+&lt;li&gt;Nudge, repeat, rinse repeat&lt;/li&gt;
+&lt;li&gt;Provide an optional unboxing party.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=o2Jh1ABd7XM&amp;amp;feature=emb&#34;&gt;https://www.youtube.com/watch?v=o2Jh1ABd7XM&amp;amp;feature=emb&lt;/a&gt;_logo&amp;amp;ab_channel=YetAnotherMailMerge&lt;/p&gt;
+&lt;p&gt;Quick video to install YAMM&lt;/p&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>AxiDraw &amp; Snap!cloud, een gouden combinatie?! Ga aan de slag!</title>
+      <link>https://moorlag.github.io/posts/2020-11-22-axidraw-snapcloud-een-gouden-combinatie-ga-aan-de-slag/</link>
+      <pubDate>Sun, 22 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://moorlag.github.io/posts/2020-11-22-axidraw-snapcloud-een-gouden-combinatie-ga-aan-de-slag/</guid>
+      <description>Ga er maar aan staan, een snelle handleiding over AxiDraw is er niet. Het gebruik ervan is bedriegelijk eenvoudig en tegelijkertijd bijzonder complex. Toch probeer ik een &amp;lsquo;ga aan de slag!&amp;rsquo; te schrijven.
+https://www.youtube.com/watch?v=5492ZjivAQ0&amp;amp;ab_channel=EvilMadScientist
+AxiDraw promo video
+AxiDraw Een aantal zaken zijn van belang. Een SVG (meer info) is hét bestandsformaat waar je het meeste mee kunt. Het is een 2d-vector formaat en dat levert door de schaalbaarheid voordelen op. In het voorbeeld kun je ook zien wat het verschil is tussen een SVG en een PNG bestand.</description>
+      <content>&lt;p&gt;Ga er maar aan staan, een snelle handleiding over AxiDraw is er niet. Het gebruik ervan is bedriegelijk eenvoudig en tegelijkertijd bijzonder complex. Toch probeer ik een &amp;lsquo;ga aan de slag!&amp;rsquo; te schrijven.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=5492ZjivAQ0&amp;amp;ab&#34;&gt;https://www.youtube.com/watch?v=5492ZjivAQ0&amp;amp;ab&lt;/a&gt;_channel=EvilMadScientist&lt;/p&gt;
+&lt;p&gt;AxiDraw promo video&lt;/p&gt;
+&lt;h2 id=&#34;axidraw&#34;&gt;AxiDraw&lt;/h2&gt;
+&lt;p&gt;Een aantal zaken zijn van belang. Een SVG (&lt;a href=&#34;https://fileinfo.com/extension/svg&#34;&gt;meer info&lt;/a&gt;) is hét bestandsformaat waar je het meeste mee kunt. Het is een 2d-vector formaat en dat levert door de schaalbaarheid voordelen op. In het voorbeeld kun je ook zien wat het verschil is tussen een SVG en een PNG bestand. De PNG wordt door interpretatie van Inkscape opgesplit in losse pixels. De SVG levert doordat het een vectortekening is directe lijnen op.&lt;/p&gt;
+&lt;h2 id=&#34;snap&#34;&gt;Snap&lt;/h2&gt;
+&lt;p&gt;Snap! kan eenvoudig bijhouden hoe een tekening getekend wordt. Doe dit via settings -&amp;gt; log pen vector. Daarna kun je een vector (SVG) dowloaden.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;img src=&#34;images/Screenshot-2020-11-22-at-18.50.27.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;img src=&#34;images/Screenshot-2020-11-22-at-18.51.23-1.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Log pen vectors aanvinken, daarna rechtsonderin via Stage en rechtermuisknop export -&amp;gt; SVG&lt;/p&gt;
+&lt;p&gt;Onderstaande voorbeeld komt uit de &lt;a href=&#34;https://snap.berkeley.edu/examples&#34;&gt;example directory&lt;/a&gt; van Snap!.&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;&lt;img src=&#34;images/Untitled-708x1024.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Boven een SVG, onder een PNG&lt;/p&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>Eat, sleep, MAKE &amp; repeat</title>
+      <link>https://moorlag.github.io/posts/2017-09-23-eat-sleep-make-repeat/</link>
+      <pubDate>Sat, 23 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://moorlag.github.io/posts/2017-09-23-eat-sleep-make-repeat/</guid>
+      <description>Reflections on EHVMMF The day after&amp;hellip;
+Friday - MakerED Meetup Still, a bit impressed by the Eindhoven Maker Faire. Thanks to Arjan van de Meij I went to the Meetup on Friday; topic Maker Education. The power of making things and learning at the same time.
+After a warm welcome by our host Arjan I really enjoyed the talk from René Pare. He is one of the organizers of the Maker Faire Eindhoven and he knows how to sell a story.</description>
+      <content>&lt;h1 id=&#34;reflections-on-ehvmmf&#34;&gt;Reflections on EHVMMF&lt;/h1&gt;
+&lt;p&gt;The day after&amp;hellip;&lt;/p&gt;
+&lt;h2 id=&#34;friday---makered-meetup&#34;&gt;Friday - MakerED Meetup&lt;/h2&gt;
+&lt;p&gt;Still, a bit impressed by the Eindhoven Maker Faire. Thanks to Arjan van de Meij I went to the Meetup on Friday; topic Maker Education. The power of making things and learning at the same time.&lt;/p&gt;
+&lt;p&gt;After a warm welcome by our host Arjan I really enjoyed the talk from René Pare. He is one of the organizers of the Maker Faire Eindhoven and he knows how to sell a story. What a fun guy!&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.anoukwipprecht.nl&#34;&gt;Anouk Wipprecht&lt;/a&gt; made my day. What an energetic woman! Passioned and really witty. Her presentation was spot on and she showed us the way to draw outside the lines. Her 37 (!) dresses are all interactive and beautiful (sadly only size 37).&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;h2 id=&#34;sunday---maker-faire&#34;&gt;Sunday - Maker Faire&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;images/IMG_7878-300x225.jpg&#34; alt=&#34;&#34;&gt; &lt;img src=&#34;images/IMG_7873-300x225.jpg&#34; alt=&#34;&#34;&gt; &lt;img src=&#34;images/IMG_7870-300x225.jpg&#34; alt=&#34;&#34;&gt; &lt;img src=&#34;images/IMG_7882-300x225.jpg&#34; alt=&#34;&#34;&gt; &lt;img src=&#34;images/IMG_7869-e1504506532956-225x300.jpg&#34; alt=&#34;&#34;&gt; &lt;img src=&#34;images/IMG_7864-300x225.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+</content>
+    </item>
+    
+  </channel>
+</rss>

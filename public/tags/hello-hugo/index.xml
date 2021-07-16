@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hello Hugo on Moorlag&#39;s Blog</title>
+    <link>https://moorlag.github.io/tags/hello-hugo/</link>
+    <description>Recent content in Hello Hugo on Moorlag&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>(c) 2021 Ramon Moorlag</copyright>
+    <lastBuildDate>Sun, 27 Jun 2021 21:03:21 +0200</lastBuildDate><atom:link href="https://moorlag.github.io/tags/hello-hugo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello Hugo</title>
+      <link>https://moorlag.github.io/posts/hello-hugo/</link>
+      <pubDate>Sun, 27 Jun 2021 21:03:21 +0200</pubDate>
+      
+      <guid>https://moorlag.github.io/posts/hello-hugo/</guid>
+      <description>Hello and welcome,
+This is my first blog based on the Go Hugo framework. This framework runs locally on my machine and generates output that can be hosted without a database. Cool! And, everything page and post is based on MarkDown. Isn&amp;rsquo;t that cool?</description>
+      <content>&lt;p&gt;Hello and welcome,&lt;/p&gt;
+&lt;p&gt;This is my first blog based on the Go Hugo framework.
+This framework runs locally on my machine and generates output that can be hosted without a database.
+Cool! And, everything page and post is based on MarkDown. Isn&amp;rsquo;t that cool?&lt;/p&gt;
+</content>
+    </item>
+    
+  </channel>
+</rss>

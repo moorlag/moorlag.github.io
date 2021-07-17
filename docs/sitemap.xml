@@ -2,22 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://moorlag.github.io/categories/</loc>
-    <lastmod>2021-07-15T00:00:00+00:00</lastmod>
+    <loc>https://moorlag.github.io/inspiration/</loc>
+    <lastmod>2021-07-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://moorlag.github.io/categories/geen-categorie/</loc>
-    <lastmod>2021-07-15T00:00:00+00:00</lastmod>
+    <loc>https://moorlag.github.io/tags/computer-science/</loc>
+    <lastmod>2021-06-27T21:03:21+02:00</lastmod>
   </url><url>
-    <loc>https://moorlag.github.io/posts/2021-07-15-let-it-be-known-im-going-hugo/</loc>
-    <lastmod>2021-07-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://moorlag.github.io/</loc>
-    <lastmod>2021-07-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://moorlag.github.io/posts/</loc>
-    <lastmod>2021-07-15T00:00:00+00:00</lastmod>
+    <loc>https://moorlag.github.io/tags/gohugo/</loc>
+    <lastmod>2021-06-27T21:03:21+02:00</lastmod>
   </url><url>
     <loc>https://moorlag.github.io/tags/hello-hugo/</loc>
+    <lastmod>2021-06-27T21:03:21+02:00</lastmod>
+  </url><url>
+    <loc>https://moorlag.github.io/posts/2021-07-15-let-it-be-known-im-going-hugo/</loc>
     <lastmod>2021-06-27T21:03:21+02:00</lastmod>
   </url><url>
     <loc>https://moorlag.github.io/posts/hello-hugo/</loc>
@@ -26,14 +23,20 @@
     <loc>https://moorlag.github.io/tags/hello-world/</loc>
     <lastmod>2021-06-27T21:03:21+02:00</lastmod>
   </url><url>
+    <loc>https://moorlag.github.io/</loc>
+    <lastmod>2021-06-27T21:03:21+02:00</lastmod>
+  </url><url>
+    <loc>https://moorlag.github.io/posts/</loc>
+    <lastmod>2021-06-27T21:03:21+02:00</lastmod>
+  </url><url>
     <loc>https://moorlag.github.io/tags/</loc>
     <lastmod>2021-06-27T21:03:21+02:00</lastmod>
   </url><url>
-    <loc>https://moorlag.github.io/tags/computer-science/</loc>
-    <lastmod>2021-06-26T21:38:01+02:00</lastmod>
-  </url><url>
     <loc>https://moorlag.github.io/posts/hello/</loc>
     <lastmod>2021-06-26T21:38:01+02:00</lastmod>
+  </url><url>
+    <loc>https://moorlag.github.io/categories/</loc>
+    <lastmod>2020-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://moorlag.github.io/tags/emergancy-teaching/</loc>
     <lastmod>2020-12-18T00:00:00+00:00</lastmod>
@@ -61,6 +64,9 @@
   </url><url>
     <loc>https://moorlag.github.io/tags/inky-phat/</loc>
     <lastmod>2020-12-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://moorlag.github.io/categories/geen-categorie/</loc>
+    <lastmod>2020-12-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://moorlag.github.io/posts/2020-12-05-secret-santa-in-15-minutes-unlock-your-inner-mailninja-with-yamm/</loc>
     <lastmod>2020-12-05T00:00:00+00:00</lastmod>
@@ -149,12 +155,6 @@
     <loc>https://moorlag.github.io/reading-list/</loc>
     <lastmod>2018-03-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://moorlag.github.io/frequently-asked-questions/</loc>
-    <lastmod>2018-02-18T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://moorlag.github.io/bookshelf/</loc>
-    <lastmod>2018-02-04T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://moorlag.github.io/posts/2018-01-31-teach-still-dutch/</loc>
     <lastmod>2018-01-31T00:00:00+00:00</lastmod>
   </url><url>
@@ -180,12 +180,6 @@
     <lastmod>2017-08-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://moorlag.github.io/posts/2017-08-14-guidance-is-internal/</loc>
-    <lastmod>2017-08-14T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://moorlag.github.io/contact-about/</loc>
-    <lastmod>2017-08-14T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://moorlag.github.io/inspiration/</loc>
     <lastmod>2017-08-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://moorlag.github.io/learning/</loc>

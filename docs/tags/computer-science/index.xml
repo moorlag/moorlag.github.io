@@ -7,7 +7,44 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>(c) 2021 Ramon Moorlag</copyright>
-    <lastBuildDate>Sat, 26 Jun 2021 21:38:01 +0200</lastBuildDate><atom:link href="https://moorlag.github.io/tags/computer-science/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 27 Jun 2021 21:03:21 +0200</lastBuildDate><atom:link href="https://moorlag.github.io/tags/computer-science/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello Hugo</title>
+      <link>https://moorlag.github.io/posts/2021-07-15-let-it-be-known-im-going-hugo/</link>
+      <pubDate>Sun, 27 Jun 2021 21:03:21 +0200</pubDate>
+      
+      <guid>https://moorlag.github.io/posts/2021-07-15-let-it-be-known-im-going-hugo/</guid>
+      <description>Yes, I&amp;rsquo;m going back to basics. Just some storage and no interactive elements (looking at you cookiewall). No more databases, Hugo runs on almost every webserver. Incl. this one +++ Hugo logo
+With great anticipation I am transiting my personal blog to Hugo. 🚀
+Why?  It&amp;rsquo;s fun to learn something new! It&amp;rsquo;s quick! The quickstart only takes 7 minutes! It&amp;rsquo;s another way to use MarkDown (awesome!) And&amp;hellip; no more updates  Under the hood of Hugo  The world’s fastest framework for building websites</description>
+      <content>&lt;p&gt;Yes, I&amp;rsquo;m going back to basics. Just some storage and no interactive elements (looking at you cookiewall). No more databases, Hugo runs on almost every webserver. Incl. this one
++++
+&lt;img src=&#34;images/gohugoio-card-900x450.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Hugo logo&lt;/p&gt;
+&lt;p&gt;With great anticipation I am transiting my personal blog to &lt;a href=&#34;https://gohugo.io/&#34;&gt;Hugo&lt;/a&gt;. 🚀&lt;/p&gt;
+&lt;h2 id=&#34;why&#34;&gt;Why?&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;It&amp;rsquo;s fun to learn something new!&lt;/li&gt;
+&lt;li&gt;It&amp;rsquo;s quick! The &lt;a href=&#34;https://gohugo.io/getting-started/quick-start/&#34;&gt;quickstart&lt;/a&gt; only takes 7 minutes!&lt;/li&gt;
+&lt;li&gt;It&amp;rsquo;s another way to use MarkDown (awesome!)&lt;/li&gt;
+&lt;li&gt;And&amp;hellip; no more updates&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;under-the-hood-of-hugo&#34;&gt;Under the hood of Hugo&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;The world’s fastest framework for building websites&lt;br&gt;
+Hugo is one of the most popular open-source static site generators. With its amazing speed and flexibility, Hugo makes building websites fun again.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://gohugo.io/&#34;&gt;https://gohugo.io/&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;markdown&#34;&gt;Markdown!&lt;/h2&gt;
+&lt;p&gt;Markdown is a way to write content for the web. It’s written in what people like to call “plaintext”, which is exactly the sort of text you’re used to writing and seeing. Plaintext is just the regular alphabet, with a few familiar symbols, like asterisks ( &lt;code&gt;*&lt;/code&gt; ) and backticks ( &lt;code&gt;`&lt;/code&gt; ).&lt;/p&gt;
+&lt;p&gt;Unlike cumbersome word processing applications, text written in Markdown can be easily shared between computers, mobile phones, and people. It’s quickly becoming the writing standard for &lt;a href=&#34;http://chronicle.com/blogs/profhacker/markdown-the-syntax-you-probably-already-know/35295&#34;&gt;academics&lt;/a&gt;, &lt;a href=&#34;http://blogs.plos.org/mfenner/2012/12/13/a-call-for-scholarly-markdown/&#34;&gt;scientists&lt;/a&gt;, &lt;a href=&#34;https://lifehacker.com/5943320/what-is-markdown-and-why-is-it-better-for-my-to+do-lists-and-notes&#34;&gt;writers&lt;/a&gt;, and many more. Websites like &lt;a href=&#34;https://www.github.com/&#34;&gt;GitHub&lt;/a&gt; and &lt;a href=&#34;https://www.reddit.com/&#34;&gt;reddit&lt;/a&gt; use Markdown to style their comments.&lt;/p&gt;
+&lt;p&gt;Formatting text in Markdown has a very gentle learning curve. It doesn’t do anything fancy like change the font size, color, or type. All you have control over is the display of the text—stuff like making things bold, creating headers, and organizing lists.&lt;/p&gt;
+&lt;p&gt;If you have ten minutes, you can learn Markdown!&lt;/p&gt;
+&lt;p&gt;In each lesson, you’ll be given an introduction to a single Markdown concept. Then, you’ll be asked to complete several exercises with that new knowledge.&lt;/p&gt;
+&lt;p&gt;Start learning Markdown today. Trust me, &lt;a href=&#34;https://www.markdowntutorial.com/&#34;&gt;this tutorial will stick&lt;/a&gt; (also available in &lt;a href=&#34;https://www.markdowntutorial.com/nl/&#34;&gt;Dutch&lt;/a&gt;!)&lt;/p&gt;
+</content>
+    </item>
+    
     <item>
       <title>Hello world - yet another blog</title>
       <link>https://moorlag.github.io/posts/hello/</link>

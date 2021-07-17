@@ -1,12 +1,16 @@
----
-title: "Let it be known, I'm going Hugo!"
-date: "2021-07-15"
-categories: 
-  - "geen-categorie"
----
-
++++
+title = "Hello Hugo"
+date = "2021-06-27T21:03:21+02:00"
+author = "Moorlag"
+authorTwitter = "Moorlag" #do not include @
+cover = "/img/gohugoio-card-900x450.png"
+tags = ["GoHugo", "computer science"]
+keywords = ["First attempt", "Second attempt"]
+description = "Let's merge, and convert!"
+showFullContent = false
++++
 Yes, I'm going back to basics. Just some storage and no interactive elements (looking at you cookiewall). No more databases, Hugo runs on almost every webserver. Incl. this one
-
++++
 ![](images/gohugoio-card-900x450.png)
 
 Hugo logo
@@ -24,7 +28,7 @@ With great anticipation I am transiting my personal blog to [Hugo](https://gohug
 
 > The world’s fastest framework for building websites  
 > Hugo is one of the most popular open-source static site generators. With its amazing speed and flexibility, Hugo makes building websites fun again.
-> 
+>
 > [https://gohugo.io/](https://gohugo.io/)
 
 ## Markdown!

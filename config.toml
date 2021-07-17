@@ -1,8 +1,8 @@
 baseurl = "https://moorlag.github.io/"
 languageCode = "en-us"
 theme = "terminal"
-paginate = 3
-custom_css = "blue.css"
+paginate = 20
+custom_css = "orange.css"
 enableEmoji = "true"
 
 
@@ -24,14 +24,14 @@ enableEmoji = "true"
   fullWidthTheme = true
 
   # center theme with default width
-  centerTheme = false
+  centerTheme = true
 
   # set a custom favicon (default is a `themeColor` square)
   # favicon = "favicon.ico"
 
   # set post to show the last updated
   # If you use git, you can set `enableGitInfo` to `true` and then post will automatically get the last updated
-  showLastUpdated = true
+  showLastUpdated = false
   # Provide a string as a prefix for the last update date. By default, it looks like this: 2020-xx-xx [Updated: 2020-xx-xx] :: Author
   # updatedDatePrefix = "Updated"
 
@@ -44,7 +44,7 @@ enableEmoji = "true"
   # see https://developer.twitter.com/en/docs/tweets/optimize-with-cards/guides/getting-started#card-and-content-attribution
   # do not include @
   creator = "moorlag"
-  site = "Moorlag.github.io"
+  site = "https://www.Moorlag.github.io"
 
 [languages]
   [languages.en]
@@ -71,11 +71,15 @@ enableEmoji = "true"
         identifier = "about"
         name = "About"
         url = "/about"
-      [[languages.en.menu.main]]
-        identifier = "showcase"
-        name = "Showcase"
-        url = "/showcase"
+    #  [[languages.en.menu.main]]
+    #    identifier = "showcase"
+    #    name = "Showcase"
+    #    url = "/showcase"
       [[languages.en.menu.main]]
         identifier = "contact"
         name = "Contact"
         url = "/contact"
+        [[languages.en.menu.main]]
+          identifier = "Inspiration"
+          name = "Inspiration"
+          url = "/Inspiration"

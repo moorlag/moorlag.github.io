@@ -7,19 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>(c) 2021 Ramon Moorlag</copyright>
-    <lastBuildDate>Thu, 15 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://moorlag.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 27 Jun 2021 21:03:21 +0200</lastBuildDate><atom:link href="https://moorlag.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Let it be known, I&#39;m going Hugo!</title>
+      <title>Hello Hugo</title>
       <link>https://moorlag.github.io/posts/2021-07-15-let-it-be-known-im-going-hugo/</link>
-      <pubDate>Thu, 15 Jul 2021 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 27 Jun 2021 21:03:21 +0200</pubDate>
       
       <guid>https://moorlag.github.io/posts/2021-07-15-let-it-be-known-im-going-hugo/</guid>
-      <description>Yes, I&amp;rsquo;m going back to basics. Just some storage and no interactive elements (looking at you cookiewall). No more databases, Hugo runs on almost every webserver. Incl. this one
-Hugo logo
+      <description>Yes, I&amp;rsquo;m going back to basics. Just some storage and no interactive elements (looking at you cookiewall). No more databases, Hugo runs on almost every webserver. Incl. this one +++ Hugo logo
 With great anticipation I am transiting my personal blog to Hugo. 🚀
 Why?  It&amp;rsquo;s fun to learn something new! It&amp;rsquo;s quick! The quickstart only takes 7 minutes! It&amp;rsquo;s another way to use MarkDown (awesome!) And&amp;hellip; no more updates  Under the hood of Hugo  The world’s fastest framework for building websites</description>
-      <content>&lt;p&gt;Yes, I&amp;rsquo;m going back to basics. Just some storage and no interactive elements (looking at you cookiewall). No more databases, Hugo runs on almost every webserver. Incl. this one&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;images/gohugoio-card-900x450.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+      <content>&lt;p&gt;Yes, I&amp;rsquo;m going back to basics. Just some storage and no interactive elements (looking at you cookiewall). No more databases, Hugo runs on almost every webserver. Incl. this one
++++
+&lt;img src=&#34;images/gohugoio-card-900x450.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Hugo logo&lt;/p&gt;
 &lt;p&gt;With great anticipation I am transiting my personal blog to &lt;a href=&#34;https://gohugo.io/&#34;&gt;Hugo&lt;/a&gt;. 🚀&lt;/p&gt;
 &lt;h2 id=&#34;why&#34;&gt;Why?&lt;/h2&gt;

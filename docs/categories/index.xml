@@ -7,17 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>(c) 2021 Ramon Moorlag</copyright>
-    <lastBuildDate>Thu, 15 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://moorlag.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>geen-categorie</title>
-      <link>https://moorlag.github.io/categories/geen-categorie/</link>
-      <pubDate>Thu, 15 Jul 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://moorlag.github.io/categories/geen-categorie/</guid>
-      <description></description>
-      <content></content>
-    </item>
-    
+    <lastBuildDate>Fri, 18 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://moorlag.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>inspiration</title>
       <link>https://moorlag.github.io/categories/inspiration/</link>
@@ -44,6 +34,16 @@
       <pubDate>Wed, 16 Dec 2020 00:00:00 +0000</pubDate>
       
       <guid>https://moorlag.github.io/categories/computer-science/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+    <item>
+      <title>geen-categorie</title>
+      <link>https://moorlag.github.io/categories/geen-categorie/</link>
+      <pubDate>Sat, 05 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://moorlag.github.io/categories/geen-categorie/</guid>
       <description></description>
       <content></content>
     </item>

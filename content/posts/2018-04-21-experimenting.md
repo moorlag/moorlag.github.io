@@ -1,12 +1,14 @@
----
-title: "Experimenting"
-date: "2018-04-21"
-categories: 
-  - "inspiration"
-  - "learning"
-coverImage: "Untitled.png"
----
-
++++
+title = "Experimenting"
+date = "2018-04-21"
+author = "Moorlag"
+authorTwitter = "Moorlag" #do not include @
+cover = "/img/Untitled.png"
+tags = ["Inspiration", "computer science"]
+keywords = ["think", "Leap"]
+description = "Eat, sleep, learn & repeat"
+showFullContent = false
++++
 # Eat, sleep, learn & repeat
 
 Based on the song from Fat Boy Slim; [Eat, sleep, Rave & Repeat](https://www.youtube.com/watch?v=3w2kL_4vplU) this is a mantra that sticks. Experimenting!
@@ -40,7 +42,9 @@ And the book [the lean startup](https://amzn.to/2Hiq0RR). It's a great book when
 
 > Eat, sleep, learn & repeat
 
+{{< contact>}}
 <iframe src="https://www.youtube.com/embed/0fzst0kM8pI" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+{{< /contact>}}
 
 ### Current Experiments
 

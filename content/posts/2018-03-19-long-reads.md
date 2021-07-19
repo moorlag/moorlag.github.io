@@ -1,12 +1,14 @@
----
-title: "Long Reads, a long reading list"
-date: "2018-03-19"
-categories: 
-  - "inspiration"
-  - "learning"
-coverImage: "carl-cerstrand-127444-unsplash.jpg"
----
-
++++
+title = "Long Reads, a long reading list"
+date = "2018-03-19"
+author = "Moorlag"
+authorTwitter = "Moorlag" #do not include @
+cover = "/img/carl-cerstrand-127444-unsplash.jpg"
+tags = ["Inspiration", "computer science"]
+keywords = ["think", "Leap"]
+description = "Because lists are everything"
+showFullContent = false
++++
 # Yes, I love long reads
 
 This is just a short blog about a page I started some time ago in draft mode. The long reads that keep me up at night, things I really want to read and that started a new way of seeing things.

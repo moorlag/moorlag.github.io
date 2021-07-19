@@ -1,12 +1,14 @@
----
-title: "Fog, clouds & Google"
-date: "2018-04-01"
-categories: 
-  - "inspiration"
-  - "learning"
-coverImage: "jon-hernandez-415650-unsplash.jpg"
----
-
++++
+title = "Fog, clouds & Google"
+date = "2018-04-01"
+author = "Moorlag"
+authorTwitter = "Moorlag" #do not include @
+cover = "/img/jon-hernandez-415650-unsplash.jpg"
+tags = ["Inspiration", "computer science"]
+keywords = ["think", "Leap"]
+description = "Fog, the cloud of ground level"
+showFullContent = false
++++
 # Fog, just a surface based cloud not going Google.
 
 It's so easy to forget where we came from. Everything always on, always available and automatically saved with no real need to backup. Is this an idyllic world? Or a dystopian future? Is Google the answer?

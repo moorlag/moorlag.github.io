@@ -1,12 +1,15 @@
----
-title: "Things and thought about the BETT"
-date: "2018-01-23"
-categories: 
-  - "computer-science"
-  - "inspiration"
-  - "learning"
-coverImage: "margo-brodowicz-183156.jpg"
----
++++
+title = "Things and thought about the BETT"
+date = "2018-01-23"
+author = "Moorlag"
+authorTwitter = "Moorlag" #do not include @
+cover = "/img/margo-brodowicz-183156.jpg"
+tags = ["Inspiration", "computer science"]
+keywords = ["think", "Leap"]
+description = "Building websites is fun!"
+showFullContent = false
++++
+
 
 # Traveling to... (and yes, this is a growing blog)
 
@@ -20,9 +23,9 @@ With a bag of gadgets, hardware and software licenses I have a field day writing
 
 I like the Boson Science Kit for Micro:Bit (I received a small demo package). With the kit, you can do (or better, students) 50+ projects. The back of all the sensors are magnetic and compatible with Lego. As we know from Micro:Bit everything is tied together with blocks of code. I'm going to build a red button nuclear launch device. Beat that mister Trump ?.
 
-**All the code I build will be available on GitHub.** 
+**All the code I build will be available on GitHub.**
 
-<iframe src="https://www.youtube.com/embed/wxWC9wD7rMQ" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+{{< contact>}}<iframe src="https://www.youtube.com/embed/wxWC9wD7rMQ" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>{{< /contact>}}
 
 ### Meetings & Appointments at and around BETT
 
@@ -39,5 +42,4 @@ Especially with the help of [The Coder's Apprentice](http://www.spronck.net/pyt
 I'll keep you posted about the joy of attending one of the biggest edu tech conference in Europa.
 
 ### Travel?
-
-\[caption id="attachment\_218" align="alignnone" width="150"\]![Off to the BETT](images/margo-brodowicz-183156-150x150.jpg) Photo by [Margo Brodowicz](https://unsplash.com/photos/KZHhnb6XsQI?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/search/photos/travel?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)\[/caption\]
+![Off to the BETT](/img/margo-brodowicz-183156.jpg) Photo by [Margo Brodowicz](https://unsplash.com/photos/KZHhnb6XsQI?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/search/photos/travel?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)\[/caption\]

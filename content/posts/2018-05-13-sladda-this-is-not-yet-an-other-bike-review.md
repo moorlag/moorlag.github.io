@@ -1,16 +1,21 @@
----
-title: "Sladda? This is not yet an other bike review"
-date: "2018-05-13"
-categories: 
-  - "inspiration"
-coverImage: "jesse-williams-356422-unsplash.jpg"
----
 
++++
+title = "Sladda? This is not yet an other bike review"
+date = "2018-05-13"
+author = "Moorlag"
+authorTwitter = "Moorlag" #do not include @
+cover = "/img/jesse-williams-356422-unsplash.jpg"
+tags = ["Inspiration", "computer science"]
+keywords = ["think", "Leap"]
+description = "Sladda, Swedish for skid"
+showFullContent = false
++++
 # Sladda, the IKEA bike
 
 > This is not yet another bike review or _is it._
-> 
+>
 > UPDATE: IKEA recalled the bike and I gave the bike back to IKEA :-(
+> UPDATE: I bought a refurbished bike for roughly 15% of the orginal price :-)
 
 Drinking my coffee in Amsterdam and letting my thoughts go free I noticed quite a few bikes with a blue tire. And that started this blog. Why buy a bike when you can lease one for the price of 3 Starbucks beverages a month. Or why buy a bike preassembled when you can have the fun of building your own bike with an IKEA kit :-) I have been using the bike for over 7 months.
 

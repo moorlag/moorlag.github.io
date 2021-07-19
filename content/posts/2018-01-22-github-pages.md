@@ -1,26 +1,29 @@
----
-title: "Developing websites with Github"
-date: "2018-01-22"
-categories: 
-  - "computer-science"
-  - "inspiration"
-  - "learning"
-coverImage: "joshua-sortino-215039.jpg"
----
++++
+title = "Developing websites with Github"
+date = "2018-01-22"
+author = "Moorlag"
+authorTwitter = "Moorlag" #do not include @
+cover = "/img/joshua-sortino-215039.jpg"
+tags = ["Inspiration", "computer science"]
+keywords = ["think", "Leap"]
+description = "Building websites is fun!"
+showFullContent = false
++++
 
 # Building the next  web with GitHub?
 
 And where do I start as a teacher with GitHub?
 
-\[caption id="attachment\_208" align="alignleft" width="150"\]![Github - Octocat](images/Octocat-150x150.png) Github - Octocat\[/caption\]
+![OctoCat](/img/octocat.png)
 
-In the [Dutch computer science core curriculum](https://www.google.nl/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=0ahUKEwi46LSkg-vYAhUClCwKHTwiDuMQFggoMAA&url=http%3A%2F%2Fwww.slo.nl%2Fdownloads%2F2014%2Finformatica-in-de-bovenbouw-havo-vwo.pdf%2Fdownload&usg=AOvVaw2vGgRe-zQdIqsYV6O9XD82)(pdf) it is stated that students should be aware of coding techniques and data representation. And my students **love** data representation. The love starts with basic html, css and a little javascript. The fun of code is something most students get in a few lessons. And using industry tools like GitHub gives my students a competitive advantage!
+
+In the [Dutch computer science core curriculum](https://www.slo.nl/publish/pages/3080/advies-examenprogramma-informatica-havo-vwo.pdf)(pdf) it is stated that students should be aware of coding techniques and data representation. And my students **love** data representation. The love starts with basic html, css and a little javascript. The fun of code is something most students get in a few lessons. And using industry tools like GitHub gives my students a competitive advantage!
 
 We designed an assignment to develop a basic (and static) website in 15-17 hours; the time does include learning the language. Students can really lose themselves in the assignment. I've seen websites build in not 15-17 but in 30-40 hours. It is really a creative outlet for the young adolescent.
 
 In this blog, I want to get into the practical implications of building websites with students and how to publish them on the web. And in the slipstream how to use industry tools, techniques, and standards.
 
-[Examples of their work can be found in the repository on GitHub.](https://github.com/Piersoncollege/html/wiki) 
+[Examples of their work can be found in the repository on GitHub.](https://github.com/Piersoncollege/html/wiki)
 
 ## Hosting on GitHub
 
@@ -84,14 +87,14 @@ In a short survey, I've learned a lot about using GitHub and updated the guide a
 - Make sure you put your website online when the teacher explains how because otherwise, you won't know how to do it
 - Work accurately when building a website. A small mistake can have a big impact on the website and a small alteration can solve a big problem.
 
-I've already blogged about [Jekyll](http://ramonmoorlag.nl/2018/01/21/getting-started-with-jekyll/), a 'new' way to develop static websites.
 
+{{< contact>}}
 <iframe src="https://www.youtube.com/embed/2MsN8gpT6jY?rel=0" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
-
+{{< /contact>}}
  
 
 ## Looking up?
 
 Why this picture? Again a Wonderfull free picture from Unsplash.
 
-\[caption id="attachment\_205" align="alignnone" width="150"\]![Unsplash Beyond the Cosmos by Joshua Sortino](images/joshua-sortino-215039-150x150.jpg) [Unsplash Beyond the Cosmos](https://unsplash.com/photos/LqKhnDzSF-8) by [Joshua Sortino](https://unsplash.com/@sortino)\[/caption\]
+![Unsplash Beyond the Cosmos by Joshua Sortino](/img/joshua-sortino-215039.jpg) [Unsplash Beyond the Cosmos](https://unsplash.com/photos/LqKhnDzSF-8) by [Joshua Sortino](https://unsplash.com/@sortino)

@@ -1,7 +1,7 @@
 ---
 title: "Student centered learning"
 date: "2018-05-29"
-categories: 
+categories:
   - "computer-science"
   - "inspiration"
   - "learning"

@@ -1,15 +1,15 @@
----
-title: "Lockdown teaching? 6 tips to help with emergency teaching!"
-date: "2020-12-18"
-categories: 
-  - "inspiration"
-  - "learning"
-tags: 
-  - "emergancy-teaching"
-  - "lockdown"
-  - "tips"
-coverImage: "matt-seymour-69zVsGRejY4-unsplash-scaled.jpg"
----
++++
+title = "Lockdown teaching"
+date = "2017-08-30"
+author = "Moorlag"
+authorTwitter = "Moorlag" #do not include @
+cover = "/img/matt-seymour-69zVsGRejY4-unsplash-scaled.jpg"
+tags = ["emergancyteaching", "lockdown", "tips"]
+keywords = ["emergancyteaching", "lockdown", "tips"]
+description = "6 tips to help with emergancuy teaching"
+showFullContent = false
++++
+
 
 ## Emergency teaching during a lockdown
 
@@ -19,7 +19,7 @@ Let's call it by its name. We are in a phase of emergency teaching. This isn't r
 
 This was the hardest one for me. I've been teaching from home for quite some time and I know it's a challenge for everyone. Staying at home and losing control over your schedule. Or, as one of my students called it, losing the freedom to save us all. Accepting the situation is a huge step. Yes, we are at home, yes, my contact with students is different, yes, in other situations, I could XYZ. It helps no one to keep affirming that offline teaching is better. What does help is accepting and offering help! And keep perspective. This lockdown is going to end.
 
-![Keep perspective. This lockdown is going to end](images/Screenshot-2020-12-18-at-13.13.27-300x143.png)
+![Keep perspective. This lockdown is going to end](/img/Screenshot-2020-12-18-at-13.13.27.png)
 
 Lockdown, keep perspective!
 
@@ -37,9 +37,9 @@ Set boundaries and manage them proactively. With family members and disturbing y
 
 ## Tip 5 Mental fitness
 
-Our brains need stimulation. Try to find a new hobby or learn a new skill. I started baking bread. One of the great communities for a lot of things (and a lot of garbage) is Reddit. I learned a lot from [Breadit](https://www.reddit.com/r/Breadit/). I was lucky to have a great mentor (thanks Rico!), he is famous for his breads. Share the newly acquired skills (see tip 2). I've started blogging again! It's a good way to organize thoughts, and the product of that organizing is always fun to put in writing. Daily I ride my bicycle, the [IKEA](http://ramonmoorlag.nl/2018/05/13/sladda-this-is-not-yet-an-other-bike-review/) one (from a previous blog)
+Our brains need stimulation. Try to find a new hobby or learn a new skill. I started baking bread. One of the great communities for a lot of things (and a lot of garbage) is Reddit. I learned a lot from [Breadit](https://www.reddit.com/r/Breadit/). I was lucky to have a great mentor (thanks Rico!), he is famous for his breads. Share the newly acquired skills (see tip 2). I've started blogging again! It's a good way to organize thoughts, and the product of that organizing is always fun to put in writing. Daily I ride my bicycle, the [IKEA](../2018-05-13-sladda-this-is-not-yet-an-other-bike-review) one (from a previous blog)
 
-![](images/Screenshot-2020-12-18-at-13.17.17.png)
+![](/img/Screenshot-2020-12-18-at-13.17.17.png)
 
 Lockdown mental fitness
 

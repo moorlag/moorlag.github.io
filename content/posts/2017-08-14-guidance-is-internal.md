@@ -1,11 +1,14 @@
----
-title: "Commemorative speech: Guidance is internal"
-date: "2017-08-14"
-categories: 
-  - "computer-science"
-  - "inspiration"
-  - "learning"
----
++++
+title = "Commemorative speech: Guidance is internal"
+date = "2017-08-14"
+author = "Moorlag"
+authorTwitter = "Moorlag" #do not include @
+cover = "/img/sparkle.jpg"
+tags = ["Inspiration", "computer science"]
+keywords = ["First attempt", "Second attempt"]
+description = "Ready for launch"
+showFullContent = false
++++
 
 Commemorative speeches, ds. Pierson College. In Dutch.
 

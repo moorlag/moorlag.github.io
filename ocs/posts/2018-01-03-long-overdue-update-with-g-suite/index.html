@@ -1,0 +1,257 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  
+    <title>Let&#39;s automate the F* out of G Suite with GAM and Bulk operations :: Moorlag&#39;s Blog</title>
+  
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="Let&#39;s have some fun with Batching" />
+<meta name="keywords" content="think, Leap" />
+<meta name="robots" content="noodp" />
+<link rel="canonical" href="https://moorlag.github.io/posts/2018-01-03-long-overdue-update-with-g-suite/" />
+
+
+
+
+<link rel="stylesheet" href="https://moorlag.github.io/assets/style.css">
+
+
+
+
+
+
+<link rel="apple-touch-icon" href="https://moorlag.github.io/img/apple-touch-icon-192x192.png">
+
+  <link rel="shortcut icon" href="https://moorlag.github.io/img/favicon/orange.png">
+
+
+
+<meta name="twitter:card" content="summary" />
+
+  
+    <meta name="twitter:site" content="https://www.Moorlag.github.io" />
+  
+    <meta name="twitter:creator" content="Moorlag" />
+
+
+
+<meta property="og:locale" content="en" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Let&#39;s automate the F* out of G Suite with GAM and Bulk operations">
+<meta property="og:description" content="Let&#39;s have some fun with Batching" />
+<meta property="og:url" content="https://moorlag.github.io/posts/2018-01-03-long-overdue-update-with-g-suite/" />
+<meta property="og:site_name" content="Moorlag&#39;s Blog" />
+
+  <meta property="og:image" content="https://moorlag.github.io/img/arthur-osipyan-455426.jpg">
+
+<meta property="og:image:width" content="2048">
+<meta property="og:image:height" content="1024">
+
+
+  <meta property="article:published_time" content="2018-01-03 00:00:00 &#43;0000 UTC" />
+
+
+
+
+
+
+
+
+
+
+
+
+</head>
+<body class="orange">
+
+
+<div class="container full headings--one-size">
+
+  <header class="header">
+  <div class="header__inner">
+    <div class="header__logo">
+      <a href="/">
+  <div class="logo">
+    Moorlag
+  </div>
+</a>
+
+    </div>
+    
+      <div class="menu-trigger">menu</div>
+    
+  </div>
+  
+    <nav class="menu">
+  <ul class="menu__inner menu__inner--desktop">
+    
+      
+        
+          <li><a href="/about">About</a></li>
+        
+      
+        
+          <li><a href="/contact">Contact</a></li>
+        
+      
+        
+          <li><a href="/inspiration">Inspiration</a></li>
+        
+      
+      
+    
+
+    
+  </ul>
+
+  <ul class="menu__inner menu__inner--mobile">
+    
+      
+        <li><a href="/about">About</a></li>
+      
+    
+      
+        <li><a href="/contact">Contact</a></li>
+      
+    
+      
+        <li><a href="/inspiration">Inspiration</a></li>
+      
+    
+    
+  </ul>
+</nav>
+
+  
+</header>
+
+
+  <div class="content">
+    
+<div class="post">
+  <h1 class="post-title">
+    <a href="https://moorlag.github.io/posts/2018-01-03-long-overdue-update-with-g-suite/">Let&rsquo;s automate the F* out of G Suite with GAM and Bulk operations</a></h1>
+  <div class="post-meta">
+    
+      <span class="post-date">
+        2018-01-03 
+      </span>
+    
+    
+    <span class="post-author">:: Moorlag</span>
+    
+  </div>
+
+  
+  <span class="post-tags">
+    
+    #<a href="https://moorlag.github.io/tags/inspiration/">Inspiration</a>&nbsp;
+    
+    #<a href="https://moorlag.github.io/tags/computer-science/">computer science</a>&nbsp;
+    
+  </span>
+  
+
+  
+    <img src="https://moorlag.github.io/img/arthur-osipyan-455426.jpg" class="post-cover" alt="Let&#39;s automate the F* out of G Suite with GAM and Bulk operations" />
+  
+
+  
+
+  <div class="post-content"><div>
+        <h1 id="yes-this-is-a-long-overdue-update-g-suite">Yes, this is a long overdue update G Suite.<a href="#yes-this-is-a-long-overdue-update-g-suite" class="hanchor" ariaLabel="Anchor">&#8983;</a> </h1>
+<p>Yesterday I was called by the lovely people of Google. I started transferring a Google Apps for business /G Suite installation from one URL to a different URL and I got stuck. Glenn from the support desk saw that I left an installation not finished and reached out to me. And what a great service I got. There was a small problem with the MX records in the Direct Admin panel. How I hate the Direct Admin / MX/DNS records is an entirely different blog&hellip; but it&rsquo;s working.</p>
+<p>Long story short, the backend of my domain is now run on Google Apps. It&rsquo;s so convenient and easy to work with. After finishing the transfer I needed to find a way to remove a lot of mock users from a previous project. The solution was GAM (short for Google Administration?). A command prompt interface (no GUI!) to edit an entire domain. It&rsquo;s scary at first, but very easy to learn. The startup guide on Github is easy to follow and I&rsquo;ve had my GAM running in no time. Let&rsquo;s automate the F* out of G Suite ? Que Bulk operations</p>
+<h2 id="tips-for-easy-but-complex-bulk-operations">Tips for easy but complex Bulk operations.<a href="#tips-for-easy-but-complex-bulk-operations" class="hanchor" ariaLabel="Anchor">&#8983;</a> </h2>
+<p>Doing a lot with little &hellip;. use batch files!</p>
+<ul>
+<li>Use a spreadsheet</li>
+<li>Compiling a long list of changing data? Use the fill tool!</li>
+<li>Combine different items with &quot; = A1 &amp; &quot; &quot; &amp; B1</li>
+<li>The &quot; &quot; is for the space between two different commands</li>
+<li>Copy the list with combined commands in a txt-file and</li>
+<li>With GAM batch <!-- raw HTML omitted --> you can execute the magic</li>
+</ul>
+<p><img src="/img/hipster.png" alt="G suite profile picture"></p>
+<p>Icons made by <a href="https://www.flaticon.com/authors/smashicons" title="Smashicons">Smashicons</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a> is licensed by <a href="http://creativecommons.org/licenses/by/3.0/" title="Creative Commons BY 3.0">CC 3.0 BY</a></p>
+<h3 id="to-do-list">To do list<a href="#to-do-list" class="hanchor" ariaLabel="Anchor">&#8983;</a> </h3>
+<p>The following items are done or still in progress.</p>
+<ul>
+<li>Remove old user accounts (DONE)</li>
+<li>Adding all services for Google (DONE)</li>
+<li>Adding <a href="https://support.google.com/googlehome/answer/7571892?co=GENIE.Platform%3DAndroid&amp;hl=en">Google Home</a> (NOT DONE)</li>
+<li>Enjoying the ' I did it all myself'-feeling (partially DONE).</li>
+</ul>
+<p>UPDATE: Yes, I am in love ❤️with <a href="https://github.com/jay0lee/GAM">GAM</a>. Automatic update every Google Profile picture (the icon on the right) with this command; gam user wordpress update photo hipster.png.The hipster.png is courtesy of Smashicons. GAM is also very friendly with batch commands. With the batch commands, I have a different email account for every different service (facebook@, xbox@, ect).</p>
+<p><img src="/img/bash.png" alt="GAM Command prompt G suite"></p>
+<p>What is Google Apps / G Suite? This mysterious video says it all. This is how it could be. <strong>When your apps begin with a G.</strong></p>
+
+
+<iframe src="https://www.youtube.com/embed/EZmXEFGFeNA" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+
+
+
+      </div></div>
+
+  
+  
+<div class="pagination">
+    <div class="pagination__title">
+        <span class="pagination__title-h">Read other posts</span>
+        <hr />
+    </div>
+    <div class="pagination__buttons">
+        
+        <span class="button previous">
+            <a href="https://moorlag.github.io/posts/2018-01-21-getting-started-with-jekyll/">
+                <span class="button__icon">←</span>
+                <span class="button__text">Getting started with Jekyll</span>
+            </a>
+        </span>
+        
+        
+        <span class="button next">
+            <a href="https://moorlag.github.io/posts/2017-09-01-starting/">
+                <span class="button__text">Starting</span>
+                <span class="button__icon">→</span>
+            </a>
+        </span>
+        
+    </div>
+</div>
+
+  
+
+  
+
+</div>
+
+  </div>
+
+  
+    <footer class="footer">
+  <div class="footer__inner">
+    
+      <div class="copyright copyright--user">
+        <span>(c) 2021 Ramon Moorlag</span>
+    
+        <span>:: Theme made by <a href="https://twitter.com/panr">panr</a></span>
+      </div>
+  </div>
+</footer>
+
+<script src="https://moorlag.github.io/assets/main.js"></script>
+<script src="https://moorlag.github.io/assets/prism.js"></script>
+
+
+
+
+
+
+
+  
+</div>
+
+</body>
+</html>

@@ -19,7 +19,7 @@ With great anticipation I am transiting my personal blog to Hugo. 🚀
 Why?  It&amp;rsquo;s fun to learn something new! It&amp;rsquo;s quick! The quickstart only takes 7 minutes! It&amp;rsquo;s another way to use MarkDown (awesome!) And&amp;hellip; no more updates  Under the hood of Hugo  The world’s fastest framework for building websites</description>
       <content>&lt;p&gt;Yes, I&amp;rsquo;m going back to basics. Just some storage and no interactive elements (looking at you cookiewall). No more databases, Hugo runs on almost every webserver. Incl. this one
 +++
-&lt;img src=&#34;images/gohugoio-card-900x450.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;img src=&#34;https://moorlag.github.io/img/gohugoio-card.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Hugo logo&lt;/p&gt;
 &lt;p&gt;With great anticipation I am transiting my personal blog to &lt;a href=&#34;https://gohugo.io/&#34;&gt;Hugo&lt;/a&gt;. 🚀&lt;/p&gt;
 &lt;h2 id=&#34;why&#34;&gt;Why?&lt;/h2&gt;
@@ -46,134 +46,20 @@ Hugo is one of the most popular open-source static site generators. With its ama
     </item>
     
     <item>
-      <title>Hello Hugo</title>
-      <link>https://moorlag.github.io/posts/hello-hugo/</link>
-      <pubDate>Sun, 27 Jun 2021 21:03:21 +0200</pubDate>
-      
-      <guid>https://moorlag.github.io/posts/hello-hugo/</guid>
-      <description>Hello and welcome,
-This is my first blog based on the Go Hugo framework. This framework runs locally on my machine and generates output that can be hosted without a database. Cool! And, everything page and post is based on MarkDown. Isn&amp;rsquo;t that cool?</description>
-      <content>&lt;p&gt;Hello and welcome,&lt;/p&gt;
-&lt;p&gt;This is my first blog based on the Go Hugo framework.
-This framework runs locally on my machine and generates output that can be hosted without a database.
-Cool! And, everything page and post is based on MarkDown. Isn&amp;rsquo;t that cool?&lt;/p&gt;
-</content>
-    </item>
-    
-    <item>
-      <title>Hello world - yet another blog</title>
-      <link>https://moorlag.github.io/posts/hello/</link>
-      <pubDate>Sat, 26 Jun 2021 21:38:01 +0200</pubDate>
-      
-      <guid>https://moorlag.github.io/posts/hello/</guid>
-      <description>+++
-❕ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam nec interdum metus. Aenean rutrum ligula sodales ex auctor, sed tempus dui mollis. Curabitur ipsum dui, aliquet nec commodo at, tristique eget ante. Donec quis dolor nec nunc mollis interdum vel in purus. Sed vitae leo scelerisque, sollicitudin elit sed, congue ante. In augue nisl, vestibulum commodo est a, tristique porttitor est. Proin laoreet iaculis ornare. Nullam ut neque quam.</description>
-      <content>&lt;p&gt;+++&lt;/p&gt;
-&lt;p&gt;❕ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam nec interdum metus. Aenean rutrum ligula sodales ex auctor, sed tempus dui mollis. Curabitur ipsum dui, aliquet nec commodo at, tristique eget ante. &lt;strong&gt;Donec quis dolor nec nunc mollis interdum vel in purus&lt;/strong&gt;. Sed vitae leo scelerisque, sollicitudin elit sed, congue ante. In augue nisl, vestibulum commodo est a, tristique porttitor est. Proin laoreet iaculis ornare. Nullam ut neque quam.&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Fusce pharetra suscipit orci nec tempor. Quisque vitae sem sit amet sem mollis consequat. Sed at imperdiet lorem. Vestibulum pharetra faucibus odio, ac feugiat tellus sollicitudin at. Pellentesque varius tristique mi imperdiet dapibus. Duis orci odio, sodales lacinia venenatis sit amet, feugiat et diam.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;Sed a leo id risus venenatis vulputate non quis nulla. Aenean nisl quam, lacinia pulvinar orci sit amet, eleifend eleifend dui. Nulla tempor ligula leo, eu vehicula quam condimentum a. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla gravida tristique nunc sed semper. Morbi nec felis odio.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Sed efficitur, lacus ac scelerisque pellentesque, lectus risus dignissim nisl, fermentum semper lectus diam eget lacus.&lt;/li&gt;
-&lt;li&gt;Nunc ornare purus enim, id eleifend mauris vestibulum volutpat.&lt;/li&gt;
-&lt;li&gt;Aenean facilisis ut ipsum condimentum ultrices.&lt;/li&gt;
-&lt;li&gt;Fusce sed metus vulputate, lobortis purus et, finibus purus. Suspendisse quis posuere lorem. Vivamus vulputate nec risus in pulvinar.&lt;/li&gt;
-&lt;/ul&gt;
-</content>
-    </item>
-    
-    <item>
-      <title>Inky pHat and Raspberry Pi. 5 How To Tips And Tricks Automate Weather Reports.</title>
-      <link>https://moorlag.github.io/posts/2020-12-16-inky-phat-and-raspberry-pi-5-tips/</link>
-      <pubDate>Wed, 16 Dec 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://moorlag.github.io/posts/2020-12-16-inky-phat-and-raspberry-pi-5-tips/</guid>
-      <description>For the annual i&amp;amp;i-conference, I try to find a &amp;lsquo;new&amp;rsquo; gadget for speakers and board members. Last year we bought Inky Phats with a Raspberry Pi Zero W. To be used as interactive name badges. A great success! In this article, I&amp;rsquo;ll share 5 tips on using the display, and I&amp;rsquo;ll be discussing a few problems. Inky pHat is an e-paper display with a dedicated controller in the PCB. Plug and play!</description>
-      <content>&lt;p&gt;For the annual i&amp;amp;i-conference, I try to find a &amp;lsquo;new&amp;rsquo; gadget for speakers and board members. Last year we bought Inky Phats with a Raspberry Pi Zero W. To be used as interactive name badges. A great success! In this article, I&amp;rsquo;ll share 5 tips on using the display, and I&amp;rsquo;ll be discussing a few problems. Inky pHat is an e-paper display with a dedicated controller in the PCB. Plug and play! And big thanks for the &lt;a href=&#34;https://learn.pimoroni.com/tutorial/sandyj/getting-started-with-inky-phat&#34;&gt;excellent documentation&lt;/a&gt; @Pimoroni!&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;images/inky_phat.jpg&#34; alt=&#34;Inky pHat, a Raspberry Pi with a pHat on top of it. Displaying a squid&#34;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://shop.pimoroni.com/products/inky-phat?variant=12549254217811&#34;&gt;Inky pHat&lt;/a&gt; by Pimoroni is easy to use &amp;lsquo;phat&amp;rsquo; A HAT is an extension for the Raspberry Pi platform. Hardware attached on top or HAT. With the sturdy HAT construction, there a three benefits;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;No soldering&lt;/strong&gt;; plug it onto the Raspberry Pi.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Robust mechanical design&lt;/strong&gt;, it can handle a school environment.&lt;/li&gt;
-&lt;li&gt;&amp;lsquo;&lt;strong&gt;Autoconfiguration&lt;/strong&gt;,&amp;rsquo; all the software is provided. Just attached and install. &amp;lsquo;Plug and play/pray.&amp;rsquo;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;I am thrilled with the HAT-system. It just works, no tinkering and no failure with a faulty connection. The design can handle some rough handling (always be careful when handling hardware!), and with the software backend from the manufacture, it&amp;rsquo;s just a few commands in the CLI, and it works. Most of the times ;-)&lt;/p&gt;
-&lt;h2 id=&#34;tip-1-how-to-update-raspberry-pi&#34;&gt;Tip 1 how to update Raspberry Pi&lt;/h2&gt;
-&lt;p&gt;It&amp;rsquo;s always good to work with an updated Raspberry Pi. &lt;a href=&#34;https://askubuntu.com/questions/94102/what-is-the-difference-between-apt-get-update-and-upgrade&#34;&gt;Sudo apt-get update, sudo apt-get upgrade&lt;/a&gt;. It will take some time when this is the first time you are using their commands. Keep in mind; these commands are going to be typed into the terminal or SSH. To keep things organized, I always end the update sessions with sudo apt-get &lt;strong&gt;autoclean&lt;/strong&gt;. This removes all the no longer used files after an update.&lt;/p&gt;
-&lt;h2 id=&#34;tip-2-please-use-a-stable-power-supply&#34;&gt;Tip 2 Please use a stable power supply&lt;/h2&gt;
-&lt;p&gt;It sounds like a normal thing to do, right&amp;hellip; but I found out the hard way that this needs some TCL. The Raspberry Pi was giving strange errors, rebooted, and shutdown for no apparent reason. The installation on the sd-card went corrupt, and I couldn&amp;rsquo;t find the problem. I swapped the card, reinstalled the OS on the card, and even swapped Raspberry Pis. And with some deduction, Sherlock would be proud; I discovered a faulty power supply to be the problem. Double-check the quality of the Micro USB cable! And be careful when installing the Inky pHat. The pins of the Raspberry Pi and Inky pHat need to be aligned. DO-NOT-FORCE.&lt;/p&gt;
-&lt;h2 id=&#34;tip-3-how-to-install-software-with-cli&#34;&gt;Tip 3 How to install software with CLI&lt;/h2&gt;
-&lt;p&gt;The documentation by Pimoroni is excellent. &lt;a href=&#34;https://learn.pimoroni.com/tutorial/sandyj/getting-started-with-inky-phat&#34;&gt;Getting Started With Inky pHat&lt;/a&gt; is a great start. It helps with the correct commands for the CLI. Again, this display is a &lt;em&gt;command-line&lt;/em&gt; interface only. It&amp;rsquo;s a quick installation with a few commandos. I&amp;rsquo;ve summarized the commands under this text block. The dollar ($) sign is a new line on the CLI. Keep in mind; this is a United Kindom based company. And over there, color is spelled with &amp;lsquo;ou.&amp;rsquo; ;-).&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;$ curl https://get.pimoroni.com/inky | bash
-$ cd /home/pi/Pimoroni/inky/examples
-$ python name-badge.py --type &amp;quot;auto&amp;quot; --colour &amp;quot;red&amp;quot; --name &amp;quot;Ramon&amp;quot;
-&lt;/code&gt;&lt;/pre&gt;&lt;h2 id=&#34;tip-4-automate-the-sht-with-cron&#34;&gt;Tip 4 Automate the sh*t with CRON&lt;/h2&gt;
-&lt;p&gt;CRON is the automation tool in Linux. It&amp;rsquo;s &amp;lsquo;easy&amp;rsquo; to use. I had a few challenges when I wanted to automate the update of the display. CRON was for me. I never used it. This &lt;a href=&#34;https://forums.pimoroni.com/t/need-help-with-inky-phat-crontab-update/7207&#34;&gt;resource&lt;/a&gt; helped me a lot! I started with calling the python script directly from CRON. After a few failures, I found that CRON does understand .sh scripts. This is my .sh script. I called it phat.sh. Open a new file with nano phat.sh. Be in the root of your folders; cd is the command to return to the root. Exit nano with ctrl+x and save (!) the file. After saving, make the file executable. Type in the same folder as the phat.sh : &lt;em&gt;chmod +x phat.sh&lt;/em&gt;&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;#!/bin/bash
-cd /home/pi/Pimoroni/inky/examples/phat/
-python weather-phat.py --colour red
-&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;In the CRON tab, I added the following. The /10 executes the script every 10 minutes (starting at .0 every hour)—only between 8 and 22 hrs. The bash is used to run the script. Pay attention to the &lt;strong&gt;absolute&lt;/strong&gt; path with a / at the beginning.&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;*/10 8-22 * * * * bash /home/pi/phat.sh
-&lt;/code&gt;&lt;/pre&gt;&lt;h2 id=&#34;tip-5-this-works-whats-next&#34;&gt;Tip 5 This works, what&amp;rsquo;s next?&lt;/h2&gt;
-&lt;p&gt;And how what? You have a mobile weather station. It runs from a power bank or even &lt;a href=&#34;https://www.hackster.io/news/pisugar-is-a-compact-battery-solution-designed-specifically-for-the-raspberry-pi-zero-416b503732e6&#34;&gt;a dedicated battery.&lt;/a&gt; I&amp;rsquo;m going to install it on the fridge with a micro USB cable to provide power. With the 10-minute update cycle, the screen isn&amp;rsquo;t heavily used and will work for quite some time. &lt;strong&gt;Inky Phat is a fun display&lt;/strong&gt;. The use cases are immense, and I am slowly figuring out what else I can build with it.&lt;/p&gt;
-</content>
-    </item>
-    
-    <item>
-      <title>Secret Santa in 15 minutes? Unlock Your Inner Mailninja with YAMM!</title>
-      <link>https://moorlag.github.io/posts/2020-12-05-secret-santa-in-15-minutes-unlock-your-inner-mailninja-with-yamm/</link>
-      <pubDate>Sat, 05 Dec 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://moorlag.github.io/posts/2020-12-05-secret-santa-in-15-minutes-unlock-your-inner-mailninja-with-yamm/</guid>
-      <description>In this blog, I&amp;rsquo;ll share some insights and tips when I organized Secret Santa. Sounds easy, doesn&amp;rsquo;t it. Organizing Secret Santa with only superpowers. With my blog, I hope you can also use the superpowers I used to organize Secret Santa in 15 minutes. First I used Google Forms. This was a major thing. What information is helpful and gives a nice insight into the &amp;lsquo;giftee&amp;rsquo;? With this experiment, I tried my first Add-On, and we are now in love.</description>
-      <content>&lt;p&gt;&lt;img src=&#34;images/yamm_logo.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;p&gt;In this blog, I&amp;rsquo;ll share some insights and tips when I organized Secret Santa. Sounds easy, doesn&amp;rsquo;t it. Organizing Secret Santa with only superpowers. With my blog, I hope you can also use the superpowers I used to organize Secret Santa in 15 minutes. First I used Google Forms. This was a major thing. What information is helpful and gives a nice insight into the &amp;lsquo;giftee&amp;rsquo;? With this experiment, I tried my first Add-On, and we are now in love. Add-ons make dull-tasks fun! (&amp;hellip; or at least simpeler)&lt;/p&gt;
-&lt;h2 id=&#34;the-secret-santa-questions-i-used&#34;&gt;The Secret Santa questions I used&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Name (yes, you need to ask)&lt;/li&gt;
-&lt;li&gt;Email&lt;/li&gt;
-&lt;li&gt;What makes you happy?&lt;/li&gt;
-&lt;li&gt;What is your favorite color? (in a selection list)&lt;/li&gt;
-&lt;li&gt;What is your lucky number?&lt;/li&gt;
-&lt;li&gt;What is the maiden name of your mother (ow, wait this isn&amp;rsquo;t a credit card hacking scam)&lt;/li&gt;
-&lt;li&gt;How would you rate 2020?&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;and-then-how-can-i-used-the-earlier-mentioned-super-powers-with-yamm&#34;&gt;And then? How can I used the earlier mentioned Super Powers With YAMM?&lt;/h2&gt;
-&lt;p&gt;With that list (&lt;strong&gt;pro-tip&lt;/strong&gt; export it to a sheet) the fun starts. I used &lt;a href=&#34;https://yet-another-mail-merge.com/&#34;&gt;YAMM&lt;/a&gt; (Yet-another-Mail-Merge), free of usage with 50 mailmerges/day. Like any decent Mail-Merger, it used the first line as a guide. So the list is now used as a data collection; keep the titles simple; name, email, happy, color, number, 2020. I used the &lt;a href=&#34;https://support.yet-another-mail-merge.com/hc/en-us&#34;&gt;documentation&lt;/a&gt; a lot. An excellent example of good documentation. There are &lt;a href=&#34;https://support.yet-another-mail-merge.com/hc/en-us/articles/210729589-Use-a-predesigned-template-from-our-gallery&#34;&gt;free themed email templates&lt;/a&gt;! And now the fun continues. Do not only provide the &amp;lsquo;gifter&amp;rsquo; with the data of the &amp;lsquo;giftee&amp;rsquo;. Provide examples of gifts, suggestions for poems/nice letters and don&amp;rsquo;t be afraid to write an example Haiku :-)&lt;/p&gt;
-&lt;p&gt;The &amp;laquo; &amp;raquo; are the placeholders for the titles from the first line from the Sheet. &amp;laquo;User_Name&amp;raquo; here is used. Notice the camelbacks; the Two Capitals? Be &lt;strong&gt;very&lt;/strong&gt; consequent with capitals! Via Add-Ons in the Sheet. Easy right?&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;images/install_yamm1.png&#34; alt=&#34;Install YAMM open add-on menu&#34;&gt;&lt;/p&gt;
-&lt;p&gt;Add &amp;lsquo;Add-ons&amp;rsquo;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;images/merry_christmas.PNG&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;p&gt;Example template - free to use -&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=-dAFP3YyAWo&amp;amp;ab&#34;&gt;https://www.youtube.com/watch?v=-dAFP3YyAWo&amp;amp;ab&lt;/a&gt;_channel=YetAnotherMailMerge&lt;/p&gt;
-&lt;h2 id=&#34;these-are-tips-to-be-an-email-ninja&#34;&gt;These are tips to be an Email ninja&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Select a themed email template&lt;/li&gt;
-&lt;li&gt;Double-check before sending&lt;/li&gt;
-&lt;li&gt;Track (!) opening rates. So we can nudge non-openers&lt;/li&gt;
-&lt;li&gt;Provide shops links&lt;/li&gt;
-&lt;li&gt;And repeat the suggested amount of money per gift&lt;/li&gt;
-&lt;li&gt;Nudge, repeat, rinse repeat&lt;/li&gt;
-&lt;li&gt;Provide an optional unboxing party.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=o2Jh1ABd7XM&amp;amp;feature=emb&#34;&gt;https://www.youtube.com/watch?v=o2Jh1ABd7XM&amp;amp;feature=emb&lt;/a&gt;_logo&amp;amp;ab_channel=YetAnotherMailMerge&lt;/p&gt;
-&lt;p&gt;Quick video to install YAMM&lt;/p&gt;
-</content>
-    </item>
-    
-    <item>
       <title>AxiDraw &amp; Snap!cloud, een gouden combinatie?! Ga aan de slag!</title>
       <link>https://moorlag.github.io/posts/2020-11-22-axidraw-snapcloud-een-gouden-combinatie-ga-aan-de-slag/</link>
       <pubDate>Sun, 22 Nov 2020 00:00:00 +0000</pubDate>
       
       <guid>https://moorlag.github.io/posts/2020-11-22-axidraw-snapcloud-een-gouden-combinatie-ga-aan-de-slag/</guid>
       <description>Ga er maar aan staan, een snelle handleiding over AxiDraw is er niet. Het gebruik ervan is bedriegelijk eenvoudig en tegelijkertijd bijzonder complex. Toch probeer ik een &amp;lsquo;ga aan de slag!&amp;rsquo; te schrijven.
-https://www.youtube.com/watch?v=5492ZjivAQ0&amp;amp;ab_channel=EvilMadScientist
-AxiDraw promo video
+ AxiDraw promo video
 AxiDraw Een aantal zaken zijn van belang. Een SVG (meer info) is hét bestandsformaat waar je het meeste mee kunt. Het is een 2d-vector formaat en dat levert door de schaalbaarheid voordelen op. In het voorbeeld kun je ook zien wat het verschil is tussen een SVG en een PNG bestand.</description>
       <content>&lt;p&gt;Ga er maar aan staan, een snelle handleiding over AxiDraw is er niet. Het gebruik ervan is bedriegelijk eenvoudig en tegelijkertijd bijzonder complex. Toch probeer ik een &amp;lsquo;ga aan de slag!&amp;rsquo; te schrijven.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=5492ZjivAQ0&amp;amp;ab&#34;&gt;https://www.youtube.com/watch?v=5492ZjivAQ0&amp;amp;ab&lt;/a&gt;_channel=EvilMadScientist&lt;/p&gt;
+
+
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/5492ZjivAQ0&#34; title=&#34;YouTube video player&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
+
+
 &lt;p&gt;AxiDraw promo video&lt;/p&gt;
 &lt;h2 id=&#34;axidraw&#34;&gt;AxiDraw&lt;/h2&gt;
 &lt;p&gt;Een aantal zaken zijn van belang. Een SVG (&lt;a href=&#34;https://fileinfo.com/extension/svg&#34;&gt;meer info&lt;/a&gt;) is hét bestandsformaat waar je het meeste mee kunt. Het is een 2d-vector formaat en dat levert door de schaalbaarheid voordelen op. In het voorbeeld kun je ook zien wat het verschil is tussen een SVG en een PNG bestand. De PNG wordt door interpretatie van Inkscape opgesplit in losse pixels. De SVG levert doordat het een vectortekening is directe lijnen op.&lt;/p&gt;
@@ -181,16 +67,20 @@ AxiDraw Een aantal zaken zijn van belang. Een SVG (meer info) is hét bestandsfo
 &lt;p&gt;Snap! kan eenvoudig bijhouden hoe een tekening getekend wordt. Doe dit via settings -&amp;gt; log pen vector. Daarna kun je een vector (SVG) dowloaden.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;img src=&#34;images/Screenshot-2020-11-22-at-18.50.27.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://moorlag.github.io/img/Screenshot-2020-11-22-at-18.50.27.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;img src=&#34;images/Screenshot-2020-11-22-at-18.51.23-1.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://moorlag.github.io/img/Screenshot-2020-11-22-at-18.51.23-1.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Log pen vectors aanvinken, daarna rechtsonderin via Stage en rechtermuisknop export -&amp;gt; SVG&lt;/p&gt;
 &lt;p&gt;Onderstaande voorbeeld komt uit de &lt;a href=&#34;https://snap.berkeley.edu/examples&#34;&gt;example directory&lt;/a&gt; van Snap!.&lt;/p&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;p&gt;&lt;img src=&#34;images/Untitled-708x1024.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;
+
+&lt;iframe allowfullscreen allow=&#34;geolocation; microphone; camera&#34; frameborder=&#34;0&#34; src=&#34;https://snap.berkeley.edu/embed?project=4trispi&amp;amp;user=cynthiaso&amp;amp;showTitle=true&amp;amp;showAuthor=true&amp;amp;editButton=true&amp;amp;pauseButton=true&#34; width=&#34;480&#34; height=&#34;390&#34;&gt;&lt;/iframe&gt;
+
+
+&lt;img src=&#34;https://moorlag.github.io/img/Untitled-scaled.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Boven een SVG, onder een PNG&lt;/p&gt;
 </content>
     </item>
@@ -234,19 +124,6 @@ Uit Engeland komt het bedrijf &lt;a href=&#34;http://www.inventblocks.com&#34;&g
     </item>
     
     <item>
-      <title>Brave, a new world?</title>
-      <link>https://moorlag.github.io/posts/2019-04-13-brave-a-new-world/</link>
-      <pubDate>Sat, 13 Apr 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://moorlag.github.io/posts/2019-04-13-brave-a-new-world/</guid>
-      <description>The internet has changed us as a society. It has penetrated (almost) every aspect of our lives. Being online was a new outlet when I was young. I still hear my mother raising her voice when the telephone company sends its bill for the monthly usage. And still, I was allowed online. Under the supervision of my mother, who thought that it was a great invention at the time (1992/1993).</description>
-      <content>&lt;p&gt;The internet has changed us as a society. It has penetrated (almost) every aspect of our lives. Being online was a new outlet when I was young. I still hear my mother raising her voice when the telephone company sends its bill for the monthly usage. And still, I was allowed online. Under the supervision of my mother, who thought that it was a great invention at the time (1992/1993).&lt;/p&gt;
-&lt;p&gt;The internet is evolving in ways I cannot predict. But what I do know is that there is one commodity that isn&amp;rsquo;t replenishable. It&amp;rsquo;s a thing when you lost it, it&amp;rsquo;s lost forever (or a very long time). Privacy and private thought. I&amp;rsquo;ve already implemented Cloudflare on my blog some time ago. And since a few weeks, I am using &lt;a href=&#34;https://brave.com/ram882&#34;&gt;Brave&lt;/a&gt;. A new browser that claims that it was built around privacy. I do know that Safari is the default browser, but the support for extensions (I&amp;rsquo;m looking at you Grammarly) is terrible. It also isn&amp;rsquo;t very battery friendly and with a daily commute of roughly 2,5 hours, battery life is life.&lt;/p&gt;
-&lt;p&gt;With my personal blog under the protection of Cloudflare, it&amp;rsquo;s a logical step to also promote &lt;a href=&#34;https://brave.com/ram882&#34;&gt;Brave&lt;/a&gt;. With a great businessmodel, you can also help my blog. With micro-donations via Brave, you not only support my blog but also help with the privacy-minded browser &lt;a href=&#34;https://brave.com/ram882&#34;&gt;Brave&lt;/a&gt;. Go ahead, &lt;a href=&#34;https://brave.com/ram882&#34;&gt;install it&lt;/a&gt;. &lt;strong&gt;Every installation will help support my blog!&lt;/strong&gt;&lt;/p&gt;
-</content>
-    </item>
-    
-    <item>
       <title>CIDREE meeting</title>
       <link>https://moorlag.github.io/posts/2019-04-12-cidree-meeting/</link>
       <pubDate>Fri, 12 Apr 2019 00:00:00 +0000</pubDate>
@@ -269,16 +146,21 @@ How to calculate the most efficient route for a frozen food delivery company aft
 &lt;p&gt;The meeting ended at the national railway museum with an excellent dinner in the &amp;lsquo;first class waiting room&amp;rsquo; and a guided tour in the museum. I&amp;rsquo;ve added a few pictures below of the museum, looking at pictures of people presenting is quite dull. The first picture reminded me of a kind of robot. :-)&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;img src=&#34;images/Spoorwegmusem_CIDREE_4-768x1024.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://moorlag.github.io/img/Spoorwegmusem_CIDREE_4.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;img src=&#34;images/Spoorwegmuseum_CIDREE-1024x1024.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://moorlag.github.io/img/Spoorwegmuseum_CIDREE.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;img src=&#34;images/Spoorwegmuseum_CIDREE_2-768x1024.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://moorlag.github.io/img/Spoorwegmuseum_CIDREE_2.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;!-- raw HTML omitted --&gt;
+
+
+&lt;blockquote class=&#34;twitter-tweet&#34; data-lang=&#34;en&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;Lunchtime walk at &lt;a href=&#34;https://twitter.com/hashtag/CIDREE?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#CIDREE&lt;/a&gt; with &lt;a href=&#34;https://twitter.com/NCCAie?ref_src=twsrc%5Etfw&#34;&gt;@NCCAie&lt;/a&gt; &lt;a href=&#34;https://twitter.com/CambridgeMaths?ref_src=twsrc%5Etfw&#34;&gt;@CambridgeMaths&lt;/a&gt; &lt;a href=&#34;https://twitter.com/nuigalway?ref_src=twsrc%5Etfw&#34;&gt;@nuigalway&lt;/a&gt;, with &lt;a href=&#34;https://twitter.com/Moorland?ref_src=twsrc%5Etfw&#34;&gt;@moorland&lt;/a&gt; taking the photos! ☺️☀️&lt;a href=&#34;https://twitter.com/edtechne?ref_src=twsrc%5Etfw&#34;&gt;@edtechne&lt;/a&gt; &lt;a href=&#34;https://twitter.com/ResearchatNUIG?ref_src=twsrc%5Etfw&#34;&gt;@ResearchatNUIG&lt;/a&gt; &lt;a href=&#34;https://t.co/pk3Mwhsfrq&#34;&gt;pic.twitter.com/pk3Mwhsfrq&lt;/a&gt;&lt;/p&gt;— Cornelia Connolly (@corneliathinks) &lt;a href=&#34;https://twitter.com/corneliathinks/status/1116314267001806849?ref_src=twsrc%5Etfw&#34;&gt;April 11, 2019&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+
+
 </content>
     </item>
     
@@ -295,10 +177,10 @@ I felt a full array of emotions while listing to the Playlist.</description>
 &lt;p&gt;Using a collaborative playlist on Spotify, I started the project.  One thousand songs later, I can conclude that the plan was a success. My followers on &lt;a href=&#34;http://www.instagram.com/moorlag&#34;&gt;Instagram&lt;/a&gt; contributed, my students participated, and the internet learned the elegance of Musical preferences via crowdsourcing.&lt;/p&gt;
 &lt;p&gt;I felt a full array of emotions while listing to the Playlist. It was fun, sad, colorful, abrupt, slow, fast, and most of all, it connected. I feel that I understand my students better because of the music they shared. The contributor is mentioned in the Playlist. The top three contributors added value, not only in absolute terms but also in a relative sense. I was shocked that my students had a very, very broad sense of musical taste -  music from the 50s to the present. I listened to it all. Even better, I use the playlist daily. It helps me connect with students, to their emotions, to their needs. And it is also great fun!&lt;/p&gt;
 &lt;p&gt;To prevent spamming on my playlist (yes, c-artists use it a lot!), the link can be found via my &lt;a href=&#34;http://www.instagram.com/moorlag&#34;&gt;instagram&lt;/a&gt; account&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;images/chart-1.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;p&gt;Top contributes&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;images/chart-2.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;p&gt;Top artists&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://moorlag.github.io/img/chart-1.png&#34; alt=&#34;&#34;&gt;
+Top contributes&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://moorlag.github.io/img/chart-2.png&#34; alt=&#34;&#34;&gt;
+Top artists&lt;/p&gt;
 </content>
     </item>
     
@@ -329,15 +211,13 @@ Translated from the Wiki
 &lt;p&gt;It runs Python, had a USB connection and utilizes webUSB for updating. The calculator runs the core uPy and can be programmed with a computer. Or if you are up for a challenge&amp;hellip; with the ABC-keyboard on the device. I&amp;rsquo;ve written a small script to return a random value of a dice.&lt;/p&gt;
 &lt;h2 id=&#34;code-example&#34;&gt;Code Example&lt;/h2&gt;
 &lt;p&gt;The example can also be found &lt;a href=&#34;https://workshop.numworks.com/python/r-moorlag/test&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;import random 
+&lt;pre&gt;&lt;code&gt;import random
 
 #returns a number
 def roll_dice():
-  print (random.randint(1, 6)) 
+  print (random.randint(1, 6))
 
-print(&amp;quot;&amp;quot;&amp;quot;
-This python script returns a random value between 1 and 6. It&#39;s a dice
-&amp;quot;&amp;quot;&amp;quot;)
+print(&amp;quot;&amp;quot;&amp;quot;This python script returns a random value between 1 and 6. It&#39;s a dice&amp;quot;&amp;quot;&amp;quot;)
 
 flag = True
 while flag:
@@ -345,7 +225,7 @@ while flag:
    if user_prompt.lower() == &amp;quot;quit&amp;quot;:
       flag = False
    else:
-     print(&amp;quot;Rolling dice...\nYour number is:&amp;quot;) 
+     print(&amp;quot;Rolling dice...\nYour number is:&amp;quot;)
      roll_dice()
 &lt;/code&gt;&lt;/pre&gt;</content>
     </item>
@@ -402,7 +282,7 @@ Het valt op hoe open Karli is, hij logt in op zijn persoonlijk portaal van zijn 
     </item>
     
     <item>
-      <title>Google certified innovators, Get ready for the launch</title>
+      <title>Google certified innovators</title>
       <link>https://moorlag.github.io/posts/2018-09-10-google-certified-innovators-get-ready-for-the-launch/</link>
       <pubDate>Mon, 10 Sep 2018 00:00:00 +0000</pubDate>
       
@@ -424,40 +304,29 @@ Het valt op hoe open Karli is, hij logt in op zijn persoonlijk portaal van zijn 
       <content>&lt;p&gt;Implementing a new core curriculum for Computer Science is a challenge. Adding twelve different optional modules is fun. The optional modules will be developed with the help of the bèta-support centers and with a lot of help from teachers. I&amp;rsquo;m attached to the development of networking &amp;amp; Internet of Things. It&amp;rsquo;s been a great adventure and I learned a lot. A lot about new protocols, transmission rates, data packet sizes and most importantly I rediscovered the joy of learning.&lt;/p&gt;
 &lt;p&gt;Every school holiday I try to develop a new skill (ranging from speaking Swedish to Origami). It&amp;rsquo;s fun to learn something new and I find it a great way to connect with my students. The fun and uncertainty of learning is something I really enjoy and it&amp;rsquo;s the modus operandi for a lot of students. From frustration to understanding, discovering, applying and implementing. A lot of these aspects my students experience on a daily basis.&lt;/p&gt;
 &lt;p&gt;These are the modules almost production ready. The core curriculum is being developed at the educational publishers (Instruct, Informatica-actief &amp;amp; Enigma). I&amp;rsquo;m so proud of what we have achieved. This really is a great step and a good journey for computer science in the Netherlands. I&amp;rsquo;ll update this blog when new teaching materials will be made available!&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Networking / Internet of Things (by Eelco Dijkstra)
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://infvo.nl/inf2019/index.php/IoT_workshop_11_juni_2018&#34;&gt;Teaching materials can be found here&lt;/a&gt;. Internet of Things for Makers.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;Physical Computing (by Martin Bruggink)&lt;/li&gt;
-&lt;li&gt;User Experience (by Ingrid Breymann)&lt;/li&gt;
-&lt;li&gt;Programming paradigms (Kees Huizinga)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://elm-lang.org&#34;&gt;http://elm-lang.org&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Computational Science (by Nataša Grgurina)&lt;/li&gt;
-&lt;li&gt;Gaming (by Paul Bergervoet) with Unity3D (just started)&lt;/li&gt;
-&lt;/ul&gt;
 </content>
     </item>
     
     <item>
-      <title>Colab? Spotify colaberative​</title>
+      <title>Colab? Spotify collaborative</title>
       <link>https://moorlag.github.io/posts/2018-08-25-colab-spotify-colaberative/</link>
       <pubDate>Sat, 25 Aug 2018 00:00:00 +0000</pubDate>
       
       <guid>https://moorlag.github.io/posts/2018-08-25-colab-spotify-colaberative/</guid>
       <description>Connecting with my students is something I really enjoy. One of my newest experiments is a collaborative playlist on Spotify. An easy way for students to send me tracks on Spotify.
  &amp;lsquo;Mister Moorlag, this you really need to hear&amp;rsquo;.
--
  With the greatest of care, they arranged a starting playlist with 25 tracks. And then things started to grow! Now with over 28 hours of music; 420 tracks and 38 followers I think I found a new way to interact with my students.</description>
       <content>&lt;p&gt;Connecting with my students is something I really enjoy. One of my newest experiments is a collaborative playlist on Spotify. An easy way for students to send me tracks on Spotify.&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;&lt;em&gt;&amp;lsquo;Mister Moorlag, &lt;strong&gt;this&lt;/strong&gt; you really need&lt;/em&gt; &lt;em&gt;to hear&lt;/em&gt;&amp;rsquo;.&lt;/p&gt;
-&lt;p&gt;-&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;With the greatest of care, they arranged a starting playlist with 25 tracks. And then things started to grow! Now with over 28 hours of music; 420 tracks and 38 followers I think I found a new way to interact with my students. I&amp;rsquo;ve added the occasional song, and the feedback was great. We are not just exchanging songs, we are having a conversation about music, mood improvements and life. &lt;strong&gt;Life&amp;rsquo;s for sharing.&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Want to be surprised by something new, something funky or something old? Subscribe to our music stream. Listen to it via &lt;a href=&#34;https://open.spotify.com/user/moorlag/playlist/7HzL8gWZr8WiKmXdWit2N0?si=H9dGtgy2QYqFVH-8UQAlAQ&#34;&gt;Spotify Moorlag playlist&lt;/a&gt; via the list below.&lt;/p&gt;
-&lt;!-- raw HTML omitted --&gt;
+
+
+&lt;iframe src=&#34;https://open.spotify.com/embed/user/moorlag/playlist/7HzL8gWZr8WiKmXdWit2N0&#34; width=&#34;300&#34; height=&#34;380&#34;&gt;&lt;/iframe&gt;
+
+
 </content>
     </item>
     
@@ -471,7 +340,8 @@ Het valt op hoe open Karli is, hij logt in op zijn persoonlijk portaal van zijn 
 Innovation is just like gender; we are born with it and try to make the best of it.</description>
       <content>&lt;h1 id=&#34;ladies-start-your-engines-and-may-the-best-woman-win-get-ready-to-innovate&#34;&gt;Ladies, start your engines and may the best woman win. Get ready to innovate!&lt;/h1&gt;
 &lt;p&gt;With the help of my students, I discovered &lt;a href=&#34;https://twitter.com/logotv/&#34;&gt;RuPaul&amp;rsquo;s Drag race&lt;/a&gt;. I think it gives an alternative view on how Americans see themselves and each other (and  Facebook has 70 (!) genders to choose from). I&amp;rsquo;m happy my students share these experiences with me. With a good connection, the learning happens almost automatically.&lt;/p&gt;
-&lt;p&gt;Innovation is just like gender; we are born with it and try to make the best of it. Innovation thrives with a cadence, a way of handling the process, an ideal system based on time or effort. And somehow RuPaul brings a smile to my face. &lt;strong&gt;And now, lip-sync for your life.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Innovation is just like gender; we are born with it and try to make the best of it. Innovation thrives with a cadence, a way of handling the process, an ideal system based on time or effort. And somehow RuPaul brings a smile to my face.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;And now, lip-sync for your life.&lt;/strong&gt;&lt;/p&gt;
 </content>
     </item>
     
@@ -486,7 +356,7 @@ Innovation is just like gender; we are born with it and try to make the best of 
       <content>&lt;h1 id=&#34;cloudflare&#34;&gt;Cloudflare?&lt;/h1&gt;
 &lt;p&gt;With the help of Cloudflare my blog is now HTTPS enabled and in case of a DDoS attack the service also can help manage the traffic. It&amp;rsquo;s free! Cloudflare is a &amp;lsquo;content delivery network&amp;rsquo; service. Basically is helps the web server to serve the website in a durable way to visitors (and prevents attackers from accessing the website).&lt;/p&gt;
 &lt;p&gt; &lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;images/overview.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://moorlag.github.io/img/overview.png&#34; alt=&#34;Routing or rerouting&#34;&gt;&lt;/p&gt;
 &lt;h2 id=&#34;implementing&#34;&gt;Implementing&lt;/h2&gt;
 &lt;p&gt;During the implementation, I used the knowledge base a lot. Feel free to speed up the process of implementing with these links.&lt;/p&gt;
 &lt;ul&gt;
@@ -501,7 +371,11 @@ Innovation is just like gender; we are born with it and try to make the best of 
 &lt;p&gt;Cloudflare, Inc. is a U.S. company that provides content delivery network services, DDoS mitigation, Internet security and distributed domain name server services, sitting between the visitor and the Cloudflare user&amp;rsquo;s hosting provider, acting as a reverse proxy for websites.&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;h3 id=&#34;how-lava-lamps-keep-the-internet-save&#34;&gt;How Lava Lamps keep the internet save&lt;/h3&gt;
-&lt;!-- raw HTML omitted --&gt;
+
+
+&lt;iframe src=&#34;https://www.youtube.com/embed/1cUUfMeOijg&#34; width=&#34;560&#34; height=&#34;315&#34; frameborder=&#34;0&#34; allowfullscreen=&#34;allowfullscreen&#34;&gt;&lt;/iframe&gt;
+
+
 </content>
     </item>
     
@@ -518,8 +392,8 @@ My students loved it, made my mother proud and I found a new skill.</descriptio
 &lt;p&gt;My students loved it, made my mother proud and I found a new skill.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://camo.githubusercontent.com/023864bc52ab9582caaf4bb8ed1832fef0cfbe41/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f336f366e555950394144627632674136524f2f67697068792e676966&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Thanks to Yochem, Nathan &amp;amp; Jelle the project was a success, they developed an opensource hand prosthetic. With a muscle sensor and a custom PCB. In the project, pipeline is adding machine learning to the device and refining the fingers. Everything is documented very well on &lt;a href=&#34;https://github.com/3PMAP&#34;&gt;GitHub&lt;/a&gt;. The prosthetic can be built with €200 budget. My students are going to refine the design and lower the price even more. Everything is open source and can be adeptly easily. The article can be accessed here for free :-)&lt;/p&gt;
-&lt;p&gt;In the Netherlands, students have to carry out a final research project in the last two years of their secondary school education. This research must emphasize the level of the students in a clear manner. In the Netherlands, this research project is called &amp;lsquo;subject cluster project&amp;rsquo; because the student can choose between a number of subject combinations. Students only have to create one subject cluster project, whether or not in collaboration with others. Got your interest? The entire article can be found here. &lt;a href=&#34;http://ramonmoorlag.nl/wp-content/uploads/2018/05/HelloWorld05.pdf&#34;&gt;HelloWorld 05.&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;[caption id=&amp;ldquo;attachment_358&amp;rdquo; align=&amp;ldquo;alignnone&amp;rdquo; width=&amp;ldquo;300&amp;rdquo;]&lt;img src=&#34;images/HelloWorld05_pdf__page_1_of_2_-300x217.png&#34; alt=&#34;Hello World with Yochem, Nathan &amp; Jelle&#34;&gt; Hello World with Yochem, Nathan &amp;amp; Jelle[/caption]&lt;/p&gt;
+&lt;p&gt;In the Netherlands, students have to carry out a final research project in the last two years of their secondary school education. This research must emphasize the level of the students in a clear manner. In the Netherlands, this research project is called &amp;lsquo;subject cluster project&amp;rsquo; because the student can choose between a number of subject combinations. Students only have to create one subject cluster project, whether or not in collaboration with others. Got your interest? The entire article can be found here. &lt;a href=&#34;https://moorlag.github.io/img/HelloWorld05.pdf&#34;&gt;HelloWorld 05&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://moorlag.github.io/img/HW_PWS_Students.png&#34; alt=&#34;Hello World with Yochem, Nathan &amp; Jelle&#34;&gt; Hello World with Yochem, Nathan &amp;amp; Jelle&lt;/p&gt;
 </content>
     </item>
     
@@ -1075,6 +949,93 @@ After a warm welcome by our host Arjan I really enjoyed the talk from René Par
 &lt;img src=&#34;https://moorlag.github.io/im/IMG_7882.jpg&#34; alt=&#34;&#34;&gt;
 &lt;img src=&#34;https://moorlag.github.io/img/IMG_7869-e1504506532956.jpg&#34; alt=&#34;&#34;&gt;
 &lt;img src=&#34;https://moorlag.github.io/img/IMG_7864.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>Inky pHat and Raspberry Pi. 5 How To Tips And Tricks Automate Weather Reports.</title>
+      <link>https://moorlag.github.io/posts/2020-12-16-inky-phat-and-raspberry-pi-5-tips/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://moorlag.github.io/posts/2020-12-16-inky-phat-and-raspberry-pi-5-tips/</guid>
+      <description>For the annual i&amp;amp;i-conference, I try to find a &amp;lsquo;new&amp;rsquo; gadget for speakers and board members. Last year we bought Inky Phats with a Raspberry Pi Zero W. To be used as interactive name badges. A great success! In this article, I&amp;rsquo;ll share 5 tips on using the display, and I&amp;rsquo;ll be discussing a few problems. Inky pHat is an e-paper display with a dedicated controller in the PCB. Plug and play!</description>
+      <content>&lt;p&gt;For the annual i&amp;amp;i-conference, I try to find a &amp;lsquo;new&amp;rsquo; gadget for speakers and board members. Last year we bought Inky Phats with a Raspberry Pi Zero W. To be used as interactive name badges. A great success! In this article, I&amp;rsquo;ll share 5 tips on using the display, and I&amp;rsquo;ll be discussing a few problems. Inky pHat is an e-paper display with a dedicated controller in the PCB. Plug and play! And big thanks for the &lt;a href=&#34;https://learn.pimoroni.com/tutorial/sandyj/getting-started-with-inky-phat&#34;&gt;excellent documentation&lt;/a&gt; @Pimoroni!&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://moorlag.github.io/img/inky_phat.jpg&#34; alt=&#34;Inky pHat, a Raspberry Pi with a pHat on top of it. Displaying a squid&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://shop.pimoroni.com/products/inky-phat?variant=12549254217811&#34;&gt;Inky pHat&lt;/a&gt; by Pimoroni is easy to use &amp;lsquo;phat&amp;rsquo; A HAT is an extension for the Raspberry Pi platform. Hardware attached on top or HAT. With the sturdy HAT construction, there a three benefits;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;No soldering&lt;/strong&gt;; plug it onto the Raspberry Pi.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Robust mechanical design&lt;/strong&gt;, it can handle a school environment.&lt;/li&gt;
+&lt;li&gt;&amp;lsquo;&lt;strong&gt;Autoconfiguration&lt;/strong&gt;,&amp;rsquo; all the software is provided. Just attached and install. &amp;lsquo;Plug and play/pray.&amp;rsquo;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;I am thrilled with the HAT-system. It just works, no tinkering and no failure with a faulty connection. The design can handle some rough handling (always be careful when handling hardware!), and with the software backend from the manufacture, it&amp;rsquo;s just a few commands in the CLI, and it works. Most of the times ;-)&lt;/p&gt;
+&lt;h2 id=&#34;tip-1-how-to-update-raspberry-pi&#34;&gt;Tip 1 how to update Raspberry Pi&lt;/h2&gt;
+&lt;p&gt;It&amp;rsquo;s always good to work with an updated Raspberry Pi. &lt;a href=&#34;https://askubuntu.com/questions/94102/what-is-the-difference-between-apt-get-update-and-upgrade&#34;&gt;Sudo apt-get update, sudo apt-get upgrade&lt;/a&gt;. It will take some time when this is the first time you are using their commands. Keep in mind; these commands are going to be typed into the terminal or SSH. To keep things organized, I always end the update sessions with sudo apt-get &lt;strong&gt;autoclean&lt;/strong&gt;. This removes all the no longer used files after an update.&lt;/p&gt;
+&lt;h2 id=&#34;tip-2-please-use-a-stable-power-supply&#34;&gt;Tip 2 Please use a stable power supply&lt;/h2&gt;
+&lt;p&gt;It sounds like a normal thing to do, right&amp;hellip; but I found out the hard way that this needs some TCL. The Raspberry Pi was giving strange errors, rebooted, and shutdown for no apparent reason. The installation on the sd-card went corrupt, and I couldn&amp;rsquo;t find the problem. I swapped the card, reinstalled the OS on the card, and even swapped Raspberry Pis. And with some deduction, Sherlock would be proud; I discovered a faulty power supply to be the problem. Double-check the quality of the Micro USB cable! And be careful when installing the Inky pHat. The pins of the Raspberry Pi and Inky pHat need to be aligned. DO-NOT-FORCE.&lt;/p&gt;
+&lt;h2 id=&#34;tip-3-how-to-install-software-with-cli&#34;&gt;Tip 3 How to install software with CLI&lt;/h2&gt;
+&lt;p&gt;The documentation by Pimoroni is excellent. &lt;a href=&#34;https://learn.pimoroni.com/tutorial/sandyj/getting-started-with-inky-phat&#34;&gt;Getting Started With Inky pHat&lt;/a&gt; is a great start. It helps with the correct commands for the CLI. Again, this display is a &lt;em&gt;command-line&lt;/em&gt; interface only. It&amp;rsquo;s a quick installation with a few commandos. I&amp;rsquo;ve summarized the commands under this text block. The dollar ($) sign is a new line on the CLI. Keep in mind; this is a United Kindom based company. And over there, color is spelled with &amp;lsquo;ou.&amp;rsquo; ;-).&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;$ curl https://get.pimoroni.com/inky | bash
+$ cd /home/pi/Pimoroni/inky/examples
+$ python name-badge.py --type &amp;quot;auto&amp;quot; --colour &amp;quot;red&amp;quot; --name &amp;quot;Ramon&amp;quot;
+&lt;/code&gt;&lt;/pre&gt;&lt;h2 id=&#34;tip-4-automate-the-sht-with-cron&#34;&gt;Tip 4 Automate the sh*t with CRON&lt;/h2&gt;
+&lt;p&gt;CRON is the automation tool in Linux. It&amp;rsquo;s &amp;lsquo;easy&amp;rsquo; to use. I had a few challenges when I wanted to automate the update of the display. CRON was for me. I never used it. This &lt;a href=&#34;https://forums.pimoroni.com/t/need-help-with-inky-phat-crontab-update/7207&#34;&gt;resource&lt;/a&gt; helped me a lot! I started with calling the python script directly from CRON. After a few failures, I found that CRON does understand .sh scripts. This is my .sh script. I called it phat.sh. Open a new file with nano phat.sh. Be in the root of your folders; cd is the command to return to the root. Exit nano with ctrl+x and save (!) the file. After saving, make the file executable. Type in the same folder as the phat.sh : &lt;em&gt;chmod +x phat.sh&lt;/em&gt;&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;#!/bin/bash
+cd /home/pi/Pimoroni/inky/examples/phat/
+python weather-phat.py --colour red
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;In the CRON tab, I added the following. The /10 executes the script every 10 minutes (starting at .0 every hour)—only between 8 and 22 hrs. The bash is used to run the script. Pay attention to the &lt;strong&gt;absolute&lt;/strong&gt; path with a / at the beginning.&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;*/10 8-22 * * * * bash /home/pi/phat.sh
+&lt;/code&gt;&lt;/pre&gt;&lt;h2 id=&#34;tip-5-this-works-whats-next&#34;&gt;Tip 5 This works, what&amp;rsquo;s next?&lt;/h2&gt;
+&lt;p&gt;And how what? You have a mobile weather station. It runs from a power bank or even &lt;a href=&#34;https://www.hackster.io/news/pisugar-is-a-compact-battery-solution-designed-specifically-for-the-raspberry-pi-zero-416b503732e6&#34;&gt;a dedicated battery.&lt;/a&gt; I&amp;rsquo;m going to install it on the fridge with a micro USB cable to provide power. With the 10-minute update cycle, the screen isn&amp;rsquo;t heavily used and will work for quite some time. &lt;strong&gt;Inky Phat is a fun display&lt;/strong&gt;. The use cases are immense, and I am slowly figuring out what else I can build with it.&lt;/p&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>Secret Santa in 15 minutes? Unlock Your Inner Mailninja with YAMM!</title>
+      <link>https://moorlag.github.io/posts/2020-12-05-secret-santa-in-15-minutes-unlock-your-inner-mailninja-with-yamm/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://moorlag.github.io/posts/2020-12-05-secret-santa-in-15-minutes-unlock-your-inner-mailninja-with-yamm/</guid>
+      <description>In this blog, I&amp;rsquo;ll share some insights and tips when I organized Secret Santa. Sounds easy, doesn&amp;rsquo;t it. Organizing Secret Santa with only superpowers. With my blog, I hope you can also use the superpowers I used to organize Secret Santa in 15 minutes. First I used Google Forms. This was a major thing. What information is helpful and gives a nice insight into the &amp;lsquo;giftee&amp;rsquo;? With this experiment, I tried my first Add-On, and we are now in love.</description>
+      <content>&lt;p&gt;&lt;img src=&#34;https://moorlag.github.io/img/yamm_logo.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;In this blog, I&amp;rsquo;ll share some insights and tips when I organized Secret Santa. Sounds easy, doesn&amp;rsquo;t it. Organizing Secret Santa with only superpowers. With my blog, I hope you can also use the superpowers I used to organize Secret Santa in 15 minutes. First I used Google Forms. This was a major thing. What information is helpful and gives a nice insight into the &amp;lsquo;giftee&amp;rsquo;? With this experiment, I tried my first Add-On, and we are now in love. Add-ons make dull-tasks fun! (&amp;hellip; or at least simpeler)&lt;/p&gt;
+&lt;h2 id=&#34;the-secret-santa-questions-i-used&#34;&gt;The Secret Santa questions I used&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Name (yes, you need to ask)&lt;/li&gt;
+&lt;li&gt;Email&lt;/li&gt;
+&lt;li&gt;What makes you happy?&lt;/li&gt;
+&lt;li&gt;What is your favorite color? (in a selection list)&lt;/li&gt;
+&lt;li&gt;What is your lucky number?&lt;/li&gt;
+&lt;li&gt;What is the maiden name of your mother (ow, wait this isn&amp;rsquo;t a credit card hacking scam)&lt;/li&gt;
+&lt;li&gt;How would you rate 2020?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;and-then-how-can-i-used-the-earlier-mentioned-super-powers-with-yamm&#34;&gt;And then? How can I used the earlier mentioned Super Powers With YAMM?&lt;/h2&gt;
+&lt;p&gt;With that list (&lt;strong&gt;pro-tip&lt;/strong&gt; export it to a sheet) the fun starts. I used &lt;a href=&#34;https://yet-another-mail-merge.com/&#34;&gt;YAMM&lt;/a&gt; (Yet-another-Mail-Merge), free of usage with 50 mailmerges/day. Like any decent Mail-Merger, it used the first line as a guide. So the list is now used as a data collection; keep the titles simple; name, email, happy, color, number, 2020. I used the &lt;a href=&#34;https://support.yet-another-mail-merge.com/hc/en-us&#34;&gt;documentation&lt;/a&gt; a lot. An excellent example of good documentation. There are &lt;a href=&#34;https://support.yet-another-mail-merge.com/hc/en-us/articles/210729589-Use-a-predesigned-template-from-our-gallery&#34;&gt;free themed email templates&lt;/a&gt;! And now the fun continues. Do not only provide the &amp;lsquo;gifter&amp;rsquo; with the data of the &amp;lsquo;giftee&amp;rsquo;. Provide examples of gifts, suggestions for poems/nice letters and don&amp;rsquo;t be afraid to write an example Haiku :-)&lt;/p&gt;
+&lt;p&gt;The &amp;laquo; &amp;raquo; are the placeholders for the titles from the first line from the Sheet. &amp;laquo;User_Name&amp;raquo; here is used. Notice the camelbacks; the Two Capitals? Be &lt;strong&gt;very&lt;/strong&gt; consequent with capitals! Via Add-Ons in the Sheet. Easy right?&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://moorlag.github.io/img/install_yamm1.png&#34; alt=&#34;Install YAMM open add-on menu&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Add &amp;lsquo;Add-ons&amp;rsquo;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://moorlag.github.io/img/merry_christmas.PNG&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Example template - free to use -&lt;/p&gt;
+
+
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/-dAFP3YyAWo&#34; title=&#34;YouTube video player&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
+
+
+&lt;h2 id=&#34;these-are-tips-to-be-an-email-ninja&#34;&gt;These are tips to be an Email ninja&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Select a themed email template&lt;/li&gt;
+&lt;li&gt;Double-check before sending&lt;/li&gt;
+&lt;li&gt;Track (!) opening rates. So we can nudge non-openers&lt;/li&gt;
+&lt;li&gt;Provide shops links&lt;/li&gt;
+&lt;li&gt;And repeat the suggested amount of money per gift&lt;/li&gt;
+&lt;li&gt;Nudge, repeat, rinse repeat&lt;/li&gt;
+&lt;li&gt;Provide an optional unboxing party.&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/o2Jh1ABd7XM&#34; title=&#34;YouTube video player&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
+
+
+&lt;p&gt;Quick video to install YAMM&lt;/p&gt;
 </content>
     </item>
     

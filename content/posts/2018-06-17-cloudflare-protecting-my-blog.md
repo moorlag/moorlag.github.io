@@ -1,19 +1,21 @@
----
-title: "This blog is now protected"
-date: "2018-06-17"
-categories: 
-  - "computer-science"
-  - "inspiration"
-coverImage: "jason-briscoe-397399-unsplash.jpg"
----
-
++++
+title = "This blog is now protected"
+date = "2018-06-17"
+author = "Moorlag"
+authorTwitter = "Moorlag" #do not include @
+cover = "/img/jason-briscoe-397399-unsplash.jpg"
+tags = ["Inspiration", "computer science"]
+keywords = ["think", "Leap"]
+description = "Ready for anything"
+showFullContent = false
++++
 # Cloudflare?
 
 With the help of Cloudflare my blog is now HTTPS enabled and in case of a DDoS attack the service also can help manage the traffic. It's free! Cloudflare is a 'content delivery network' service. Basically is helps the web server to serve the website in a durable way to visitors (and prevents attackers from accessing the website).
 
  
 
-![](images/overview.png)
+![Routing or rerouting](/img/overview.png)
 
 ## Implementing
 
@@ -30,5 +32,6 @@ It was really easy to start using Cloudflare. Together with Google Domains, it i
 > Cloudflare, Inc. is a U.S. company that provides content delivery network services, DDoS mitigation, Internet security and distributed domain name server services, sitting between the visitor and the Cloudflare user's hosting provider, acting as a reverse proxy for websites.
 
 ### How Lava Lamps keep the internet save
-
+{{< contact>}}
 <iframe src="https://www.youtube.com/embed/1cUUfMeOijg" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+{{< /contact>}}

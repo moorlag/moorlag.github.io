@@ -19,7 +19,7 @@ With great anticipation I am transiting my personal blog to Hugo. 🚀
 Why?  It&amp;rsquo;s fun to learn something new! It&amp;rsquo;s quick! The quickstart only takes 7 minutes! It&amp;rsquo;s another way to use MarkDown (awesome!) And&amp;hellip; no more updates  Under the hood of Hugo  The world’s fastest framework for building websites</description>
       <content>&lt;p&gt;Yes, I&amp;rsquo;m going back to basics. Just some storage and no interactive elements (looking at you cookiewall). No more databases, Hugo runs on almost every webserver. Incl. this one
 +++
-&lt;img src=&#34;images/gohugoio-card-900x450.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;img src=&#34;https://moorlag.github.io/img/gohugoio-card.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Hugo logo&lt;/p&gt;
 &lt;p&gt;With great anticipation I am transiting my personal blog to &lt;a href=&#34;https://gohugo.io/&#34;&gt;Hugo&lt;/a&gt;. 🚀&lt;/p&gt;
 &lt;h2 id=&#34;why&#34;&gt;Why?&lt;/h2&gt;

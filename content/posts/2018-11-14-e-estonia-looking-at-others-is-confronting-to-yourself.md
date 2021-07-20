@@ -1,11 +1,14 @@
----
-title: "e-Estonia. Looking at others is confronting to yourself."
-date: "2018-11-14"
-categories: 
-  - "inspiration"
-  - "learning"
----
-
++++
+title = "e-Estonia. Looking at others is confronting to yourself."
+date = "2018-11-14"
+author = "Moorlag"
+authorTwitter = "Moorlag" #do not include @
+tags = ["Inspiration", "computer science"]
+cover = "https://lh3.googleusercontent.com/sykNJhTEEnkImw1hSQxq4RhX-V9uSbKIrP8eAEfiTveAC3lQFiuSquVZhMTQcMAKw58fgproQhTrZYDIRlqqDPzZIH7f6TJQee0ncAq25WyfCKdlHvCwwrlUmCelKqKAjudHjU_k"
+keywords = ["think", "Leap"]
+description = "e-Estonia in English"
+showFullContent = false
++++
 24 hours after returning home I suddenly felt an urge to write out my thoughts and feelings after being emerged in the Estonian educational system. UPDATE: It did take a few weeks to finalize this blog, let's blame Trump ;-)
 
 In retrospect, I  enjoyed the trip to Estonia but the vast gap between a Gymnasium and a Polytech institute was so large I felt uncomfortable. The inequality between students is enormous. And I later heard that the Gymnasium we visited was in the average range.  

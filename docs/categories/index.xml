@@ -6,47 +6,6 @@
     <description>Recent content in Categories on Moorlag&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>(c) 2021 Ramon Moorlag</copyright>
-    <lastBuildDate>Wed, 16 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://moorlag.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>computer-science</title>
-      <link>https://moorlag.github.io/categories/computer-science/</link>
-      <pubDate>Wed, 16 Dec 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://moorlag.github.io/categories/computer-science/</guid>
-      <description></description>
-      <content></content>
-    </item>
-    
-    <item>
-      <title>inspiration</title>
-      <link>https://moorlag.github.io/categories/inspiration/</link>
-      <pubDate>Wed, 16 Dec 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://moorlag.github.io/categories/inspiration/</guid>
-      <description></description>
-      <content></content>
-    </item>
-    
-    <item>
-      <title>learning</title>
-      <link>https://moorlag.github.io/categories/learning/</link>
-      <pubDate>Wed, 16 Dec 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://moorlag.github.io/categories/learning/</guid>
-      <description></description>
-      <content></content>
-    </item>
-    
-    <item>
-      <title>geen-categorie</title>
-      <link>https://moorlag.github.io/categories/geen-categorie/</link>
-      <pubDate>Sat, 05 Dec 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://moorlag.github.io/categories/geen-categorie/</guid>
-      <description></description>
-      <content></content>
-    </item>
-    
+    <copyright>(c) 2021 Ramon Moorlag</copyright><atom:link href="https://moorlag.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

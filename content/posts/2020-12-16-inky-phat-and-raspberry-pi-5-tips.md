@@ -1,18 +1,19 @@
----
-title: "Inky pHat and Raspberry Pi. 5 How To Tips And Tricks Automate Weather Reports."
-date: "2020-12-16"
-categories: 
-  - "computer-science"
-  - "inspiration"
-  - "learning"
-tags: 
-  - "inky-phat"
-coverImage: "gabriele-diwald-j2OprKAcWkQ-unsplash-scaled.jpg"
----
+
++++
+title = "Inky pHat and Raspberry Pi. 5 How To Tips And Tricks Automate Weather Reports."
+date = "202-12-06"
+author = "Moorlag"
+authorTwitter = "Moorlag" #do not include @
+tags = ["Inspiration", "computer science"]
+cover = "/img/gabriele-diwald-j2OprKAcWkQ-unsplash-scaled.jpg"
+keywords = ["computer science", "inspiration"]
+description = "Inky pHat & Pi!"
+showFullContent = false
++++
 
 For the annual i&i-conference, I try to find a 'new' gadget for speakers and board members. Last year we bought Inky Phats with a Raspberry Pi Zero W. To be used as interactive name badges. A great success! In this article, I'll share 5 tips on using the display, and I'll be discussing a few problems. Inky pHat is an e-paper display with a dedicated controller in the PCB. Plug and play! And big thanks for the [excellent documentation](https://learn.pimoroni.com/tutorial/sandyj/getting-started-with-inky-phat) @Pimoroni!
 
-![Inky pHat, a Raspberry Pi with a pHat on top of it. Displaying a squid](images/inky_phat.jpg)
+![Inky pHat, a Raspberry Pi with a pHat on top of it. Displaying a squid](/img/inky_phat.jpg)
 
 [Inky pHat](https://shop.pimoroni.com/products/inky-phat?variant=12549254217811) by Pimoroni is easy to use 'phat' A HAT is an extension for the Raspberry Pi platform. Hardware attached on top or HAT. With the sturdy HAT construction, there a three benefits;
 

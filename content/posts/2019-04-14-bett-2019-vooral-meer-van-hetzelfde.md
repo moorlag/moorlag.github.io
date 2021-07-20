@@ -1,12 +1,14 @@
----
-title: "BETT 2019, vooral meer van hetzelfde ?"
-date: "2019-04-14"
-categories: 
-  - "computer-science"
-  - "inspiration"
-coverImage: "lachlan-gowen-594463-unsplash.jpg"
----
-
++++
+title = "BETT 2019, vooral meer van hetzelfde ?"
+date = "2019-04-14"
+author = "Moorlag"
+authorTwitter = "Moorlag" #do not include @
+tags = ["Inspiration", "computer science"]
+cover = "/img/lachlan-gowen-594463-unsplash.jpg"
+keywords = ["computer science", "inspiration","BETT", "London"]
+description = "BETT 2019"
+showFullContent = false
++++
 In Dutch, sorry folks! Also published in Vives!
 
 ## **Wat is BETT?**

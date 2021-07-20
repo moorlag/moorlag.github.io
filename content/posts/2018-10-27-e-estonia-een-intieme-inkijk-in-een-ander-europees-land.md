@@ -1,11 +1,13 @@
----
-title: "e-Estonia, een intieme inkijk in een 'ander' Europees land."
-date: "2018-10-27"
-categories: 
-  - "inspiration"
-  - "learning"
----
-
++++
+title = "e-Estonia, een intieme inkijk in een 'ander' Europees land."
+date = "2018-10-27"
+author = "Moorlag"
+authorTwitter = "Moorlag" #do not include @
+tags = ["Inspiration", "computer science"]
+keywords = ["think", "Leap"]
+description = "Sorry Dutch only!"
+showFullContent = false
++++
 We komen om klokslag 09.00 uur aan bij Innove, een nascholingscentrum voor leraren in Estland. Helena Karu-Baher geeft een overzicht van wat men voor heeft op gebied van teachertraining. Ze legt uit dat docenten & schoolleiding moeite hebben met de ontwikkeling van het lerarenberoep. Vooral schoolleiders hebben hiervan last, het land is kleiner en kent slecht weinig groeimogelijkheden. Schoolleiders krijgen het er vooral van langs. Ze weten niet hoe leraren te ontwikkelen en als leider innoveren ze te weinig. Wie in Estland schoolleider wordt blijft dat vaak tot zijn pensioen.  
 Leraren worden universitair opgeleid. Dat gebeurt in Talinn & Tartu.
 

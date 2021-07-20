@@ -1,11 +1,17 @@
----
-title: "Secret Santa in 15 minutes? Unlock Your Inner Mailninja with YAMM!"
-date: "2020-12-05"
-categories: 
-  - "geen-categorie"
----
 
-![](images/yamm_logo.png)
++++
+title = "Secret Santa in 15 minutes? Unlock Your Inner Mailninja with YAMM!"
+date = "202-12-05"
+author = "Moorlag"
+authorTwitter = "Moorlag" #do not include @
+tags = ["Inspiration", "computer science"]
+cover = "/img/lachlan-gowen-594463-unsplash.jpg"
+keywords = ["computer science", "inspiration","AxiDraw", "Snap!"]
+description = "AxiDraw & Snap!"
+showFullContent = false
++++
+
+![](/img/yamm_logo.png)
 
 In this blog, I'll share some insights and tips when I organized Secret Santa. Sounds easy, doesn't it. Organizing Secret Santa with only superpowers. With my blog, I hope you can also use the superpowers I used to organize Secret Santa in 15 minutes. First I used Google Forms. This was a major thing. What information is helpful and gives a nice insight into the 'giftee'? With this experiment, I tried my first Add-On, and we are now in love. Add-ons make dull-tasks fun! (... or at least simpeler)
 
@@ -25,16 +31,17 @@ With that list (**pro-tip** export it to a sheet) the fun starts. I used [YAMM](
 
 The << >> are the placeholders for the titles from the first line from the Sheet. <<User\_Name>> here is used. Notice the camelbacks; the Two Capitals? Be **very** consequent with capitals! Via Add-Ons in the Sheet. Easy right?
 
-![Install YAMM open add-on menu](images/install_yamm1.png)
+![Install YAMM open add-on menu](/img/install_yamm1.png)
 
 Add 'Add-ons'
 
-![](images/merry_christmas.PNG)
+![](/img/merry_christmas.PNG)
 
 Example template - free to use -
 
-https://www.youtube.com/watch?v=-dAFP3YyAWo&ab\_channel=YetAnotherMailMerge
-
+{{< contact>}}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-dAFP3YyAWo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{{< /contact>}}
 ## These are tips to be an Email ninja
 
 - Select a themed email template
@@ -45,6 +52,8 @@ https://www.youtube.com/watch?v=-dAFP3YyAWo&ab\_channel=YetAnotherMailMerge
 - Nudge, repeat, rinse repeat
 - Provide an optional unboxing party.
 
-https://www.youtube.com/watch?v=o2Jh1ABd7XM&feature=emb\_logo&ab\_channel=YetAnotherMailMerge
+{{< contact>}}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o2Jh1ABd7XM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{{< /contact>}}
 
 Quick video to install YAMM

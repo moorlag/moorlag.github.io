@@ -1,11 +1,14 @@
----
-title: "Understanding Music and taste better"
-date: "2019-04-01"
-categories: 
-  - "computer-science"
-  - "inspiration"
-coverImage: "willian-justen-de-vasconcellos-616948-unsplash.jpg"
----
++++
+title = "Understanding Music and taste better"
+date = "2019-04-01"
+author = "Moorlag"
+authorTwitter = "Moorlag" #do not include @
+tags = ["Inspiration", "computer science"]
+cover = "/img/willian-justen-de-vasconcellos-616948-unsplash.jpg"
+keywords = ["computer science", "inspiration","music", "Spotify"]
+description = "What does Music tell us about the soul?"
+showFullContent = false
++++
 
 Reviewing project, 'help Moorlag understand music'. This is the result of one year of collecting music. The [link to the playlist](http://www.instagram.com/moorlag) can be found here.  
 
@@ -15,10 +18,8 @@ I felt a full array of emotions while listing to the Playlist. It was fun, sad, 
 
 To prevent spamming on my playlist (yes, c-artists use it a lot!), the link can be found via my [instagram](http://www.instagram.com/moorlag) account
 
-![](images/chart-1.png)
-
+![](/img/chart-1.png)
 Top contributes
 
-![](images/chart-2.png)
-
+![](/img/chart-2.png)
 Top artists

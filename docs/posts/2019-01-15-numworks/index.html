@@ -6,11 +6,8 @@
   
   <meta http-equiv="content-type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<meta name="description" content="What is it and how does it work? This quick review of my unit starts off with a short story &amp;ldquo;Numworks about Numworks&amp;rdquo;. There is an online simulator of Numworks. It has all the same functions as the physical device.
- _Targeting a high school audience and competing with Texas Instruments&#39; Ti-_nspire family, the NumWorks calculator is equipped with a non-touch color LCD2.
-Translated from the Wiki
-  It offers a programmable interface in Python." />
-<meta name="keywords" content="Computer Science" />
+<meta name="description" content="python in a calculator?" />
+<meta name="keywords" content="calculator, computer science" />
 <meta name="robots" content="noodp" />
 <link rel="canonical" href="https://moorlag.github.io/posts/2019-01-15-numworks/" />
 
@@ -35,32 +32,21 @@ Translated from the Wiki
   
     <meta name="twitter:site" content="https://www.Moorlag.github.io" />
   
-    <meta name="twitter:creator" content="" />
+    <meta name="twitter:creator" content="Moorlag" />
 
 
 
 <meta property="og:locale" content="en" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="Numworks">
-<meta property="og:description" content="What is it and how does it work? This quick review of my unit starts off with a short story &amp;ldquo;Numworks about Numworks&amp;rdquo;. There is an online simulator of Numworks. It has all the same functions as the physical device.
- _Targeting a high school audience and competing with Texas Instruments&#39; Ti-_nspire family, the NumWorks calculator is equipped with a non-touch color LCD2.
-Translated from the Wiki
-  It offers a programmable interface in Python." />
+<meta property="og:description" content="python in a calculator?" />
 <meta property="og:url" content="https://moorlag.github.io/posts/2019-01-15-numworks/" />
 <meta property="og:site_name" content="Moorlag&#39;s Blog" />
 
-  
-    <meta property="og:image" content="https://moorlag.github.io/img/favicon/orange.png">
-  
+  <meta property="og:image" content="https://moorlag.github.io/img/calc.jpg">
 
 <meta property="og:image:width" content="2048">
 <meta property="og:image:height" content="1024">
-
-  <meta property="article:section" content="computer-science" />
-
-  <meta property="article:section" content="inspiration" />
-
-  <meta property="article:section" content="learning" />
 
 
   <meta property="article:published_time" content="2019-01-15 00:00:00 &#43;0000 UTC" />
@@ -153,22 +139,22 @@ Translated from the Wiki
       </span>
     
     
+    <span class="post-author">:: Moorlag</span>
+    
   </div>
 
   
   <span class="post-tags">
     
-    #<a href="https://moorlag.github.io/tags/calculator/">calculator</a>&nbsp;
+    #<a href="https://moorlag.github.io/tags/inspiration/">Inspiration</a>&nbsp;
     
-    #<a href="https://moorlag.github.io/tags/computer-science/">computer-science</a>&nbsp;
-    
-    #<a href="https://moorlag.github.io/tags/informatica/">informatica</a>&nbsp;
-    
-    #<a href="https://moorlag.github.io/tags/numworks/">numworks</a>&nbsp;
+    #<a href="https://moorlag.github.io/tags/computer-science/">computer science</a>&nbsp;
     
   </span>
   
 
+  
+    <img src="https://moorlag.github.io/img/calc.jpg" class="post-cover" alt="Numworks" />
   
 
   
@@ -191,15 +177,13 @@ Translated from the Wiki
 <p>It runs Python, had a USB connection and utilizes webUSB for updating. The calculator runs the core uPy and can be programmed with a computer. Or if you are up for a challenge&hellip; with the ABC-keyboard on the device. I&rsquo;ve written a small script to return a random value of a dice.</p>
 <h2 id="code-example">Code Example<a href="#code-example" class="hanchor" ariaLabel="Anchor">&#8983;</a> </h2>
 <p>The example can also be found <a href="https://workshop.numworks.com/python/r-moorlag/test">here</a></p>
-<pre><code>import random 
+<pre><code>import random
 
 #returns a number
 def roll_dice():
-  print (random.randint(1, 6)) 
+  print (random.randint(1, 6))
 
-print(&quot;&quot;&quot;
-This python script returns a random value between 1 and 6. It's a dice
-&quot;&quot;&quot;)
+print(&quot;&quot;&quot;This python script returns a random value between 1 and 6. It's a dice&quot;&quot;&quot;)
 
 flag = True
 while flag:
@@ -207,7 +191,7 @@ while flag:
    if user_prompt.lower() == &quot;quit&quot;:
       flag = False
    else:
-     print(&quot;Rolling dice...\nYour number is:&quot;) 
+     print(&quot;Rolling dice...\nYour number is:&quot;)
      roll_dice()
 </code></pre>
       </div></div>

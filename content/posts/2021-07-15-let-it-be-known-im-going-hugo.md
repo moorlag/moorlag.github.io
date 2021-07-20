@@ -11,7 +11,7 @@ showFullContent = false
 +++
 Yes, I'm going back to basics. Just some storage and no interactive elements (looking at you cookiewall). No more databases, Hugo runs on almost every webserver. Incl. this one
 +++
-![](images/gohugoio-card-900x450.png)
+![](/img/gohugoio-card.png)
 
 Hugo logo
 

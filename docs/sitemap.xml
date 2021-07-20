@@ -11,16 +11,7 @@
     <loc>https://moorlag.github.io/tags/gohugo/</loc>
     <lastmod>2021-06-27T21:03:21+02:00</lastmod>
   </url><url>
-    <loc>https://moorlag.github.io/tags/hello-hugo/</loc>
-    <lastmod>2021-06-27T21:03:21+02:00</lastmod>
-  </url><url>
     <loc>https://moorlag.github.io/posts/2021-07-15-let-it-be-known-im-going-hugo/</loc>
-    <lastmod>2021-06-27T21:03:21+02:00</lastmod>
-  </url><url>
-    <loc>https://moorlag.github.io/posts/hello-hugo/</loc>
-    <lastmod>2021-06-27T21:03:21+02:00</lastmod>
-  </url><url>
-    <loc>https://moorlag.github.io/tags/hello-world/</loc>
     <lastmod>2021-06-27T21:03:21+02:00</lastmod>
   </url><url>
     <loc>https://moorlag.github.io/</loc>
@@ -32,41 +23,14 @@
     <loc>https://moorlag.github.io/tags/</loc>
     <lastmod>2021-06-27T21:03:21+02:00</lastmod>
   </url><url>
-    <loc>https://moorlag.github.io/posts/hello/</loc>
-    <lastmod>2021-06-26T21:38:01+02:00</lastmod>
-  </url><url>
-    <loc>https://moorlag.github.io/categories/</loc>
-    <lastmod>2020-12-16T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://moorlag.github.io/categories/computer-science/</loc>
-    <lastmod>2020-12-16T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://moorlag.github.io/posts/2020-12-16-inky-phat-and-raspberry-pi-5-tips/</loc>
-    <lastmod>2020-12-16T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://moorlag.github.io/tags/inky-phat/</loc>
-    <lastmod>2020-12-16T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://moorlag.github.io/categories/inspiration/</loc>
-    <lastmod>2020-12-16T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://moorlag.github.io/categories/learning/</loc>
-    <lastmod>2020-12-16T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://moorlag.github.io/categories/geen-categorie/</loc>
-    <lastmod>2020-12-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://moorlag.github.io/posts/2020-12-05-secret-santa-in-15-minutes-unlock-your-inner-mailninja-with-yamm/</loc>
-    <lastmod>2020-12-05T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://moorlag.github.io/posts/2020-11-22-axidraw-snapcloud-een-gouden-combinatie-ga-aan-de-slag/</loc>
+    <lastmod>2020-11-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://moorlag.github.io/tags/inspiration/</loc>
     <lastmod>2020-11-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://moorlag.github.io/posts/2019-04-14-bett-2019-vooral-meer-van-hetzelfde/</loc>
     <lastmod>2019-04-14T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://moorlag.github.io/posts/2019-04-13-brave-a-new-world/</loc>
-    <lastmod>2019-04-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://moorlag.github.io/posts/2019-04-12-cidree-meeting/</loc>
     <lastmod>2019-04-12T00:00:00+00:00</lastmod>
@@ -77,16 +41,7 @@
     <loc>https://moorlag.github.io/about/</loc>
     <lastmod>2019-01-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://moorlag.github.io/tags/calculator/</loc>
-    <lastmod>2019-01-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://moorlag.github.io/tags/informatica/</loc>
-    <lastmod>2019-01-15T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://moorlag.github.io/posts/2019-01-15-numworks/</loc>
-    <lastmod>2019-01-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://moorlag.github.io/tags/numworks/</loc>
     <lastmod>2019-01-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://moorlag.github.io/posts/2018-11-14-e-estonia-looking-at-others-is-confronting-to-yourself/</loc>
@@ -118,9 +73,6 @@
   </url><url>
     <loc>https://moorlag.github.io/posts/2018-05-29-student-centered-learning/</loc>
     <lastmod>2018-05-29T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://moorlag.github.io/tags/inspiration/</loc>
-    <lastmod>2018-05-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://moorlag.github.io/posts/2018-05-13-sladda-this-is-not-yet-an-other-bike-review/</loc>
     <lastmod>2018-05-13T00:00:00+00:00</lastmod>
@@ -185,6 +137,12 @@
     <loc>https://moorlag.github.io/learning/</loc>
     <lastmod>2017-08-14T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://moorlag.github.io/categories/</loc>
+  </url><url>
     <loc>https://moorlag.github.io/posts/2017-09-23-eat-sleep-make-repeat/</loc>
+  </url><url>
+    <loc>https://moorlag.github.io/posts/2020-12-16-inky-phat-and-raspberry-pi-5-tips/</loc>
+  </url><url>
+    <loc>https://moorlag.github.io/posts/2020-12-05-secret-santa-in-15-minutes-unlock-your-inner-mailninja-with-yamm/</loc>
   </url>
 </urlset>

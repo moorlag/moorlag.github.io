@@ -1,4 +1,4 @@
-baseurl = "https://moorlag.github.io/"
+baseurl = "https://www.ramonmoorlag.nl"
 languageCode = "en-us"
 theme = "terminal"
 paginate = 20

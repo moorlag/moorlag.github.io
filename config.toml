@@ -4,6 +4,7 @@ theme = "terminal"
 paginate = 20
 custom_css = "orange.css"
 enableEmoji = "true"
+publishDir = "docs"
 
 
 [params]

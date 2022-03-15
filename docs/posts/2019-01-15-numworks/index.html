@@ -135,11 +135,13 @@
   <div class="post-meta">
     
       <span class="post-date">
-        2019-01-15 
+        2019-01-15
+        
       </span>
     
     
-    <span class="post-author">:: Moorlag</span>
+      <span class="post-author">:: Moorlag</span>
+    
     
   </div>
 
@@ -152,10 +154,12 @@
     
   </span>
   
+  
+  <img src="https://moorlag.github.io/img/calc.jpg"
+    class="post-cover"
+    alt="Numworks"
+    title="Cover Image" />
 
-  
-    <img src="https://moorlag.github.io/img/calc.jpg" class="post-cover" alt="Numworks" />
-  
 
   
 
@@ -163,7 +167,7 @@
         <h2 id="what-is-it-and-how-does-it-work">What is it and how does it work?<a href="#what-is-it-and-how-does-it-work" class="hanchor" ariaLabel="Anchor">&#8983;</a> </h2>
 <p>This quick review of my unit starts off with a short story <em>&ldquo;Numworks about Numworks&rdquo;.</em>  There is an <a href="https://www.numworks.com/simulator/">online simulator of Numworks</a>. It has all the same functions as the physical device.</p>
 <blockquote>
-<p>_Targeting a high school audience and competing with Texas Instruments' Ti-_<em>nspire</em> <em>family, the NumWorks calculator is equipped with a non-touch color LCD2.</em></p>
+<p>_Targeting a high school audience and competing with Texas Instruments&rsquo; Ti-_<em>nspire</em> <em>family, the NumWorks calculator is equipped with a non-touch color LCD2.</em></p>
 <p>Translated from the <a href="https://fr.wikipedia.org/wiki/NumWorks">Wiki</a></p>
 </blockquote>
 <blockquote>
@@ -177,21 +181,21 @@
 <p>It runs Python, had a USB connection and utilizes webUSB for updating. The calculator runs the core uPy and can be programmed with a computer. Or if you are up for a challenge&hellip; with the ABC-keyboard on the device. I&rsquo;ve written a small script to return a random value of a dice.</p>
 <h2 id="code-example">Code Example<a href="#code-example" class="hanchor" ariaLabel="Anchor">&#8983;</a> </h2>
 <p>The example can also be found <a href="https://workshop.numworks.com/python/r-moorlag/test">here</a></p>
-<pre><code>import random
+<pre tabindex="0"><code>import random
 
 #returns a number
 def roll_dice():
   print (random.randint(1, 6))
 
-print(&quot;&quot;&quot;This python script returns a random value between 1 and 6. It's a dice&quot;&quot;&quot;)
+print(&#34;&#34;&#34;This python script returns a random value between 1 and 6. It&#39;s a dice&#34;&#34;&#34;)
 
 flag = True
 while flag:
-   user_prompt = input(&quot;&gt;&quot;)
-   if user_prompt.lower() == &quot;quit&quot;:
+   user_prompt = input(&#34;&gt;&#34;)
+   if user_prompt.lower() == &#34;quit&#34;:
       flag = False
    else:
-     print(&quot;Rolling dice...\nYour number is:&quot;)
+     print(&#34;Rolling dice...\nYour number is:&#34;)
      roll_dice()
 </code></pre>
       </div></div>

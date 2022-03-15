@@ -1,0 +1,250 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  
+    <title>Inky pHat and Raspberry Pi. 5 How To Tips And Tricks Automate Weather Reports. :: Moorlag&#39;s Blog</title>
+  
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="Inky pHat &amp; Pi!" />
+<meta name="keywords" content="computer science, inspiration" />
+<meta name="robots" content="noodp" />
+<link rel="canonical" href="https://moorlag.github.io/posts/2020-12-16-inky-phat-and-raspberry-pi-5-tips/" />
+
+
+
+
+<link rel="stylesheet" href="https://moorlag.github.io/assets/style.css">
+
+
+
+
+
+
+<link rel="apple-touch-icon" href="https://moorlag.github.io/img/apple-touch-icon-192x192.png">
+
+  <link rel="shortcut icon" href="https://moorlag.github.io/img/favicon/orange.png">
+
+
+
+<meta name="twitter:card" content="summary" />
+
+  
+    <meta name="twitter:site" content="https://moorlag.github.io" />
+  
+    <meta name="twitter:creator" content="Moorlag" />
+
+
+
+<meta property="og:locale" content="en" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Inky pHat and Raspberry Pi. 5 How To Tips And Tricks Automate Weather Reports.">
+<meta property="og:description" content="Inky pHat &amp; Pi!" />
+<meta property="og:url" content="https://moorlag.github.io/posts/2020-12-16-inky-phat-and-raspberry-pi-5-tips/" />
+<meta property="og:site_name" content="Moorlag&#39;s Blog" />
+
+  <meta property="og:image" content="https://moorlag.github.io/img/gabriele-diwald-j2OprKAcWkQ-unsplash-scaled.jpg">
+
+<meta property="og:image:width" content="2048">
+<meta property="og:image:height" content="1024">
+
+
+
+
+
+
+
+
+
+
+
+
+
+</head>
+<body class="orange">
+
+
+<div class="container full headings--one-size">
+
+  <header class="header">
+  <div class="header__inner">
+    <div class="header__logo">
+      <a href="/">
+  <div class="logo">
+    Moorlag
+  </div>
+</a>
+
+    </div>
+    
+      <div class="menu-trigger">menu</div>
+    
+  </div>
+  
+    <nav class="menu">
+  <ul class="menu__inner menu__inner--desktop">
+    
+      
+        
+          <li><a href="/about">About</a></li>
+        
+      
+        
+          <li><a href="/contact">Contact</a></li>
+        
+      
+        
+          <li><a href="/inspiration">Inspiration</a></li>
+        
+      
+      
+    
+
+    
+  </ul>
+
+  <ul class="menu__inner menu__inner--mobile">
+    
+      
+        <li><a href="/about">About</a></li>
+      
+    
+      
+        <li><a href="/contact">Contact</a></li>
+      
+    
+      
+        <li><a href="/inspiration">Inspiration</a></li>
+      
+    
+    
+  </ul>
+</nav>
+
+  
+</header>
+
+
+  <div class="content">
+    
+<div class="post">
+  <h1 class="post-title">
+    <a href="https://moorlag.github.io/posts/2020-12-16-inky-phat-and-raspberry-pi-5-tips/">Inky pHat and Raspberry Pi. 5 How To Tips And Tricks Automate Weather Reports.</a></h1>
+  <div class="post-meta">
+    
+    
+      <span class="post-author">:: Moorlag</span>
+    
+    
+  </div>
+
+  
+  <span class="post-tags">
+    
+    #<a href="https://moorlag.github.io/tags/inspiration/">Inspiration</a>&nbsp;
+    
+    #<a href="https://moorlag.github.io/tags/computer-science/">computer science</a>&nbsp;
+    
+  </span>
+  
+  
+  <img src="https://moorlag.github.io/img/gabriele-diwald-j2OprKAcWkQ-unsplash-scaled.jpg"
+    class="post-cover"
+    alt="Inky pHat and Raspberry Pi. 5 How To Tips And Tricks Automate Weather Reports."
+    title="Cover Image" />
+
+
+  
+
+  <div class="post-content"><div>
+        <p>For the annual i&amp;i-conference, I try to find a &rsquo;new&rsquo; gadget for speakers and board members. Last year we bought Inky Phats with a Raspberry Pi Zero W. To be used as interactive name badges. A great success! In this article, I&rsquo;ll share 5 tips on using the display, and I&rsquo;ll be discussing a few problems. Inky pHat is an e-paper display with a dedicated controller in the PCB. Plug and play! And big thanks for the <a href="https://learn.pimoroni.com/tutorial/sandyj/getting-started-with-inky-phat">excellent documentation</a> @Pimoroni!</p>
+<p><img src="/img/inky_phat.jpg" alt="Inky pHat, a Raspberry Pi with a pHat on top of it. Displaying a squid"></p>
+<p><a href="https://shop.pimoroni.com/products/inky-phat?variant=12549254217811">Inky pHat</a> by Pimoroni is easy to use &lsquo;phat&rsquo; A HAT is an extension for the Raspberry Pi platform. Hardware attached on top or HAT. With the sturdy HAT construction, there a three benefits;</p>
+<ul>
+<li><strong>No soldering</strong>; plug it onto the Raspberry Pi.</li>
+<li><strong>Robust mechanical design</strong>, it can handle a school environment.</li>
+<li>&lsquo;<strong>Autoconfiguration</strong>,&rsquo; all the software is provided. Just attached and install. &lsquo;Plug and play/pray.&rsquo;</li>
+</ul>
+<p>I am thrilled with the HAT-system. It just works, no tinkering and no failure with a faulty connection. The design can handle some rough handling (always be careful when handling hardware!), and with the software backend from the manufacture, it&rsquo;s just a few commands in the CLI, and it works. Most of the times ;-)</p>
+<h2 id="tip-1-how-to-update-raspberry-pi">Tip 1 how to update Raspberry Pi<a href="#tip-1-how-to-update-raspberry-pi" class="hanchor" ariaLabel="Anchor">&#8983;</a> </h2>
+<p>It&rsquo;s always good to work with an updated Raspberry Pi. <a href="https://askubuntu.com/questions/94102/what-is-the-difference-between-apt-get-update-and-upgrade">Sudo apt-get update, sudo apt-get upgrade</a>. It will take some time when this is the first time you are using their commands. Keep in mind; these commands are going to be typed into the terminal or SSH. To keep things organized, I always end the update sessions with sudo apt-get <strong>autoclean</strong>. This removes all the no longer used files after an update.</p>
+<h2 id="tip-2-please-use-a-stable-power-supply">Tip 2 Please use a stable power supply<a href="#tip-2-please-use-a-stable-power-supply" class="hanchor" ariaLabel="Anchor">&#8983;</a> </h2>
+<p>It sounds like a normal thing to do, right&hellip; but I found out the hard way that this needs some TCL. The Raspberry Pi was giving strange errors, rebooted, and shutdown for no apparent reason. The installation on the sd-card went corrupt, and I couldn&rsquo;t find the problem. I swapped the card, reinstalled the OS on the card, and even swapped Raspberry Pis. And with some deduction, Sherlock would be proud; I discovered a faulty power supply to be the problem. Double-check the quality of the Micro USB cable! And be careful when installing the Inky pHat. The pins of the Raspberry Pi and Inky pHat need to be aligned. DO-NOT-FORCE.</p>
+<h2 id="tip-3-how-to-install-software-with-cli">Tip 3 How to install software with CLI<a href="#tip-3-how-to-install-software-with-cli" class="hanchor" ariaLabel="Anchor">&#8983;</a> </h2>
+<p>The documentation by Pimoroni is excellent. <a href="https://learn.pimoroni.com/tutorial/sandyj/getting-started-with-inky-phat">Getting Started With Inky pHat</a> is a great start. It helps with the correct commands for the CLI. Again, this display is a <em>command-line</em> interface only. It&rsquo;s a quick installation with a few commandos. I&rsquo;ve summarized the commands under this text block. The dollar ($) sign is a new line on the CLI. Keep in mind; this is a United Kindom based company. And over there, color is spelled with &lsquo;ou.&rsquo; ;-).</p>
+<pre tabindex="0"><code>$ curl https://get.pimoroni.com/inky | bash
+$ cd /home/pi/Pimoroni/inky/examples
+$ python name-badge.py --type &#34;auto&#34; --colour &#34;red&#34; --name &#34;Ramon&#34;
+</code></pre><h2 id="tip-4-automate-the-sht-with-cron">Tip 4 Automate the sh*t with CRON<a href="#tip-4-automate-the-sht-with-cron" class="hanchor" ariaLabel="Anchor">&#8983;</a> </h2>
+<p>CRON is the automation tool in Linux. It&rsquo;s &rsquo;easy&rsquo; to use. I had a few challenges when I wanted to automate the update of the display. CRON was for me. I never used it. This <a href="https://forums.pimoroni.com/t/need-help-with-inky-phat-crontab-update/7207">resource</a> helped me a lot! I started with calling the python script directly from CRON. After a few failures, I found that CRON does understand .sh scripts. This is my .sh script. I called it phat.sh. Open a new file with nano phat.sh. Be in the root of your folders; cd is the command to return to the root. Exit nano with ctrl+x and save (!) the file. After saving, make the file executable. Type in the same folder as the phat.sh : <em>chmod +x phat.sh</em></p>
+<pre tabindex="0"><code>#!/bin/bash
+cd /home/pi/Pimoroni/inky/examples/phat/
+python weather-phat.py --colour red
+</code></pre><p>In the CRON tab, I added the following. The /10 executes the script every 10 minutes (starting at .0 every hour)—only between 8 and 22 hrs. The bash is used to run the script. Pay attention to the <strong>absolute</strong> path with a / at the beginning.</p>
+<pre tabindex="0"><code>*/10 8-22 * * * * bash /home/pi/phat.sh
+</code></pre><h2 id="tip-5-this-works-whats-next">Tip 5 This works, what&rsquo;s next?<a href="#tip-5-this-works-whats-next" class="hanchor" ariaLabel="Anchor">&#8983;</a> </h2>
+<p>And how what? You have a mobile weather station. It runs from a power bank or even <a href="https://www.hackster.io/news/pisugar-is-a-compact-battery-solution-designed-specifically-for-the-raspberry-pi-zero-416b503732e6">a dedicated battery.</a> I&rsquo;m going to install it on the fridge with a micro USB cable to provide power. With the 10-minute update cycle, the screen isn&rsquo;t heavily used and will work for quite some time. <strong>Inky Phat is a fun display</strong>. The use cases are immense, and I am slowly figuring out what else I can build with it.</p>
+
+      </div></div>
+
+  
+  
+<div class="pagination">
+    <div class="pagination__title">
+        <span class="pagination__title-h">Read other posts</span>
+        <hr />
+    </div>
+    <div class="pagination__buttons">
+        
+        <span class="button previous">
+            <a href="https://moorlag.github.io/posts/2017-09-23-eat-sleep-make-repeat/">
+                <span class="button__icon">←</span>
+                <span class="button__text">Eat, sleep, MAKE &amp; repeat</span>
+            </a>
+        </span>
+        
+        
+        <span class="button next">
+            <a href="https://moorlag.github.io/posts/2020-12-05-secret-santa-in-15-minutes-unlock-your-inner-mailninja-with-yamm/">
+                <span class="button__text">Secret Santa in 15 minutes? Unlock Your Inner Mailninja with YAMM!</span>
+                <span class="button__icon">→</span>
+            </a>
+        </span>
+        
+    </div>
+</div>
+
+  
+
+  
+
+</div>
+
+  </div>
+
+  
+    <footer class="footer">
+  <div class="footer__inner">
+    
+      <div class="copyright copyright--user">
+        <span>(c) 2021 Ramon Moorlag</span>
+    
+        <span>:: Theme made by <a href="https://twitter.com/panr">panr</a></span>
+      </div>
+  </div>
+</footer>
+
+<script src="https://moorlag.github.io/assets/main.js"></script>
+<script src="https://moorlag.github.io/assets/prism.js"></script>
+
+
+
+
+
+
+
+  
+</div>
+
+</body>
+</html>

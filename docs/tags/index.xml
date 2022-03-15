@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Moorlag&#39;s Blog</title>
+    <link>https://moorlag.github.io/tags/</link>
+    <description>Recent content in Tags on Moorlag&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>(c) 2021 Ramon Moorlag</copyright>
+    <lastBuildDate>Sun, 27 Jun 2021 21:03:21 +0200</lastBuildDate><atom:link href="https://moorlag.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>computer science</title>
+      <link>https://moorlag.github.io/tags/computer-science/</link>
+      <pubDate>Sun, 27 Jun 2021 21:03:21 +0200</pubDate>
+      
+      <guid>https://moorlag.github.io/tags/computer-science/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+    <item>
+      <title>GoHugo</title>
+      <link>https://moorlag.github.io/tags/gohugo/</link>
+      <pubDate>Sun, 27 Jun 2021 21:03:21 +0200</pubDate>
+      
+      <guid>https://moorlag.github.io/tags/gohugo/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+    <item>
+      <title>Inspiration</title>
+      <link>https://moorlag.github.io/tags/inspiration/</link>
+      <pubDate>Sun, 22 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://moorlag.github.io/tags/inspiration/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+    <item>
+      <title>emergancyteaching</title>
+      <link>https://moorlag.github.io/tags/emergancyteaching/</link>
+      <pubDate>Wed, 30 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://moorlag.github.io/tags/emergancyteaching/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+    <item>
+      <title>lockdown</title>
+      <link>https://moorlag.github.io/tags/lockdown/</link>
+      <pubDate>Wed, 30 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://moorlag.github.io/tags/lockdown/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+    <item>
+      <title>tips</title>
+      <link>https://moorlag.github.io/tags/tips/</link>
+      <pubDate>Wed, 30 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://moorlag.github.io/tags/tips/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+  </channel>
+</rss>

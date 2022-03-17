@@ -2,24 +2,61 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Moorlag&#39;s Blog</title>
-    <link>/posts/</link>
+    <link>https://ramonmoorlag.nl/posts/</link>
     <description>Recent content in Posts on Moorlag&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>(c) 2021 Ramon Moorlag</copyright>
-    <lastBuildDate>Sun, 27 Jun 2021 21:03:21 +0200</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 27 Jun 2021 21:03:21 +0200</lastBuildDate><atom:link href="https://ramonmoorlag.nl/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hello Hugo</title>
-      <link>/posts/2021-07-15-let-it-be-known-im-going-hugo/</link>
+      <link>https://ramonmoorlag.nl/posts/2021-07-15-let-it-be-known-im-going-hugo/</link>
       <pubDate>Sun, 27 Jun 2021 21:03:21 +0200</pubDate>
       
-      <guid>/posts/2021-07-15-let-it-be-known-im-going-hugo/</guid>
+      <guid>https://ramonmoorlag.nl/posts/2021-07-15-let-it-be-known-im-going-hugo/</guid>
       <description>Yes, I&amp;rsquo;m going back to basics. Just some storage and no interactive elements (looking at you cookiewall). No more databases, Hugo runs on almost every webserver. Incl. this one +++ Hugo logo
 With great anticipation I am transiting my personal blog to Hugo. 🚀
 Why?  It&amp;rsquo;s fun to learn something new! It&amp;rsquo;s quick! The quickstart only takes 7 minutes! It&amp;rsquo;s another way to use MarkDown (awesome!) And&amp;hellip; no more updates  Under the hood of Hugo  The world’s fastest framework for building websites</description>
       <content>&lt;p&gt;Yes, I&amp;rsquo;m going back to basics. Just some storage and no interactive elements (looking at you cookiewall). No more databases, Hugo runs on almost every webserver. Incl. this one
 +++
-&lt;img src=&#34;/img/gohugoio-card.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;img src=&#34;https://ramonmoorlag.nl/img/gohugoio-card.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Hugo logo&lt;/p&gt;
+&lt;p&gt;With great anticipation I am transiting my personal blog to &lt;a href=&#34;https://gohugo.io/&#34;&gt;Hugo&lt;/a&gt;. 🚀&lt;/p&gt;
+&lt;h2 id=&#34;why&#34;&gt;Why?&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;It&amp;rsquo;s fun to learn something new!&lt;/li&gt;
+&lt;li&gt;It&amp;rsquo;s quick! The &lt;a href=&#34;https://gohugo.io/getting-started/quick-start/&#34;&gt;quickstart&lt;/a&gt; only takes 7 minutes!&lt;/li&gt;
+&lt;li&gt;It&amp;rsquo;s another way to use MarkDown (awesome!)&lt;/li&gt;
+&lt;li&gt;And&amp;hellip; no more updates&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;under-the-hood-of-hugo&#34;&gt;Under the hood of Hugo&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;The world’s fastest framework for building websites&lt;br&gt;
+Hugo is one of the most popular open-source static site generators. With its amazing speed and flexibility, Hugo makes building websites fun again.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://gohugo.io/&#34;&gt;https://gohugo.io/&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;markdown&#34;&gt;Markdown!&lt;/h2&gt;
+&lt;p&gt;Markdown is a way to write content for the web. It’s written in what people like to call “plaintext”, which is exactly the sort of text you’re used to writing and seeing. Plaintext is just the regular alphabet, with a few familiar symbols, like asterisks ( &lt;code&gt;*&lt;/code&gt; ) and backticks ( &lt;code&gt;`&lt;/code&gt; ).&lt;/p&gt;
+&lt;p&gt;Unlike cumbersome word processing applications, text written in Markdown can be easily shared between computers, mobile phones, and people. It’s quickly becoming the writing standard for &lt;a href=&#34;http://chronicle.com/blogs/profhacker/markdown-the-syntax-you-probably-already-know/35295&#34;&gt;academics&lt;/a&gt;, &lt;a href=&#34;http://blogs.plos.org/mfenner/2012/12/13/a-call-for-scholarly-markdown/&#34;&gt;scientists&lt;/a&gt;, &lt;a href=&#34;https://lifehacker.com/5943320/what-is-markdown-and-why-is-it-better-for-my-to+do-lists-and-notes&#34;&gt;writers&lt;/a&gt;, and many more. Websites like &lt;a href=&#34;https://www.github.com/&#34;&gt;GitHub&lt;/a&gt; and &lt;a href=&#34;https://www.reddit.com/&#34;&gt;reddit&lt;/a&gt; use Markdown to style their comments.&lt;/p&gt;
+&lt;p&gt;Formatting text in Markdown has a very gentle learning curve. It doesn’t do anything fancy like change the font size, color, or type. All you have control over is the display of the text—stuff like making things bold, creating headers, and organizing lists.&lt;/p&gt;
+&lt;p&gt;If you have ten minutes, you can learn Markdown!&lt;/p&gt;
+&lt;p&gt;In each lesson, you’ll be given an introduction to a single Markdown concept. Then, you’ll be asked to complete several exercises with that new knowledge.&lt;/p&gt;
+&lt;p&gt;Start learning Markdown today. Trust me, &lt;a href=&#34;https://www.markdowntutorial.com/&#34;&gt;this tutorial will stick&lt;/a&gt; (also available in &lt;a href=&#34;https://www.markdowntutorial.com/nl/&#34;&gt;Dutch&lt;/a&gt;!)&lt;/p&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>Hello Hugo</title>
+      <link>https://ramonmoorlag.nl/posts/2022-03-17-infrastructure-ready-launch/</link>
+      <pubDate>Sun, 27 Jun 2021 21:03:21 +0200</pubDate>
+      
+      <guid>https://ramonmoorlag.nl/posts/2022-03-17-infrastructure-ready-launch/</guid>
+      <description>Yes, I&amp;rsquo;m going back to basics. Just some storage and no interactive elements (looking at you cookiewall). No more databases, Hugo runs on almost every webserver. Incl. this one +++ Hugo logo
+With great anticipation I am transiting my personal blog to Hugo. 🚀
+Why?  It&amp;rsquo;s fun to learn something new! It&amp;rsquo;s quick! The quickstart only takes 7 minutes! It&amp;rsquo;s another way to use MarkDown (awesome!) And&amp;hellip; no more updates  Under the hood of Hugo  The world’s fastest framework for building websites</description>
+      <content>&lt;p&gt;Yes, I&amp;rsquo;m going back to basics. Just some storage and no interactive elements (looking at you cookiewall). No more databases, Hugo runs on almost every webserver. Incl. this one
++++
+&lt;img src=&#34;https://ramonmoorlag.nl/img/gohugoio-card.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Hugo logo&lt;/p&gt;
 &lt;p&gt;With great anticipation I am transiting my personal blog to &lt;a href=&#34;https://gohugo.io/&#34;&gt;Hugo&lt;/a&gt;. 🚀&lt;/p&gt;
 &lt;h2 id=&#34;why&#34;&gt;Why?&lt;/h2&gt;
@@ -47,10 +84,10 @@ Hugo is one of the most popular open-source static site generators. With its ama
     
     <item>
       <title>AxiDraw &amp; Snap!cloud, een gouden combinatie?! Ga aan de slag!</title>
-      <link>/posts/2020-11-22-axidraw-snapcloud-een-gouden-combinatie-ga-aan-de-slag/</link>
+      <link>https://ramonmoorlag.nl/posts/2020-11-22-axidraw-snapcloud-een-gouden-combinatie-ga-aan-de-slag/</link>
       <pubDate>Sun, 22 Nov 2020 00:00:00 +0000</pubDate>
       
-      <guid>/posts/2020-11-22-axidraw-snapcloud-een-gouden-combinatie-ga-aan-de-slag/</guid>
+      <guid>https://ramonmoorlag.nl/posts/2020-11-22-axidraw-snapcloud-een-gouden-combinatie-ga-aan-de-slag/</guid>
       <description>Ga er maar aan staan, een snelle handleiding over AxiDraw is er niet. Het gebruik ervan is bedriegelijk eenvoudig en tegelijkertijd bijzonder complex. Toch probeer ik een &amp;lsquo;ga aan de slag!&amp;rsquo; te schrijven.
  AxiDraw promo video
 AxiDraw Een aantal zaken zijn van belang. Een SVG (meer info) is hét bestandsformaat waar je het meeste mee kunt. Het is een 2d-vector formaat en dat levert door de schaalbaarheid voordelen op. In het voorbeeld kun je ook zien wat het verschil is tussen een SVG en een PNG bestand.</description>
@@ -67,10 +104,10 @@ AxiDraw Een aantal zaken zijn van belang. Een SVG (meer info) is hét bestandsfo
 &lt;p&gt;Snap! kan eenvoudig bijhouden hoe een tekening getekend wordt. Doe dit via settings -&amp;gt; log pen vector. Daarna kun je een vector (SVG) dowloaden.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;img src=&#34;/img/Screenshot-2020-11-22-at-18.50.27.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://ramonmoorlag.nl/img/Screenshot-2020-11-22-at-18.50.27.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;img src=&#34;/img/Screenshot-2020-11-22-at-18.51.23-1.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://ramonmoorlag.nl/img/Screenshot-2020-11-22-at-18.51.23-1.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Log pen vectors aanvinken, daarna rechtsonderin via Stage en rechtermuisknop export -&amp;gt; SVG&lt;/p&gt;
@@ -80,17 +117,17 @@ AxiDraw Een aantal zaken zijn van belang. Een SVG (meer info) is hét bestandsfo
 &lt;iframe allowfullscreen allow=&#34;geolocation; microphone; camera&#34; frameborder=&#34;0&#34; src=&#34;https://snap.berkeley.edu/embed?project=4trispi&amp;amp;user=cynthiaso&amp;amp;showTitle=true&amp;amp;showAuthor=true&amp;amp;editButton=true&amp;amp;pauseButton=true&#34; width=&#34;480&#34; height=&#34;390&#34;&gt;&lt;/iframe&gt;
 
 
-&lt;img src=&#34;/img/Untitled-scaled.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;img src=&#34;https://ramonmoorlag.nl/img/Untitled-scaled.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Boven een SVG, onder een PNG&lt;/p&gt;
 </content>
     </item>
     
     <item>
       <title>BETT 2019, vooral meer van hetzelfde ?</title>
-      <link>/posts/2019-04-14-bett-2019-vooral-meer-van-hetzelfde/</link>
+      <link>https://ramonmoorlag.nl/posts/2019-04-14-bett-2019-vooral-meer-van-hetzelfde/</link>
       <pubDate>Sun, 14 Apr 2019 00:00:00 +0000</pubDate>
       
-      <guid>/posts/2019-04-14-bett-2019-vooral-meer-van-hetzelfde/</guid>
+      <guid>https://ramonmoorlag.nl/posts/2019-04-14-bett-2019-vooral-meer-van-hetzelfde/</guid>
       <description>In Dutch, sorry folks! Also published in Vives!
 Wat is BETT? De 35e Bett show werd dit jaar voor de zevende keer gehouden in de ExCel hallen in Londen. De afkorting Bett staat voor British Educational Training and Technology Show. Jaarlijks bezoeken ongeveer 35.000 belangstellenden uit 113 landen deze ICT beurs. Onder de 850 aanwezige bedrijven bevinden zich ruim 100 startups. Nagenoeg alle aanwezige standhouders richten zich op onderwijs en ICT.</description>
       <content>&lt;p&gt;In Dutch, sorry folks! Also published in Vives!&lt;/p&gt;
@@ -125,10 +162,10 @@ Uit Engeland komt het bedrijf &lt;a href=&#34;http://www.inventblocks.com&#34;&g
     
     <item>
       <title>CIDREE meeting</title>
-      <link>/posts/2019-04-12-cidree-meeting/</link>
+      <link>https://ramonmoorlag.nl/posts/2019-04-12-cidree-meeting/</link>
       <pubDate>Fri, 12 Apr 2019 00:00:00 +0000</pubDate>
       
-      <guid>/posts/2019-04-12-cidree-meeting/</guid>
+      <guid>https://ramonmoorlag.nl/posts/2019-04-12-cidree-meeting/</guid>
       <description>On the 11th of April, ten countries joined their computational brainpower to explore each other&amp;rsquo;s vision on Computational and Mathematical thinking. What started as a little chaotic conversation, after 30-45 minutes this conference found it&amp;rsquo;s a voice. We started with a Skype call to Paul Drijvers from the University of Utrecht. I love a chaotic start of a conference. :-)
 With the dedication I come to expect from experts in education; we started to map our contexts and developed posters.</description>
       <content>&lt;p&gt;On the 11th of April, ten countries joined their computational brainpower to explore each other&amp;rsquo;s vision on Computational and Mathematical thinking. What started as a little chaotic conversation, after 30-45 minutes this conference found it&amp;rsquo;s a voice. We started with a Skype call to Paul Drijvers from the University of Utrecht. I love a chaotic start of a conference. :-)&lt;/p&gt;
@@ -146,13 +183,13 @@ How to calculate the most efficient route for a frozen food delivery company aft
 &lt;p&gt;The meeting ended at the national railway museum with an excellent dinner in the &amp;lsquo;first class waiting room&amp;rsquo; and a guided tour in the museum. I&amp;rsquo;ve added a few pictures below of the museum, looking at pictures of people presenting is quite dull. The first picture reminded me of a kind of robot. :-)&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;img src=&#34;/img/Spoorwegmusem_CIDREE_4.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://ramonmoorlag.nl/img/Spoorwegmusem_CIDREE_4.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;img src=&#34;/img/Spoorwegmuseum_CIDREE.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://ramonmoorlag.nl/img/Spoorwegmuseum_CIDREE.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;img src=&#34;/img/Spoorwegmuseum_CIDREE_2.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://ramonmoorlag.nl/img/Spoorwegmuseum_CIDREE_2.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
 
@@ -166,10 +203,10 @@ How to calculate the most efficient route for a frozen food delivery company aft
     
     <item>
       <title>Understanding Music and taste better</title>
-      <link>/posts/2019-04-01-understanding-music-and-taste-better/</link>
+      <link>https://ramonmoorlag.nl/posts/2019-04-01-understanding-music-and-taste-better/</link>
       <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
       
-      <guid>/posts/2019-04-01-understanding-music-and-taste-better/</guid>
+      <guid>https://ramonmoorlag.nl/posts/2019-04-01-understanding-music-and-taste-better/</guid>
       <description>Reviewing project, &amp;lsquo;help Moorlag understand music&amp;rsquo;. This is the result of one year of collecting music. The link to the playlist can be found here.
 Using a collaborative playlist on Spotify, I started the project. One thousand songs later, I can conclude that the plan was a success. My followers on Instagram contributed, my students participated, and the internet learned the elegance of Musical preferences via crowdsourcing.
 I felt a full array of emotions while listing to the Playlist.</description>
@@ -177,19 +214,19 @@ I felt a full array of emotions while listing to the Playlist.</description>
 &lt;p&gt;Using a collaborative playlist on Spotify, I started the project.  One thousand songs later, I can conclude that the plan was a success. My followers on &lt;a href=&#34;http://www.instagram.com/moorlag&#34;&gt;Instagram&lt;/a&gt; contributed, my students participated, and the internet learned the elegance of Musical preferences via crowdsourcing.&lt;/p&gt;
 &lt;p&gt;I felt a full array of emotions while listing to the Playlist. It was fun, sad, colorful, abrupt, slow, fast, and most of all, it connected. I feel that I understand my students better because of the music they shared. The contributor is mentioned in the Playlist. The top three contributors added value, not only in absolute terms but also in a relative sense. I was shocked that my students had a very, very broad sense of musical taste -  music from the 50s to the present. I listened to it all. Even better, I use the playlist daily. It helps me connect with students, to their emotions, to their needs. And it is also great fun!&lt;/p&gt;
 &lt;p&gt;To prevent spamming on my playlist (yes, c-artists use it a lot!), the link can be found via my &lt;a href=&#34;http://www.instagram.com/moorlag&#34;&gt;instagram&lt;/a&gt; account&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/img/chart-1.png&#34; alt=&#34;&#34;&gt;
+&lt;p&gt;&lt;img src=&#34;https://ramonmoorlag.nl/img/chart-1.png&#34; alt=&#34;&#34;&gt;
 Top contributes&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/img/chart-2.png&#34; alt=&#34;&#34;&gt;
+&lt;p&gt;&lt;img src=&#34;https://ramonmoorlag.nl/img/chart-2.png&#34; alt=&#34;&#34;&gt;
 Top artists&lt;/p&gt;
 </content>
     </item>
     
     <item>
       <title>Numworks</title>
-      <link>/posts/2019-01-15-numworks/</link>
+      <link>https://ramonmoorlag.nl/posts/2019-01-15-numworks/</link>
       <pubDate>Tue, 15 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>/posts/2019-01-15-numworks/</guid>
+      <guid>https://ramonmoorlag.nl/posts/2019-01-15-numworks/</guid>
       <description>What is it and how does it work? This quick review of my unit starts off with a short story &amp;ldquo;Numworks about Numworks&amp;rdquo;. There is an online simulator of Numworks. It has all the same functions as the physical device.
  _Targeting a high school audience and competing with Texas Instruments&amp;rsquo; Ti-_nspire family, the NumWorks calculator is equipped with a non-touch color LCD2.
 Translated from the Wiki
@@ -232,10 +269,10 @@ while flag:
     
     <item>
       <title>e-Estonia. Looking at others is confronting to yourself.</title>
-      <link>/posts/2018-11-14-e-estonia-looking-at-others-is-confronting-to-yourself/</link>
+      <link>https://ramonmoorlag.nl/posts/2018-11-14-e-estonia-looking-at-others-is-confronting-to-yourself/</link>
       <pubDate>Wed, 14 Nov 2018 00:00:00 +0000</pubDate>
       
-      <guid>/posts/2018-11-14-e-estonia-looking-at-others-is-confronting-to-yourself/</guid>
+      <guid>https://ramonmoorlag.nl/posts/2018-11-14-e-estonia-looking-at-others-is-confronting-to-yourself/</guid>
       <description>24 hours after returning home I suddenly felt an urge to write out my thoughts and feelings after being emerged in the Estonian educational system. UPDATE: It did take a few weeks to finalize this blog, let&amp;rsquo;s blame Trump ;-)
 In retrospect, I enjoyed the trip to Estonia but the vast gap between a Gymnasium and a Polytech institute was so large I felt uncomfortable. The inequality between students is enormous.</description>
       <content>&lt;p&gt;24 hours after returning home I suddenly felt an urge to write out my thoughts and feelings after being emerged in the Estonian educational system. UPDATE: It did take a few weeks to finalize this blog, let&amp;rsquo;s blame Trump ;-)&lt;/p&gt;
@@ -248,10 +285,10 @@ In retrospect, I enjoyed the trip to Estonia but the vast gap between a Gymnasiu
     
     <item>
       <title>e-Estonia, een intieme inkijk in een &#39;ander&#39; Europees land.</title>
-      <link>/posts/2018-10-27-e-estonia-een-intieme-inkijk-in-een-ander-europees-land/</link>
+      <link>https://ramonmoorlag.nl/posts/2018-10-27-e-estonia-een-intieme-inkijk-in-een-ander-europees-land/</link>
       <pubDate>Sat, 27 Oct 2018 00:00:00 +0000</pubDate>
       
-      <guid>/posts/2018-10-27-e-estonia-een-intieme-inkijk-in-een-ander-europees-land/</guid>
+      <guid>https://ramonmoorlag.nl/posts/2018-10-27-e-estonia-een-intieme-inkijk-in-een-ander-europees-land/</guid>
       <description>We komen om klokslag 09.00 uur aan bij Innove, een nascholingscentrum voor leraren in Estland. Helena Karu-Baher geeft een overzicht van wat men voor heeft op gebied van teachertraining. Ze legt uit dat docenten &amp;amp; schoolleiding moeite hebben met de ontwikkeling van het lerarenberoep. Vooral schoolleiders hebben hiervan last, het land is kleiner en kent slecht weinig groeimogelijkheden. Schoolleiders krijgen het er vooral van langs. Ze weten niet hoe leraren te ontwikkelen en als leider innoveren ze te weinig.</description>
       <content>&lt;p&gt;We komen om klokslag 09.00 uur aan bij Innove, een nascholingscentrum voor leraren in Estland. Helena Karu-Baher geeft een overzicht van wat men voor heeft op gebied van teachertraining. Ze legt uit dat docenten &amp;amp; schoolleiding moeite hebben met de ontwikkeling van het lerarenberoep. Vooral schoolleiders hebben hiervan last, het land is kleiner en kent slecht weinig groeimogelijkheden. Schoolleiders krijgen het er vooral van langs. Ze weten niet hoe leraren te ontwikkelen en als leider innoveren ze te weinig. Wie in Estland schoolleider wordt blijft dat vaak tot zijn pensioen.&lt;br&gt;
 Leraren worden universitair opgeleid. Dat gebeurt in Talinn &amp;amp; Tartu.&lt;/p&gt;
@@ -283,10 +320,10 @@ Het valt op hoe open Karli is, hij logt in op zijn persoonlijk portaal van zijn 
     
     <item>
       <title>Google certified innovators</title>
-      <link>/posts/2018-09-10-google-certified-innovators-get-ready-for-the-launch/</link>
+      <link>https://ramonmoorlag.nl/posts/2018-09-10-google-certified-innovators-get-ready-for-the-launch/</link>
       <pubDate>Mon, 10 Sep 2018 00:00:00 +0000</pubDate>
       
-      <guid>/posts/2018-09-10-google-certified-innovators-get-ready-for-the-launch/</guid>
+      <guid>https://ramonmoorlag.nl/posts/2018-09-10-google-certified-innovators-get-ready-for-the-launch/</guid>
       <description>Last week I was surprised by the assignment of mentors. I was assigned a mentor for the Google Certified innovator program (see also my previous blog). The project I am working on is called &amp;lsquo;are you still there&amp;rsquo;. An interactive system to measure the growth of students in a fun way. Not a system to pursuit students, but a system to give insight into learning and the absence of that learning.</description>
       <content>&lt;p&gt;Last week I was surprised by the assignment of mentors. I was assigned a mentor for the Google Certified innovator program (see also my previous blog). &lt;/p&gt;
 &lt;p&gt;The project I am working on is called &amp;lsquo;&lt;em&gt;are you still there&lt;/em&gt;&amp;rsquo;. An interactive system to measure the growth of students in a fun way. Not a system to pursuit students, but a system to give insight into learning and the absence of that learning. Based on the activity system of Git. This is going to be so much fun!&lt;/p&gt;
@@ -296,10 +333,10 @@ Het valt op hoe open Karli is, hij logt in op zijn persoonlijk portaal van zijn 
     
     <item>
       <title>Kickstart Computer Science Education</title>
-      <link>/posts/2018-08-27-kickstart-computer-science-education/</link>
+      <link>https://ramonmoorlag.nl/posts/2018-08-27-kickstart-computer-science-education/</link>
       <pubDate>Mon, 27 Aug 2018 00:00:00 +0000</pubDate>
       
-      <guid>/posts/2018-08-27-kickstart-computer-science-education/</guid>
+      <guid>https://ramonmoorlag.nl/posts/2018-08-27-kickstart-computer-science-education/</guid>
       <description>Implementing a new core curriculum for Computer Science is a challenge. Adding twelve different optional modules is fun. The optional modules will be developed with the help of the bèta-support centers and with a lot of help from teachers. I&amp;rsquo;m attached to the development of networking &amp;amp; Internet of Things. It&amp;rsquo;s been a great adventure and I learned a lot. A lot about new protocols, transmission rates, data packet sizes and most importantly I rediscovered the joy of learning.</description>
       <content>&lt;p&gt;Implementing a new core curriculum for Computer Science is a challenge. Adding twelve different optional modules is fun. The optional modules will be developed with the help of the bèta-support centers and with a lot of help from teachers. I&amp;rsquo;m attached to the development of networking &amp;amp; Internet of Things. It&amp;rsquo;s been a great adventure and I learned a lot. A lot about new protocols, transmission rates, data packet sizes and most importantly I rediscovered the joy of learning.&lt;/p&gt;
 &lt;p&gt;Every school holiday I try to develop a new skill (ranging from speaking Swedish to Origami). It&amp;rsquo;s fun to learn something new and I find it a great way to connect with my students. The fun and uncertainty of learning is something I really enjoy and it&amp;rsquo;s the modus operandi for a lot of students. From frustration to understanding, discovering, applying and implementing. A lot of these aspects my students experience on a daily basis.&lt;/p&gt;
@@ -309,10 +346,10 @@ Het valt op hoe open Karli is, hij logt in op zijn persoonlijk portaal van zijn 
     
     <item>
       <title>Colab? Spotify collaborative</title>
-      <link>/posts/2018-08-25-colab-spotify-colaberative/</link>
+      <link>https://ramonmoorlag.nl/posts/2018-08-25-colab-spotify-colaberative/</link>
       <pubDate>Sat, 25 Aug 2018 00:00:00 +0000</pubDate>
       
-      <guid>/posts/2018-08-25-colab-spotify-colaberative/</guid>
+      <guid>https://ramonmoorlag.nl/posts/2018-08-25-colab-spotify-colaberative/</guid>
       <description>Connecting with my students is something I really enjoy. One of my newest experiments is a collaborative playlist on Spotify. An easy way for students to send me tracks on Spotify.
  &amp;lsquo;Mister Moorlag, this you really need to hear&amp;rsquo;.
  With the greatest of care, they arranged a starting playlist with 25 tracks. And then things started to grow! Now with over 28 hours of music; 420 tracks and 38 followers I think I found a new way to interact with my students.</description>
@@ -332,10 +369,10 @@ Het valt op hoe open Karli is, hij logt in op zijn persoonlijk portaal van zijn 
     
     <item>
       <title>Get ready to innovate, start your engines</title>
-      <link>/posts/2018-08-25-get-ready-to-innovate-start-your-engines/</link>
+      <link>https://ramonmoorlag.nl/posts/2018-08-25-get-ready-to-innovate-start-your-engines/</link>
       <pubDate>Sat, 25 Aug 2018 00:00:00 +0000</pubDate>
       
-      <guid>/posts/2018-08-25-get-ready-to-innovate-start-your-engines/</guid>
+      <guid>https://ramonmoorlag.nl/posts/2018-08-25-get-ready-to-innovate-start-your-engines/</guid>
       <description>Ladies, start your engines and may the best woman win. Get ready to innovate! With the help of my students, I discovered RuPaul&amp;rsquo;s Drag race. I think it gives an alternative view on how Americans see themselves and each other (and Facebook has 70 (!) genders to choose from). I&amp;rsquo;m happy my students share these experiences with me. With a good connection, the learning happens almost automatically.
 Innovation is just like gender; we are born with it and try to make the best of it.</description>
       <content>&lt;h1 id=&#34;ladies-start-your-engines-and-may-the-best-woman-win-get-ready-to-innovate&#34;&gt;Ladies, start your engines and may the best woman win. Get ready to innovate!&lt;/h1&gt;
@@ -347,16 +384,16 @@ Innovation is just like gender; we are born with it and try to make the best of 
     
     <item>
       <title>This blog is now protected</title>
-      <link>/posts/2018-06-17-cloudflare-protecting-my-blog/</link>
+      <link>https://ramonmoorlag.nl/posts/2018-06-17-cloudflare-protecting-my-blog/</link>
       <pubDate>Sun, 17 Jun 2018 00:00:00 +0000</pubDate>
       
-      <guid>/posts/2018-06-17-cloudflare-protecting-my-blog/</guid>
+      <guid>https://ramonmoorlag.nl/posts/2018-06-17-cloudflare-protecting-my-blog/</guid>
       <description>Cloudflare? With the help of Cloudflare my blog is now HTTPS enabled and in case of a DDoS attack the service also can help manage the traffic. It&amp;rsquo;s free! Cloudflare is a &amp;lsquo;content delivery network&amp;rsquo; service. Basically is helps the web server to serve the website in a durable way to visitors (and prevents attackers from accessing the website).
  Implementing During the implementation, I used the knowledge base a lot.</description>
       <content>&lt;h1 id=&#34;cloudflare&#34;&gt;Cloudflare?&lt;/h1&gt;
 &lt;p&gt;With the help of Cloudflare my blog is now HTTPS enabled and in case of a DDoS attack the service also can help manage the traffic. It&amp;rsquo;s free! Cloudflare is a &amp;lsquo;content delivery network&amp;rsquo; service. Basically is helps the web server to serve the website in a durable way to visitors (and prevents attackers from accessing the website).&lt;/p&gt;
 &lt;p&gt; &lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/img/overview.png&#34; alt=&#34;Routing or rerouting&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://ramonmoorlag.nl/img/overview.png&#34; alt=&#34;Routing or rerouting&#34;&gt;&lt;/p&gt;
 &lt;h2 id=&#34;implementing&#34;&gt;Implementing&lt;/h2&gt;
 &lt;p&gt;During the implementation, I used the knowledge base a lot. Feel free to speed up the process of implementing with these links.&lt;/p&gt;
 &lt;ul&gt;
@@ -381,10 +418,10 @@ Innovation is just like gender; we are born with it and try to make the best of 
     
     <item>
       <title>Student centered learning</title>
-      <link>/posts/2018-05-29-student-centered-learning/</link>
+      <link>https://ramonmoorlag.nl/posts/2018-05-29-student-centered-learning/</link>
       <pubDate>Tue, 29 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>/posts/2018-05-29-student-centered-learning/</guid>
+      <guid>https://ramonmoorlag.nl/posts/2018-05-29-student-centered-learning/</guid>
       <description>Student-centered learning and subject cluster projects. Hello World is my favorite magazine. It&amp;rsquo;s from the UK and is all about computer science and teaching/learning the subject. I was asked by my dear friend Miles Berry to prepare a 1000 word piece about student-centered learning. Quite a challenge I can assure you. I wrote about student-centered learning with &amp;lsquo;profielwerkstukken&amp;rsquo; (final research projects in the last phase of education).
 My students loved it, made my mother proud and I found a new skill.</description>
       <content>&lt;h1 id=&#34;student-centered-learning-and-subject-cluster-projects&#34;&gt;Student-centered learning and subject cluster projects.&lt;/h1&gt;
@@ -392,17 +429,17 @@ My students loved it, made my mother proud and I found a new skill.</descriptio
 &lt;p&gt;My students loved it, made my mother proud and I found a new skill.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://camo.githubusercontent.com/023864bc52ab9582caaf4bb8ed1832fef0cfbe41/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f336f366e555950394144627632674136524f2f67697068792e676966&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Thanks to Yochem, Nathan &amp;amp; Jelle the project was a success, they developed an opensource hand prosthetic. With a muscle sensor and a custom PCB. In the project, pipeline is adding machine learning to the device and refining the fingers. Everything is documented very well on &lt;a href=&#34;https://github.com/3PMAP&#34;&gt;GitHub&lt;/a&gt;. The prosthetic can be built with €200 budget. My students are going to refine the design and lower the price even more. Everything is open source and can be adeptly easily. The article can be accessed here for free :-)&lt;/p&gt;
-&lt;p&gt;In the Netherlands, students have to carry out a final research project in the last two years of their secondary school education. This research must emphasize the level of the students in a clear manner. In the Netherlands, this research project is called &amp;lsquo;subject cluster project&amp;rsquo; because the student can choose between a number of subject combinations. Students only have to create one subject cluster project, whether or not in collaboration with others. Got your interest? The entire article can be found here. &lt;a href=&#34;/img/HelloWorld05.pdf&#34;&gt;HelloWorld 05&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/img/HW_PWS_Students.png&#34; alt=&#34;Hello World with Yochem, Nathan &amp;amp; Jelle&#34;&gt; Hello World with Yochem, Nathan &amp;amp; Jelle&lt;/p&gt;
+&lt;p&gt;In the Netherlands, students have to carry out a final research project in the last two years of their secondary school education. This research must emphasize the level of the students in a clear manner. In the Netherlands, this research project is called &amp;lsquo;subject cluster project&amp;rsquo; because the student can choose between a number of subject combinations. Students only have to create one subject cluster project, whether or not in collaboration with others. Got your interest? The entire article can be found here. &lt;a href=&#34;https://ramonmoorlag.nl/img/HelloWorld05.pdf&#34;&gt;HelloWorld 05&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://ramonmoorlag.nl/img/HW_PWS_Students.png&#34; alt=&#34;Hello World with Yochem, Nathan &amp;amp; Jelle&#34;&gt; Hello World with Yochem, Nathan &amp;amp; Jelle&lt;/p&gt;
 </content>
     </item>
     
     <item>
       <title>Sladda? This is not yet an other bike review</title>
-      <link>/posts/2018-05-13-sladda-this-is-not-yet-an-other-bike-review/</link>
+      <link>https://ramonmoorlag.nl/posts/2018-05-13-sladda-this-is-not-yet-an-other-bike-review/</link>
       <pubDate>Sun, 13 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>/posts/2018-05-13-sladda-this-is-not-yet-an-other-bike-review/</guid>
+      <guid>https://ramonmoorlag.nl/posts/2018-05-13-sladda-this-is-not-yet-an-other-bike-review/</guid>
       <description>Sladda, the IKEA bike  This is not yet another bike review or is it.
 UPDATE: IKEA recalled the bike and I gave the bike back to IKEA :-( UPDATE: I bought a refurbished bike for roughly 15% of the orginal price :-)
  Drinking my coffee in Amsterdam and letting my thoughts go free I noticed quite a few bikes with a blue tire. And that started this blog. Why buy a bike when you can lease one for the price of 3 Starbucks beverages a month.</description>
@@ -427,10 +464,10 @@ UPDATE: I bought a refurbished bike for roughly 15% of the orginal price :-)&lt;
     
     <item>
       <title>Experimenting</title>
-      <link>/posts/2018-04-21-experimenting/</link>
+      <link>https://ramonmoorlag.nl/posts/2018-04-21-experimenting/</link>
       <pubDate>Sat, 21 Apr 2018 00:00:00 +0000</pubDate>
       
-      <guid>/posts/2018-04-21-experimenting/</guid>
+      <guid>https://ramonmoorlag.nl/posts/2018-04-21-experimenting/</guid>
       <description>Eat, sleep, learn &amp;amp; repeat Based on the song from Fat Boy Slim; Eat, sleep, Rave &amp;amp; Repeat this is a mantra that sticks. Experimenting!
 Learning is what sets us apart from the Neandertal. We can cope with setbacks, a change in environment and the ability to learn from feedback. In this short blog a few experiments to keep the mind busy, keep my employer happy, enjoy the benefits of being a Homosapien, to learn and share what is working!</description>
       <content>&lt;h1 id=&#34;eat-sleep-learn--repeat&#34;&gt;Eat, sleep, learn &amp;amp; repeat&lt;/h1&gt;
@@ -488,26 +525,26 @@ Learning is what sets us apart from the Neandertal. We can cope with setbacks, a
     
     <item>
       <title>A few days in Berlin</title>
-      <link>/posts/2018-04-03-a-few-days-in-berlin/</link>
+      <link>https://ramonmoorlag.nl/posts/2018-04-03-a-few-days-in-berlin/</link>
       <pubDate>Tue, 03 Apr 2018 00:00:00 +0000</pubDate>
       
-      <guid>/posts/2018-04-03-a-few-days-in-berlin/</guid>
+      <guid>https://ramonmoorlag.nl/posts/2018-04-03-a-few-days-in-berlin/</guid>
       <description>Really enjoyed a few days in Berlin. In a few pictures here or with the context on Instagram </description>
       <content>&lt;h1 id=&#34;really-enjoyed-a-few-days-in-berlin&#34;&gt;Really enjoyed a few days in Berlin.&lt;/h1&gt;
 &lt;p&gt;In a few pictures here or with &lt;a href=&#34;http://www.instagram.com/moorlag&#34;&gt;the context on Instagram&lt;/a&gt;
-&lt;img src=&#34;/img/IMG_1272.jpg&#34; alt=&#34;&#34;&gt;
-&lt;img src=&#34;/img/IMG_1295-e1522734340520.jpg&#34; alt=&#34;&#34;&gt;
-&lt;img src=&#34;/img/IMG_1288.jpg&#34; alt=&#34;&#34;&gt;
-&lt;img src=&#34;/img/IMG_1284.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;img src=&#34;https://ramonmoorlag.nl/img/IMG_1272.jpg&#34; alt=&#34;&#34;&gt;
+&lt;img src=&#34;https://ramonmoorlag.nl/img/IMG_1295-e1522734340520.jpg&#34; alt=&#34;&#34;&gt;
+&lt;img src=&#34;https://ramonmoorlag.nl/img/IMG_1288.jpg&#34; alt=&#34;&#34;&gt;
+&lt;img src=&#34;https://ramonmoorlag.nl/img/IMG_1284.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 </content>
     </item>
     
     <item>
       <title>Fog, clouds &amp; Google</title>
-      <link>/posts/2018-04-01-fog-clouds-google/</link>
+      <link>https://ramonmoorlag.nl/posts/2018-04-01-fog-clouds-google/</link>
       <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
       
-      <guid>/posts/2018-04-01-fog-clouds-google/</guid>
+      <guid>https://ramonmoorlag.nl/posts/2018-04-01-fog-clouds-google/</guid>
       <description>Fog, just a surface based cloud not going Google. It&amp;rsquo;s so easy to forget where we came from. Everything always on, always available and automatically saved with no real need to backup. Is this an idyllic world? Or a dystopian future? Is Google the answer?
 Using state of the art technology is key to keep in touch with the world around us. With the adaptation of Google&amp;rsquo;s App suite and the tools connected to the suite, our students are now suited to envision a future where they are in control of their surrounding.</description>
       <content>&lt;h1 id=&#34;fog-just-a-surface-based-cloud-not-going-google&#34;&gt;Fog, just a surface based cloud not going Google.&lt;/h1&gt;
@@ -546,10 +583,10 @@ Using state of the art technology is key to keep in touch with the world around 
     
     <item>
       <title>Long Reads, a long reading list</title>
-      <link>/posts/2018-03-19-long-reads/</link>
+      <link>https://ramonmoorlag.nl/posts/2018-03-19-long-reads/</link>
       <pubDate>Mon, 19 Mar 2018 00:00:00 +0000</pubDate>
       
-      <guid>/posts/2018-03-19-long-reads/</guid>
+      <guid>https://ramonmoorlag.nl/posts/2018-03-19-long-reads/</guid>
       <description>Yes, I love long reads This is just a short blog about a page I started some time ago in draft mode. The long reads that keep me up at night, things I really want to read and that started a new way of seeing things.
 I really love how these blogs redefine my (world)view and I try to convey that feeling in my classes computer science. Longs reads require an effort and a conviction to continue on reading.</description>
       <content>&lt;h1 id=&#34;yes-i-love-long-reads&#34;&gt;Yes, I love long reads&lt;/h1&gt;
@@ -570,10 +607,10 @@ I really love how these blogs redefine my (world)view and I try to convey that f
     
     <item>
       <title>7 lessons I learned from designing a new subject</title>
-      <link>/posts/2018-03-18-7-lessons-i-learned-from-designing-a-new-subject/</link>
+      <link>https://ramonmoorlag.nl/posts/2018-03-18-7-lessons-i-learned-from-designing-a-new-subject/</link>
       <pubDate>Sun, 18 Mar 2018 00:00:00 +0000</pubDate>
       
-      <guid>/posts/2018-03-18-7-lessons-i-learned-from-designing-a-new-subject/</guid>
+      <guid>https://ramonmoorlag.nl/posts/2018-03-18-7-lessons-i-learned-from-designing-a-new-subject/</guid>
       <description>To be worked out with working examples These are the seven lessons I learned from designing a new school subject
  Start with the end in mind Let the learning happen Give control Eat sleep, learn repeat Enjoy the boredom Communicate the change Be surprised  </description>
       <content>&lt;h1 id=&#34;to-be-worked-out-with-working-examples&#34;&gt;To be worked out with working examples&lt;/h1&gt;
@@ -592,10 +629,10 @@ I really love how these blogs redefine my (world)view and I try to convey that f
     
     <item>
       <title>Why I teach (still in Dutch)</title>
-      <link>/posts/2018-01-31-teach-still-dutch/</link>
+      <link>https://ramonmoorlag.nl/posts/2018-01-31-teach-still-dutch/</link>
       <pubDate>Wed, 31 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>/posts/2018-01-31-teach-still-dutch/</guid>
+      <guid>https://ramonmoorlag.nl/posts/2018-01-31-teach-still-dutch/</guid>
       <description>Sorry, Dutch only. With Google Translate this page can be in English.
 Dit is de reden dat ik lesgeef Net even vroeger dan gewenst zit ik weer in de trein naar &amp;rsquo;s-Hertogenbosch (05.45 eruit; 23:45 erin).
 Gisteravond waren de profielwerkstuk (PWS) presentaties van atheneum. Met enige trots stonden daar drie heren in witte overhemden. Een presentatie tot in perfectie geoefend (en toch nog ergens een vage zweem van zenuwen zichtbaar in hun gezichten) te geven.</description>
@@ -609,17 +646,17 @@ Gisteravond waren de profielwerkstuk (PWS) presentaties van atheneum. Met enige 
 &lt;p&gt;Er werden woorden van dank geuit naar Peter (eerste begeleider), Peter (en de andere technisch onderwijs assistenten), ouders en de sponsering van school. Ook mijn naam viel even (backup begeleider en de man van de koffie hoorde ik later).&lt;/p&gt;
 &lt;p&gt;Mensen vragen mij wel eens waarom ik voor de klas sta, dit is de reden dat ik voor de klas sta. En nu weer er vol tegenaan, vanmiddag komen de kinderen van de basisschool en de cyclus is rond.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;We gaan eens iets doen met programmeren denk ik :-)&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/img/WhatsApp-Image-2018-01-30-at-22.24.13.jpeg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/img/WhatsApp-Image-2018-01-30-at-22.24.12.jpeg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://ramonmoorlag.nl/img/WhatsApp-Image-2018-01-30-at-22.24.13.jpeg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://ramonmoorlag.nl/img/WhatsApp-Image-2018-01-30-at-22.24.12.jpeg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 </content>
     </item>
     
     <item>
       <title>Things and thought about the BETT</title>
-      <link>/posts/2018-01-23-things-and-thought-about-the-bett/</link>
+      <link>https://ramonmoorlag.nl/posts/2018-01-23-things-and-thought-about-the-bett/</link>
       <pubDate>Tue, 23 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>/posts/2018-01-23-things-and-thought-about-the-bett/</guid>
+      <guid>https://ramonmoorlag.nl/posts/2018-01-23-things-and-thought-about-the-bett/</guid>
       <description>Traveling to&amp;hellip; (and yes, this is a growing blog) Yes, I&amp;rsquo;m inbound to London! Together with one of the board members from i&amp;amp;i I&amp;rsquo;m attending BETT.
 Update: impressions and finds added to the blog. After a couple of hours at the BETT (pronounced as one word) I am impressed. With over 850 educational technology companies and 35.000 visitors is it one of the biggest conventions in the world. It is always good to catch up with good friends like Miles Berry and the great people of the Holland Business group.</description>
       <content>&lt;h1 id=&#34;traveling-to-and-yes-this-is-a-growing-blog&#34;&gt;Traveling to&amp;hellip; (and yes, this is a growing blog)&lt;/h1&gt;
@@ -642,21 +679,21 @@ Update: impressions and finds added to the blog. After a couple of hours at the 
 &lt;p&gt; &lt;/p&gt;
 &lt;p&gt;I&amp;rsquo;ll keep you posted about the joy of attending one of the biggest edu tech conference in Europa.&lt;/p&gt;
 &lt;h3 id=&#34;travel&#34;&gt;Travel?&lt;/h3&gt;
-&lt;p&gt;&lt;img src=&#34;/img/margo-brodowicz-183156.jpg&#34; alt=&#34;Off to the BETT&#34;&gt; Photo by &lt;a href=&#34;https://unsplash.com/photos/KZHhnb6XsQI?utm_source=unsplash&amp;amp;utm_medium=referral&amp;amp;utm_content=creditCopyText&#34;&gt;Margo Brodowicz&lt;/a&gt; on &lt;a href=&#34;https://unsplash.com/search/photos/travel?utm_source=unsplash&amp;amp;utm_medium=referral&amp;amp;utm_content=creditCopyText&#34;&gt;Unsplash&lt;/a&gt;[/caption]&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://ramonmoorlag.nl/img/margo-brodowicz-183156.jpg&#34; alt=&#34;Off to the BETT&#34;&gt; Photo by &lt;a href=&#34;https://unsplash.com/photos/KZHhnb6XsQI?utm_source=unsplash&amp;amp;utm_medium=referral&amp;amp;utm_content=creditCopyText&#34;&gt;Margo Brodowicz&lt;/a&gt; on &lt;a href=&#34;https://unsplash.com/search/photos/travel?utm_source=unsplash&amp;amp;utm_medium=referral&amp;amp;utm_content=creditCopyText&#34;&gt;Unsplash&lt;/a&gt;[/caption]&lt;/p&gt;
 </content>
     </item>
     
     <item>
       <title>Developing websites with Github</title>
-      <link>/posts/2018-01-22-github-pages/</link>
+      <link>https://ramonmoorlag.nl/posts/2018-01-22-github-pages/</link>
       <pubDate>Mon, 22 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>/posts/2018-01-22-github-pages/</guid>
+      <guid>https://ramonmoorlag.nl/posts/2018-01-22-github-pages/</guid>
       <description>Building the next web with GitHub? And where do I start as a teacher with GitHub?
 In the Dutch computer science core curriculum(pdf) it is stated that students should be aware of coding techniques and data representation. And my students love data representation. The love starts with basic html, css and a little javascript. The fun of code is something most students get in a few lessons. And using industry tools like GitHub gives my students a competitive advantage!</description>
       <content>&lt;h1 id=&#34;building-the-next-web-with-github&#34;&gt;Building the next  web with GitHub?&lt;/h1&gt;
 &lt;p&gt;And where do I start as a teacher with GitHub?&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/img/octocat.png&#34; alt=&#34;OctoCat&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://ramonmoorlag.nl/img/octocat.png&#34; alt=&#34;OctoCat&#34;&gt;&lt;/p&gt;
 &lt;p&gt;In the &lt;a href=&#34;https://www.slo.nl/publish/pages/3080/advies-examenprogramma-informatica-havo-vwo.pdf&#34;&gt;Dutch computer science core curriculum&lt;/a&gt;(pdf) it is stated that students should be aware of coding techniques and data representation. And my students &lt;strong&gt;love&lt;/strong&gt; data representation. The love starts with basic html, css and a little javascript. The fun of code is something most students get in a few lessons. And using industry tools like GitHub gives my students a competitive advantage!&lt;/p&gt;
 &lt;p&gt;We designed an assignment to develop a basic (and static) website in 15-17 hours; the time does include learning the language. Students can really lose themselves in the assignment. I&amp;rsquo;ve seen websites build in not 15-17 but in 30-40 hours. It is really a creative outlet for the young adolescent.&lt;/p&gt;
 &lt;p&gt;In this blog, I want to get into the practical implications of building websites with students and how to publish them on the web. And in the slipstream how to use industry tools, techniques, and standards.&lt;/p&gt;
@@ -727,22 +764,22 @@ In the Dutch computer science core curriculum(pdf) it is stated that students sh
  &lt;/p&gt;
 &lt;h2 id=&#34;looking-up&#34;&gt;Looking up?&lt;/h2&gt;
 &lt;p&gt;Why this picture? Again a Wonderfull free picture from Unsplash.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/img/joshua-sortino-215039.jpg&#34; alt=&#34;Unsplash Beyond the Cosmos by Joshua Sortino&#34;&gt; &lt;a href=&#34;https://unsplash.com/photos/LqKhnDzSF-8&#34;&gt;Unsplash Beyond the Cosmos&lt;/a&gt; by &lt;a href=&#34;https://unsplash.com/@sortino&#34;&gt;Joshua Sortino&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://ramonmoorlag.nl/img/joshua-sortino-215039.jpg&#34; alt=&#34;Unsplash Beyond the Cosmos by Joshua Sortino&#34;&gt; &lt;a href=&#34;https://unsplash.com/photos/LqKhnDzSF-8&#34;&gt;Unsplash Beyond the Cosmos&lt;/a&gt; by &lt;a href=&#34;https://unsplash.com/@sortino&#34;&gt;Joshua Sortino&lt;/a&gt;&lt;/p&gt;
 </content>
     </item>
     
     <item>
       <title>Getting started with Jekyll</title>
-      <link>/posts/2018-01-21-getting-started-with-jekyll/</link>
+      <link>https://ramonmoorlag.nl/posts/2018-01-21-getting-started-with-jekyll/</link>
       <pubDate>Sun, 21 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>/posts/2018-01-21-getting-started-with-jekyll/</guid>
+      <guid>https://ramonmoorlag.nl/posts/2018-01-21-getting-started-with-jekyll/</guid>
       <description>After letting the dust settle on Jekyll (and just a lack of time to develop) I am learning Jekyll ?.
 What is Jekyll? First of all, a small quote from the documentation site.
  &amp;ldquo;Jekyll is a simple, blog-aware, static site generator. It takes a template directory containing raw text files in various formats, runs it through a converter (like Markdown) and our Liquid renderer, and spits out a complete, ready-to-publish static website suitable for serving with your favorite web server.</description>
       <content>&lt;p&gt;&lt;em&gt;After letting the dust settle on Jekyll (and just a lack of time to develop) I am learning &lt;strong&gt;Jekyll&lt;/strong&gt; ?.&lt;/em&gt;&lt;/p&gt;
 &lt;h1 id=&#34;what-is-jekyll&#34;&gt;What is Jekyll?&lt;/h1&gt;
-&lt;p&gt;&lt;img src=&#34;/img/logo-2x.png&#34; alt=&#34;Jekyll Logo&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://ramonmoorlag.nl/img/logo-2x.png&#34; alt=&#34;Jekyll Logo&#34;&gt;&lt;/p&gt;
 &lt;p&gt;First of all, a small quote from the documentation site.&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;&lt;em&gt;&amp;ldquo;Jekyll is a simple, blog-aware, static site generator. It takes a template directory containing raw text files in various formats, runs it through a converter (like Markdown) and our Liquid renderer, and spits out a complete, ready-to-publish static website suitable for serving with your favorite web server.&amp;rdquo;&lt;/em&gt;&lt;/p&gt;
@@ -766,7 +803,7 @@ What is Jekyll? First of all, a small quote from the documentation site.
 &lt;p&gt;I&amp;rsquo;ve built one website with it. The site is called NerdNight. An evening at school for students to work on their projects and some interesting breakout sessions. It&amp;rsquo;s hosted on GitHub. The result can be viewed here. &lt;a href=&#34;http://NerdNight.rocks&#34;&gt;NerdNight.rocks&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;I learned how to use Jekyll and GitHub for deployment and I had a very good time doing it :-)&lt;/p&gt;
 &lt;h2 id=&#34;sewing-machine&#34;&gt;Sewing machine?&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&#34;/img/annie-spratt-102804.jpg&#34; alt=&#34;Jekyll Logo&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://ramonmoorlag.nl/img/annie-spratt-102804.jpg&#34; alt=&#34;Jekyll Logo&#34;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;images/annie-spratt-102804-300x213.jpg&#34;&gt;Sewing machine&lt;/a&gt; &lt;a href=&#34;https://unsplash.com/photos/hzdgFPz1V24&#34;&gt;Image credit Unsplash&lt;/a&gt; by &lt;a href=&#34;https://unsplash.com/@anniespratt&#34;&gt;Annie Spratt.&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Why the Sewing machine?
 Because the first version of mechanization provided users with a means to sew a lot faster, without knowing the exact process inside the machine.&lt;/p&gt;
@@ -775,10 +812,10 @@ Because the first version of mechanization provided users with a means to sew a 
     
     <item>
       <title>Let&#39;s automate the F* out of G Suite with GAM and Bulk operations</title>
-      <link>/posts/2018-01-03-long-overdue-update-with-g-suite/</link>
+      <link>https://ramonmoorlag.nl/posts/2018-01-03-long-overdue-update-with-g-suite/</link>
       <pubDate>Wed, 03 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>/posts/2018-01-03-long-overdue-update-with-g-suite/</guid>
+      <guid>https://ramonmoorlag.nl/posts/2018-01-03-long-overdue-update-with-g-suite/</guid>
       <description>Yes, this is a long overdue update G Suite. Yesterday I was called by the lovely people of Google. I started transferring a Google Apps for business /G Suite installation from one URL to a different URL and I got stuck. Glenn from the support desk saw that I left an installation not finished and reached out to me. And what a great service I got. There was a small problem with the MX records in the Direct Admin panel.</description>
       <content>&lt;h1 id=&#34;yes-this-is-a-long-overdue-update-g-suite&#34;&gt;Yes, this is a long overdue update G Suite.&lt;/h1&gt;
 &lt;p&gt;Yesterday I was called by the lovely people of Google. I started transferring a Google Apps for business /G Suite installation from one URL to a different URL and I got stuck. Glenn from the support desk saw that I left an installation not finished and reached out to me. And what a great service I got. There was a small problem with the MX records in the Direct Admin panel. How I hate the Direct Admin / MX/DNS records is an entirely different blog&amp;hellip; but it&amp;rsquo;s working.&lt;/p&gt;
@@ -793,7 +830,7 @@ Because the first version of mechanization provided users with a means to sew a 
 &lt;li&gt;Copy the list with combined commands in a txt-file and&lt;/li&gt;
 &lt;li&gt;With GAM batch &lt;!-- raw HTML omitted --&gt; you can execute the magic&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;img src=&#34;/img/hipster.png&#34; alt=&#34;G suite profile picture&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://ramonmoorlag.nl/img/hipster.png&#34; alt=&#34;G suite profile picture&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Icons made by &lt;a href=&#34;https://www.flaticon.com/authors/smashicons&#34; title=&#34;Smashicons&#34;&gt;Smashicons&lt;/a&gt; from &lt;a href=&#34;https://www.flaticon.com/&#34; title=&#34;Flaticon&#34;&gt;www.flaticon.com&lt;/a&gt; is licensed by &lt;a href=&#34;http://creativecommons.org/licenses/by/3.0/&#34; title=&#34;Creative Commons BY 3.0&#34;&gt;CC 3.0 BY&lt;/a&gt;&lt;/p&gt;
 &lt;h3 id=&#34;to-do-list&#34;&gt;To do list&lt;/h3&gt;
 &lt;p&gt;The following items are done or still in progress.&lt;/p&gt;
@@ -804,7 +841,7 @@ Because the first version of mechanization provided users with a means to sew a 
 &lt;li&gt;Enjoying the &amp;rsquo; I did it all myself&amp;rsquo;-feeling (partially DONE).&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;UPDATE: Yes, I am in love ❤️with &lt;a href=&#34;https://github.com/jay0lee/GAM&#34;&gt;GAM&lt;/a&gt;. Automatic update every Google Profile picture (the icon on the right) with this command; gam user wordpress update photo hipster.png.The hipster.png is courtesy of Smashicons. GAM is also very friendly with batch commands. With the batch commands, I have a different email account for every different service (facebook@, xbox@, ect).&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/img/bash.png&#34; alt=&#34;GAM Command prompt G suite&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://ramonmoorlag.nl/img/bash.png&#34; alt=&#34;GAM Command prompt G suite&#34;&gt;&lt;/p&gt;
 &lt;p&gt;What is Google Apps / G Suite? This mysterious video says it all. This is how it could be. &lt;strong&gt;When your apps begin with a G.&lt;/strong&gt;&lt;/p&gt;
 
 
@@ -816,10 +853,10 @@ Because the first version of mechanization provided users with a means to sew a 
     
     <item>
       <title>Starting</title>
-      <link>/posts/2017-09-01-starting/</link>
+      <link>https://ramonmoorlag.nl/posts/2017-09-01-starting/</link>
       <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
       
-      <guid>/posts/2017-09-01-starting/</guid>
+      <guid>https://ramonmoorlag.nl/posts/2017-09-01-starting/</guid>
       <description>The hardest part of something new is starting. This is a reflection of the first week of school. It was intense, it always is.
 I try to get to know my new students. I try to say hello to new colleagues. Luckily this school gets it. We started off with a dine and walk in &amp;rsquo;s-Hertogenbosch. A light and informal way to catch up with my colleagues and getting to know the new ones.</description>
       <content>&lt;h1 id=&#34;the-hardest-part-of-something-new-is-starting&#34;&gt;The hardest part of something new is starting.&lt;/h1&gt;
@@ -843,17 +880,17 @@ I try to get to know my new students. I try to say hello to new colleagues. Luck
     
     <item>
       <title>Lockdown teaching</title>
-      <link>/posts/2020-12-18-lockdown-teaching-6-tips-to-help-with-emergency-teaching/</link>
+      <link>https://ramonmoorlag.nl/posts/2020-12-18-lockdown-teaching-6-tips-to-help-with-emergency-teaching/</link>
       <pubDate>Wed, 30 Aug 2017 00:00:00 +0000</pubDate>
       
-      <guid>/posts/2020-12-18-lockdown-teaching-6-tips-to-help-with-emergency-teaching/</guid>
+      <guid>https://ramonmoorlag.nl/posts/2020-12-18-lockdown-teaching-6-tips-to-help-with-emergency-teaching/</guid>
       <description>Emergency teaching during a lockdown Let&amp;rsquo;s call it by its name. We are in a phase of emergency teaching. This isn&amp;rsquo;t remote teaching or online teaching. This is emergency teaching during a lockdown. And yes, it&amp;rsquo;s normal to feel tired. The productivity of students and teachers alike is lower. In this blog, I want to share 6 tips from my own experience.
 Tip 1 Accept the lockdown situation This was the hardest one for me.</description>
       <content>&lt;h2 id=&#34;emergency-teaching-during-a-lockdown&#34;&gt;Emergency teaching during a lockdown&lt;/h2&gt;
 &lt;p&gt;Let&amp;rsquo;s call it by its name. We are in a phase of emergency teaching. This isn&amp;rsquo;t remote teaching or online teaching. This is emergency teaching during a lockdown. And yes, it&amp;rsquo;s normal to feel tired. The productivity of students and teachers alike is lower. In this blog, I want to share 6 tips from my own experience.&lt;/p&gt;
 &lt;h2 id=&#34;tip-1-accept-the-lockdown-situation&#34;&gt;Tip 1 Accept the lockdown situation&lt;/h2&gt;
 &lt;p&gt;This was the hardest one for me. I&amp;rsquo;ve been teaching from home for quite some time and I know it&amp;rsquo;s a challenge for everyone. Staying at home and losing control over your schedule. Or, as one of my students called it, losing the freedom to save us all. Accepting the situation is a huge step. Yes, we are at home, yes, my contact with students is different, yes, in other situations, I could XYZ. It helps no one to keep affirming that offline teaching is better. What does help is accepting and offering help! And keep perspective. This lockdown is going to end.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/img/Screenshot-2020-12-18-at-13.13.27.png&#34; alt=&#34;Keep perspective. This lockdown is going to end&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://ramonmoorlag.nl/img/Screenshot-2020-12-18-at-13.13.27.png&#34; alt=&#34;Keep perspective. This lockdown is going to end&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Lockdown, keep perspective!&lt;/p&gt;
 &lt;h2 id=&#34;tip-2-stay-in-contact-during-a-lockdown&#34;&gt;Tip 2 Stay in contact during a lockdown&lt;/h2&gt;
 &lt;p&gt;For the sanity of yourself and others, keep in contact. We are social creatures. There is a reason why we enjoy breaks with others, drinking coffee. A goal to keep in contact is to have a non-work related call with a friend, family member, or colleague a day. It helps to stay connected and share experiences. Everyone can feel alone. And the quickest solution is to stay in contact. Be explicit when communicating and when in doubt over-communicate. And I try to plan the next meeting during the current meeting. Not only useful during a lockdown.&lt;/p&gt;
@@ -863,7 +900,7 @@ Tip 1 Accept the lockdown situation This was the hardest one for me.</descriptio
 &lt;p&gt;Set boundaries and manage them proactively. With family members and disturbing you during your work, with coworkers, and no replies after working hours. With yourself, no Netflix at 10.00 (am), no phone in the bed.&lt;/p&gt;
 &lt;h2 id=&#34;tip-5-mental-fitness&#34;&gt;Tip 5 Mental fitness&lt;/h2&gt;
 &lt;p&gt;Our brains need stimulation. Try to find a new hobby or learn a new skill. I started baking bread. One of the great communities for a lot of things (and a lot of garbage) is Reddit. I learned a lot from &lt;a href=&#34;https://www.reddit.com/r/Breadit/&#34;&gt;Breadit&lt;/a&gt;. I was lucky to have a great mentor (thanks Rico!), he is famous for his breads. Share the newly acquired skills (see tip 2). I&amp;rsquo;ve started blogging again! It&amp;rsquo;s a good way to organize thoughts, and the product of that organizing is always fun to put in writing. Daily I ride my bicycle, the &lt;a href=&#34;../2018-05-13-sladda-this-is-not-yet-an-other-bike-review&#34;&gt;IKEA&lt;/a&gt; one (from a previous blog)&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/img/Screenshot-2020-12-18-at-13.17.17.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://ramonmoorlag.nl/img/Screenshot-2020-12-18-at-13.17.17.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Lockdown mental fitness&lt;/p&gt;
 &lt;h2 id=&#34;tip-6-know-the-tools-really-know-them&#34;&gt;Tip 6 know the tools, really know them!&lt;/h2&gt;
 &lt;p&gt;In a traditional environment, you have a whiteboard, beamer, and perhaps even a chalkboard. Learn everything there is about the new tools. Google Meet has a few hidden features (most of them are located in the overflow (look for three dots)-menu. Help and support help a lot to identify a problem (bandwidth or CPU problems). Bandwidth problems are solved by getting closer to a Wi-Fi access point or limit machines on the network. CPU problems are solved by closing all but one window (close Spotify/outlook helps a lot!)&lt;/p&gt;
@@ -872,10 +909,10 @@ Tip 1 Accept the lockdown situation This was the hardest one for me.</descriptio
     
     <item>
       <title>The story of an Idea?</title>
-      <link>/posts/2017-08-30-a-new-idea/</link>
+      <link>https://ramonmoorlag.nl/posts/2017-08-30-a-new-idea/</link>
       <pubDate>Wed, 30 Aug 2017 00:00:00 +0000</pubDate>
       
-      <guid>/posts/2017-08-30-a-new-idea/</guid>
+      <guid>https://ramonmoorlag.nl/posts/2017-08-30-a-new-idea/</guid>
       <description>Think and leap, how to create an Idea. UPDATE: This is the introduction presentation design &amp;amp; innovation for new students. Presentation is in Dutch.
 This is one of those moments. Developing a new subject, without formal grading, all about learning. It&amp;rsquo;s a new Idea! The foundation of the subject is going to be computer science, informatics, and design. Combining the two feels like a natural fit. Developing great things that also look great.</description>
       <content>&lt;h1 id=&#34;think-and-leap-how-to-create-an-idea&#34;&gt;Think and leap, how to create an Idea.&lt;/h1&gt;
@@ -901,10 +938,10 @@ This is one of those moments. Developing a new subject, without formal grading, 
     
     <item>
       <title>Commemorative speech: Guidance is internal</title>
-      <link>/posts/2017-08-14-guidance-is-internal/</link>
+      <link>https://ramonmoorlag.nl/posts/2017-08-14-guidance-is-internal/</link>
       <pubDate>Mon, 14 Aug 2017 00:00:00 +0000</pubDate>
       
-      <guid>/posts/2017-08-14-guidance-is-internal/</guid>
+      <guid>https://ramonmoorlag.nl/posts/2017-08-14-guidance-is-internal/</guid>
       <description>Commemorative speeches, ds. Pierson College. In Dutch.
 Projection mapping - Guidance is internal. Zo vlak voor het lanceren van een ruimteveer volgt er een fase van interne beheersing. Mission control geeft de controle uit handen en draagt deze over aan de commander. De commander is volledig verantwoordelijk voor de daadwerkelijke start. Guidance is internal heet deze term. De afgelopen 6 jaar hebben mijn collega’s en ik er alles aan gedaan om alle kritische massa aan boord te krijgen.</description>
       <content>&lt;p&gt;Commemorative speeches, ds. Pierson College. In Dutch.&lt;/p&gt;
@@ -924,10 +961,10 @@ Projection mapping - Guidance is internal. Zo vlak voor het lanceren van een rui
     
     <item>
       <title>Eat, sleep, MAKE &amp; repeat</title>
-      <link>/posts/2017-09-23-eat-sleep-make-repeat/</link>
+      <link>https://ramonmoorlag.nl/posts/2017-09-23-eat-sleep-make-repeat/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/posts/2017-09-23-eat-sleep-make-repeat/</guid>
+      <guid>https://ramonmoorlag.nl/posts/2017-09-23-eat-sleep-make-repeat/</guid>
       <description>Reflections on EHVMMF The day after&amp;hellip;
 Friday - MakerED Meetup Still, a bit impressed by the Eindhoven Maker Faire. Thanks to Arjan van de Meij I went to the Meetup on Friday; topic Maker Education. The power of making things and learning at the same time.
 After a warm welcome by our host Arjan I really enjoyed the talk from René Pare. He is one of the organizers of the Maker Faire Eindhoven and he knows how to sell a story.</description>
@@ -943,24 +980,24 @@ After a warm welcome by our host Arjan I really enjoyed the talk from René Par
 
 &lt;/p&gt;
 &lt;h2 id=&#34;sunday---maker-faire&#34;&gt;Sunday - Maker Faire&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&#34;/img/IMG_7878.jpg&#34; alt=&#34;&#34;&gt;
-&lt;img src=&#34;/img/IMG_7873.jpg&#34; alt=&#34;&#34;&gt;
-&lt;img src=&#34;/img/IMG_7870.jpg&#34; alt=&#34;&#34;&gt;
-&lt;img src=&#34;/im/IMG_7882.jpg&#34; alt=&#34;&#34;&gt;
-&lt;img src=&#34;/img/IMG_7869-e1504506532956.jpg&#34; alt=&#34;&#34;&gt;
-&lt;img src=&#34;/img/IMG_7864.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://ramonmoorlag.nl/img/IMG_7878.jpg&#34; alt=&#34;&#34;&gt;
+&lt;img src=&#34;https://ramonmoorlag.nl/img/IMG_7873.jpg&#34; alt=&#34;&#34;&gt;
+&lt;img src=&#34;https://ramonmoorlag.nl/img/IMG_7870.jpg&#34; alt=&#34;&#34;&gt;
+&lt;img src=&#34;https://ramonmoorlag.nl/im/IMG_7882.jpg&#34; alt=&#34;&#34;&gt;
+&lt;img src=&#34;https://ramonmoorlag.nl/img/IMG_7869-e1504506532956.jpg&#34; alt=&#34;&#34;&gt;
+&lt;img src=&#34;https://ramonmoorlag.nl/img/IMG_7864.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 </content>
     </item>
     
     <item>
       <title>Inky pHat and Raspberry Pi. 5 How To Tips And Tricks Automate Weather Reports.</title>
-      <link>/posts/2020-12-16-inky-phat-and-raspberry-pi-5-tips/</link>
+      <link>https://ramonmoorlag.nl/posts/2020-12-16-inky-phat-and-raspberry-pi-5-tips/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/posts/2020-12-16-inky-phat-and-raspberry-pi-5-tips/</guid>
+      <guid>https://ramonmoorlag.nl/posts/2020-12-16-inky-phat-and-raspberry-pi-5-tips/</guid>
       <description>For the annual i&amp;amp;i-conference, I try to find a &amp;rsquo;new&amp;rsquo; gadget for speakers and board members. Last year we bought Inky Phats with a Raspberry Pi Zero W. To be used as interactive name badges. A great success! In this article, I&amp;rsquo;ll share 5 tips on using the display, and I&amp;rsquo;ll be discussing a few problems. Inky pHat is an e-paper display with a dedicated controller in the PCB. Plug and play!</description>
       <content>&lt;p&gt;For the annual i&amp;amp;i-conference, I try to find a &amp;rsquo;new&amp;rsquo; gadget for speakers and board members. Last year we bought Inky Phats with a Raspberry Pi Zero W. To be used as interactive name badges. A great success! In this article, I&amp;rsquo;ll share 5 tips on using the display, and I&amp;rsquo;ll be discussing a few problems. Inky pHat is an e-paper display with a dedicated controller in the PCB. Plug and play! And big thanks for the &lt;a href=&#34;https://learn.pimoroni.com/tutorial/sandyj/getting-started-with-inky-phat&#34;&gt;excellent documentation&lt;/a&gt; @Pimoroni!&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/img/inky_phat.jpg&#34; alt=&#34;Inky pHat, a Raspberry Pi with a pHat on top of it. Displaying a squid&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://ramonmoorlag.nl/img/inky_phat.jpg&#34; alt=&#34;Inky pHat, a Raspberry Pi with a pHat on top of it. Displaying a squid&#34;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://shop.pimoroni.com/products/inky-phat?variant=12549254217811&#34;&gt;Inky pHat&lt;/a&gt; by Pimoroni is easy to use &amp;lsquo;phat&amp;rsquo; A HAT is an extension for the Raspberry Pi platform. Hardware attached on top or HAT. With the sturdy HAT construction, there a three benefits;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;No soldering&lt;/strong&gt;; plug it onto the Raspberry Pi.&lt;/li&gt;
@@ -991,12 +1028,12 @@ python weather-phat.py --colour red
     
     <item>
       <title>Secret Santa in 15 minutes? Unlock Your Inner Mailninja with YAMM!</title>
-      <link>/posts/2020-12-05-secret-santa-in-15-minutes-unlock-your-inner-mailninja-with-yamm/</link>
+      <link>https://ramonmoorlag.nl/posts/2020-12-05-secret-santa-in-15-minutes-unlock-your-inner-mailninja-with-yamm/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/posts/2020-12-05-secret-santa-in-15-minutes-unlock-your-inner-mailninja-with-yamm/</guid>
+      <guid>https://ramonmoorlag.nl/posts/2020-12-05-secret-santa-in-15-minutes-unlock-your-inner-mailninja-with-yamm/</guid>
       <description>In this blog, I&amp;rsquo;ll share some insights and tips when I organized Secret Santa. Sounds easy, doesn&amp;rsquo;t it. Organizing Secret Santa with only superpowers. With my blog, I hope you can also use the superpowers I used to organize Secret Santa in 15 minutes. First I used Google Forms. This was a major thing. What information is helpful and gives a nice insight into the &amp;lsquo;giftee&amp;rsquo;? With this experiment, I tried my first Add-On, and we are now in love.</description>
-      <content>&lt;p&gt;&lt;img src=&#34;/img/yamm_logo.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+      <content>&lt;p&gt;&lt;img src=&#34;https://ramonmoorlag.nl/img/yamm_logo.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;In this blog, I&amp;rsquo;ll share some insights and tips when I organized Secret Santa. Sounds easy, doesn&amp;rsquo;t it. Organizing Secret Santa with only superpowers. With my blog, I hope you can also use the superpowers I used to organize Secret Santa in 15 minutes. First I used Google Forms. This was a major thing. What information is helpful and gives a nice insight into the &amp;lsquo;giftee&amp;rsquo;? With this experiment, I tried my first Add-On, and we are now in love. Add-ons make dull-tasks fun! (&amp;hellip; or at least simpeler)&lt;/p&gt;
 &lt;h2 id=&#34;the-secret-santa-questions-i-used&#34;&gt;The Secret Santa questions I used&lt;/h2&gt;
 &lt;ul&gt;
@@ -1011,9 +1048,9 @@ python weather-phat.py --colour red
 &lt;h2 id=&#34;and-then-how-can-i-used-the-earlier-mentioned-super-powers-with-yamm&#34;&gt;And then? How can I used the earlier mentioned Super Powers With YAMM?&lt;/h2&gt;
 &lt;p&gt;With that list (&lt;strong&gt;pro-tip&lt;/strong&gt; export it to a sheet) the fun starts. I used &lt;a href=&#34;https://yet-another-mail-merge.com/&#34;&gt;YAMM&lt;/a&gt; (Yet-another-Mail-Merge), free of usage with 50 mailmerges/day. Like any decent Mail-Merger, it used the first line as a guide. So the list is now used as a data collection; keep the titles simple; name, email, happy, color, number, 2020. I used the &lt;a href=&#34;https://support.yet-another-mail-merge.com/hc/en-us&#34;&gt;documentation&lt;/a&gt; a lot. An excellent example of good documentation. There are &lt;a href=&#34;https://support.yet-another-mail-merge.com/hc/en-us/articles/210729589-Use-a-predesigned-template-from-our-gallery&#34;&gt;free themed email templates&lt;/a&gt;! And now the fun continues. Do not only provide the &amp;lsquo;gifter&amp;rsquo; with the data of the &amp;lsquo;giftee&amp;rsquo;. Provide examples of gifts, suggestions for poems/nice letters and don&amp;rsquo;t be afraid to write an example Haiku :-)&lt;/p&gt;
 &lt;p&gt;The &amp;laquo; &amp;raquo; are the placeholders for the titles from the first line from the Sheet. &amp;laquo;User_Name&amp;raquo; here is used. Notice the camelbacks; the Two Capitals? Be &lt;strong&gt;very&lt;/strong&gt; consequent with capitals! Via Add-Ons in the Sheet. Easy right?&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/img/install_yamm1.png&#34; alt=&#34;Install YAMM open add-on menu&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://ramonmoorlag.nl/img/install_yamm1.png&#34; alt=&#34;Install YAMM open add-on menu&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Add &amp;lsquo;Add-ons&amp;rsquo;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/img/merry_christmas.PNG&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://ramonmoorlag.nl/img/merry_christmas.PNG&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Example template - free to use -&lt;/p&gt;
 
 

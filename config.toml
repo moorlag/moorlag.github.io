@@ -2,7 +2,7 @@ baseurl = "https://ramonmoorlag.nl/"
 languageCode = "en-us"
 theme = "terminal"
 paginate = 20
-custom_css = "blue.css"
+custom_css = "pink.css"
 enableEmoji = "true"
 publishDir = "docs"
 
@@ -13,7 +13,7 @@ publishDir = "docs"
   contentTypeName = "posts"
 
   # ["orange", "blue", "red", "green", "pink"]
-  themeColor = "blue"
+  themeColor = "pink"
 
   # if you set this to 0, only submenu trigger will be visible
   showMenuItems = 3

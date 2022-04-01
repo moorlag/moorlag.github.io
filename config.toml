@@ -22,10 +22,10 @@ publishDir = "docs"
   showLanguageSelector = false
 
   # set theme to full screen width
-  fullWidthTheme = true
+  fullWidthTheme = false
 
   # center theme with default width
-  centerTheme = true
+  centerTheme = false
 
   # set a custom favicon (default is a `themeColor` square)
   # favicon = "favicon.ico"
@@ -45,16 +45,16 @@ publishDir = "docs"
   # see https://developer.twitter.com/en/docs/tweets/optimize-with-cards/guides/getting-started#card-and-content-attribution
   # do not include @
   creator = "moorlag"
-  site = "https://moorlag.github.io"
+  site = "https://ramonmoorlag.nl"
 
 [languages]
   [languages.en]
     languageName = "English"
-    title = "Moorlag his Blog"
+    title = "Moorlag's Blog"
     subtitle = "Things and things that keep me busy at night"
     owner = "Ramon Moorlag"
     keywords = "Computer Science"
-    copyright = "(c) 2021 Ramon Moorlag"
+    copyright = "(c) 2022 Ramon Moorlag"
     menuMore = "Show more"
     readMore = "Read more"
     readOtherPosts = "Read other posts"

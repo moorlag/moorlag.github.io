@@ -1,7 +1,7 @@
 
 +++
 title = "Eat, sleep, MAKE & repeat"
-date = "22017-09-23"
+date = "2017-09-23"
 author = "Moorlag"
 authorTwitter = "Moorlag" #do not include @
 cover = "/img/yaoqi-lai-227961.jpg"

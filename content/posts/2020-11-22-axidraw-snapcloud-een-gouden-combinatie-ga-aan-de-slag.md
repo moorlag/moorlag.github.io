@@ -1,5 +1,5 @@
 +++
-title = "AxiDraw & Snap!cloud, een gouden combinatie?! Ga aan de slag!"
+title = "AxiDraw & Snap!cloud, een gouden combinatie?!"
 date = "2020-11-22"
 author = "Moorlag"
 authorTwitter = "Moorlag" #do not include @

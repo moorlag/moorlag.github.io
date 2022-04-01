@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Moorlag&#39;s Blog</title>
+    <title>Tags on Moorlag his Blog</title>
     <link>https://ramonmoorlag.nl/tags/</link>
-    <description>Recent content in Tags on Moorlag&#39;s Blog</description>
+    <description>Recent content in Tags on Moorlag his Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>(c) 2021 Ramon Moorlag</copyright>
-    <lastBuildDate>Sun, 27 Jun 2021 21:03:21 +0200</lastBuildDate><atom:link href="https://ramonmoorlag.nl/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 17 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://ramonmoorlag.nl/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>computer science</title>
       <link>https://ramonmoorlag.nl/tags/computer-science/</link>
-      <pubDate>Sun, 27 Jun 2021 21:03:21 +0200</pubDate>
+      <pubDate>Thu, 17 Mar 2022 00:00:00 +0000</pubDate>
       
       <guid>https://ramonmoorlag.nl/tags/computer-science/</guid>
       <description></description>
@@ -21,7 +21,7 @@
     <item>
       <title>GoHugo</title>
       <link>https://ramonmoorlag.nl/tags/gohugo/</link>
-      <pubDate>Sun, 27 Jun 2021 21:03:21 +0200</pubDate>
+      <pubDate>Thu, 17 Mar 2022 00:00:00 +0000</pubDate>
       
       <guid>https://ramonmoorlag.nl/tags/gohugo/</guid>
       <description></description>
@@ -31,7 +31,7 @@
     <item>
       <title>Inspiration</title>
       <link>https://ramonmoorlag.nl/tags/inspiration/</link>
-      <pubDate>Sun, 22 Nov 2020 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 06 Dec 2020 00:00:00 +0000</pubDate>
       
       <guid>https://ramonmoorlag.nl/tags/inspiration/</guid>
       <description></description>

@@ -1,7 +1,7 @@
 
 +++
 title = "Inky pHat and Raspberry Pi. 5 How To Tips And Tricks Automate Weather Reports."
-date = "202-12-06"
+date = "2020-12-06"
 author = "Moorlag"
 authorTwitter = "Moorlag" #do not include @
 tags = ["Inspiration", "computer science"]

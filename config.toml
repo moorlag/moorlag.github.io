@@ -2,7 +2,7 @@ baseurl = "https://ramonmoorlag.nl/"
 languageCode = "en-us"
 theme = "terminal"
 paginate = 20
-custom_css = "orange.css"
+custom_css = "blue.css"
 enableEmoji = "true"
 publishDir = "docs"
 
@@ -13,7 +13,7 @@ publishDir = "docs"
   contentTypeName = "posts"
 
   # ["orange", "blue", "red", "green", "pink"]
-  themeColor = "orange"
+  themeColor = "blue"
 
   # if you set this to 0, only submenu trigger will be visible
   showMenuItems = 3
@@ -50,7 +50,7 @@ publishDir = "docs"
 [languages]
   [languages.en]
     languageName = "English"
-    title = "Moorlag's Blog"
+    title = "Moorlag his Blog"
     subtitle = "Things and things that keep me busy at night"
     owner = "Ramon Moorlag"
     keywords = "Computer Science"

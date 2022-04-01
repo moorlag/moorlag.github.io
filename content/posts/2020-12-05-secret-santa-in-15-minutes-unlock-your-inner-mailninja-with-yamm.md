@@ -1,7 +1,7 @@
 
 +++
 title = "Secret Santa in 15 minutes? Unlock Your Inner Mailninja with YAMM!"
-date = "202-12-05"
+date = "2020-12-05"
 author = "Moorlag"
 authorTwitter = "Moorlag" #do not include @
 tags = ["Inspiration", "computer science"]

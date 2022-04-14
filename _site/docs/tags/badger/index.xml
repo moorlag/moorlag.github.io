@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Badger on Moorlag&#39;s Blog</title>
+    <link>https://ramonmoorlag.nl/tags/badger/</link>
+    <description>Recent content in Badger on Moorlag&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>(c) 2022 Ramon Moorlag</copyright>
+    <lastBuildDate>Sun, 03 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://ramonmoorlag.nl/tags/badger/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Badger</title>
+      <link>https://ramonmoorlag.nl/posts/2022-04-03-badger/</link>
+      <pubDate>Sun, 03 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://ramonmoorlag.nl/posts/2022-04-03-badger/</guid>
+      <description>To be updated with hacks, quick tutorials and other useful usecases with 🦡🦡🦡🦡🍄🍄🐍
+ From the great people of Pimoroni; #A hackable, programmable badge with E Ink® display, powered by Raspberry Pi RP2040.
+In honour of Raspberry Pi&amp;rsquo;s 10th birthday, we&amp;rsquo;ve fused a RP2040 microcontroller with an EPD display to make a stylishly monochrome, maker friendly, e-paper badge(r) to attach to your person, your office door or to prop up on your desk.</description>
+      <content>&lt;blockquote&gt;
+&lt;p&gt;To be updated with hacks, quick tutorials and other useful usecases with 🦡🦡🦡🦡🍄🍄🐍&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;From the great people of &lt;a href=&#34;https://shop.pimoroni.com/products/badger-2040?variant=39752959852627&#34;&gt;Pimoroni&lt;/a&gt;;
+#A hackable, programmable badge with E Ink® display, powered by Raspberry Pi RP2040.&lt;/p&gt;
+&lt;p&gt;In honour of Raspberry Pi&amp;rsquo;s 10th birthday, we&amp;rsquo;ve fused a RP2040 microcontroller with an EPD display to make a stylishly monochrome, maker friendly, e-paper badge(r) to attach to your person, your office door or to prop up on your desk. With the support of the fun guys (and gals and non-binary pals) at Ineltek and Raspberry Pi we&amp;rsquo;ve been able to keep it as low cost as possible, hoorah!&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://ramonmoorlag.nl/img/badger.webp&#34; alt=&#34;Badger&#34;&gt;&lt;/p&gt;
+&lt;p&gt;We&amp;rsquo;ve equipped Badger 2040 with plenty of buttons so you can easily change what&amp;rsquo;s displayed on the screen, a slot so you can clip it onto a lanyard and a battery connector so you can keep things portable and refresh the screen whilst on the go. On the back, you&amp;rsquo;ll find some funky badgerpunk stylings plus our RP2040 accoutrements of choice: boot and reset buttons and a Qw/ST connector so it&amp;rsquo;s super easy to plug in Qwiic or STEMMA QT breakouts&lt;/p&gt;
+&lt;p&gt;Here are some things you could do with it!&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Switch between images, pronouns or secret identities at the push of a button&lt;/li&gt;
+&lt;li&gt;Make yourself into a mobile weather station or air quality monitor (by adding a sensor breakout)&lt;/li&gt;
+&lt;li&gt;Store important QR codes for getting into places (or to Rickroll people)&lt;/li&gt;
+&lt;li&gt;Make a tiny to-do list and tick stuff off&lt;/li&gt;
+&lt;li&gt;Display inspirational badger quotes or educational badger facts of the day&lt;/li&gt;
+&lt;li&gt;Want to show your Badger the world? We&amp;rsquo;ve put together a convenient Badger + Accessory Kit which contains batteries, a lanyard and everything else that&amp;rsquo;s needed to get portabello.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;p.s. 🦡🦡🦡🦡🍄🍄🐍&lt;/p&gt;
+</content>
+    </item>
+    
+  </channel>
+</rss>

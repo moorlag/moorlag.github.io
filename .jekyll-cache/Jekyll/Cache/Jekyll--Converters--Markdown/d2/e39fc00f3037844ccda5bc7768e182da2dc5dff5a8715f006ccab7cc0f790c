@@ -1,0 +1,25 @@
+I"�<h1 id="subscribeto-the-newsletter">Subscribe to the Newsletter</h1>
+
+<p>Sign up with the form with Mailchimp. Receive the news in my newsletter as it happens! And it’s free!</p>
+
+<p> </p>
+
+<p>#mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; } /* Add your own MailChimp form style overrides in your site stylesheet or in this style block. We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */</p>
+
+<p>* indicates required</p>
+
+<p>Email Address *</p>
+
+<p>First Name</p>
+
+<p>Last Name</p>
+
+<p><a href="https://us17.campaign-archive.com/home/?u=b3e47d4846d4ff4e75c75292b&amp;id=3ac0f645a6" title="View previous campaigns">View previous campaigns.</a></p>
+
+<p>Powered by <a href="http://eepurl.com/dsnMLL" title="MailChimp - email marketing made easy and fun">MailChimp</a></p>
+
+<script type="text/javascript" src="//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js"></script>
+
+<script type="text/javascript">(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='FNAME';ftypes[1]='text';fnames[2]='LNAME';ftypes[2]='text';}(jQuery));var $mcj = jQuery.noConflict(true);</script>
+
+:ET

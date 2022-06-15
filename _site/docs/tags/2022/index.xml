@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2022 on Moorlag&#39;s Blog</title>
+    <link>https://ramonmoorlag.nl/tags/2022/</link>
+    <description>Recent content in 2022 on Moorlag&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>(c) 2022 Ramon Moorlag</copyright>
+    <lastBuildDate>Thu, 14 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://ramonmoorlag.nl/tags/2022/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Final projects Computer Science</title>
+      <link>https://ramonmoorlag.nl/posts/2022-14-05-final-projects/</link>
+      <pubDate>Thu, 14 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://ramonmoorlag.nl/posts/2022-14-05-final-projects/</guid>
+      <description>Final projects This week my students graduated from computer science. These are a few pictures of of the projects. Later I&amp;rsquo;m planning an article about how to structure a final project. With a few guidelines and best practices.
+SENSE This project is a repurposed ** Nerfgun ** with a Huskeylens to target students that are late in my classroom. The Nerfgun has received a chip upgrade and fires +/- 25-30% harder then with a stock Nerfgun.</description>
+      <content>&lt;h1 id=&#34;final-projects&#34;&gt;Final projects&lt;/h1&gt;
+&lt;p&gt;This week my students graduated from computer science. These are a few pictures of of the projects. Later I&amp;rsquo;m planning an article about how to structure a final project. With a few guidelines and best practices.&lt;/p&gt;
+&lt;h2 id=&#34;sense&#34;&gt;SENSE&lt;/h2&gt;
+&lt;p&gt;This project is a repurposed ** Nerfgun ** with a &lt;a href=&#34;https://wiki.dfrobot.com/HUSKYLENS_V1.0_SKU_SEN0305_SEN0336&#34;&gt;Huskeylens&lt;/a&gt; to target students that are late in my classroom. The Nerfgun has received a chip upgrade and fires +/- 25-30% harder then with a stock Nerfgun. With the Stepper motor at the bottom the gun has the ability to track with 120 angle.
+&lt;img src=&#34;https://ramonmoorlag.nl/img/finalproject_6.jpeg&#34; alt=&#34;Sense&#34; title=&#34;SENSE&#34;&gt;
+&lt;img src=&#34;https://ramonmoorlag.nl/img/finalproject_4.jpeg&#34; alt=&#34;Sense&#34; title=&#34;SENSE&#34;&gt;
+&lt;img src=&#34;https://ramonmoorlag.nl/img/finalproject_8.jpeg&#34; alt=&#34;Sense&#34; title=&#34;SENSE&#34;&gt;
+&lt;img src=&#34;https://ramonmoorlag.nl/img/finalproject_9.jpeg&#34; alt=&#34;Sense&#34; title=&#34;SENSE&#34;&gt;
+&lt;img src=&#34;https://ramonmoorlag.nl/img/finalproject_5.jpeg&#34; alt=&#34;Sense&#34; title=&#34;SENSE&#34;&gt;
+&lt;img src=&#34;https://ramonmoorlag.nl/img/finalproject_11.jpeg&#34; alt=&#34;Sense&#34; title=&#34;SENSE&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;atat&#34;&gt;ATAT&lt;/h2&gt;
+</content>
+    </item>
+    
+  </channel>
+</rss>

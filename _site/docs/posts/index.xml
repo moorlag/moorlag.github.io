@@ -7,7 +7,29 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>(c) 2022 Ramon Moorlag</copyright>
-    <lastBuildDate>Sun, 03 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://ramonmoorlag.nl/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 14 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://ramonmoorlag.nl/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Final projects Computer Science</title>
+      <link>https://ramonmoorlag.nl/posts/2022-14-05-final-projects/</link>
+      <pubDate>Thu, 14 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://ramonmoorlag.nl/posts/2022-14-05-final-projects/</guid>
+      <description>Final projects This week my students graduated from computer science. These are a few pictures of of the projects. Later I&amp;rsquo;m planning an article about how to structure a final project. With a few guidelines and best practices.
+SENSE This project is a repurposed ** Nerfgun ** with a Huskeylens to target students that are late in my classroom. The Nerfgun has received a chip upgrade and fires +/- 25-30% harder then with a stock Nerfgun.</description>
+      <content>&lt;h1 id=&#34;final-projects&#34;&gt;Final projects&lt;/h1&gt;
+&lt;p&gt;This week my students graduated from computer science. These are a few pictures of of the projects. Later I&amp;rsquo;m planning an article about how to structure a final project. With a few guidelines and best practices.&lt;/p&gt;
+&lt;h2 id=&#34;sense&#34;&gt;SENSE&lt;/h2&gt;
+&lt;p&gt;This project is a repurposed ** Nerfgun ** with a &lt;a href=&#34;https://wiki.dfrobot.com/HUSKYLENS_V1.0_SKU_SEN0305_SEN0336&#34;&gt;Huskeylens&lt;/a&gt; to target students that are late in my classroom. The Nerfgun has received a chip upgrade and fires +/- 25-30% harder then with a stock Nerfgun. With the Stepper motor at the bottom the gun has the ability to track with 120 angle.
+&lt;img src=&#34;https://ramonmoorlag.nl/img/finalproject_6.jpeg&#34; alt=&#34;Sense&#34; title=&#34;SENSE&#34;&gt;
+&lt;img src=&#34;https://ramonmoorlag.nl/img/finalproject_4.jpeg&#34; alt=&#34;Sense&#34; title=&#34;SENSE&#34;&gt;
+&lt;img src=&#34;https://ramonmoorlag.nl/img/finalproject_8.jpeg&#34; alt=&#34;Sense&#34; title=&#34;SENSE&#34;&gt;
+&lt;img src=&#34;https://ramonmoorlag.nl/img/finalproject_9.jpeg&#34; alt=&#34;Sense&#34; title=&#34;SENSE&#34;&gt;
+&lt;img src=&#34;https://ramonmoorlag.nl/img/finalproject_5.jpeg&#34; alt=&#34;Sense&#34; title=&#34;SENSE&#34;&gt;
+&lt;img src=&#34;https://ramonmoorlag.nl/img/finalproject_11.jpeg&#34; alt=&#34;Sense&#34; title=&#34;SENSE&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;atat&#34;&gt;ATAT&lt;/h2&gt;
+</content>
+    </item>
+    
     <item>
       <title>Badger</title>
       <link>https://ramonmoorlag.nl/posts/2022-04-03-badger/</link>
@@ -15,12 +37,35 @@
       
       <guid>https://ramonmoorlag.nl/posts/2022-04-03-badger/</guid>
       <description>To be updated with hacks, quick tutorials and other useful usecases with 🦡🦡🦡🦡🍄🍄🐍
- From the great people of Pimoroni; #A hackable, programmable badge with E Ink® display, powered by Raspberry Pi RP2040.
-In honour of Raspberry Pi&amp;rsquo;s 10th birthday, we&amp;rsquo;ve fused a RP2040 microcontroller with an EPD display to make a stylishly monochrome, maker friendly, e-paper badge(r) to attach to your person, your office door or to prop up on your desk.</description>
+ Introduction BadgerOS Here is where the funs starts to happen. It&amp;rsquo;s always a pleasure working with a product developed by Pimoroni. The documentation is always up to standards and the examples just work. In this example for a conference badge it&amp;rsquo;s an easy 1 minute coding session to customise the badge. In the build-in BadgerOS there are a few working examples.</description>
       <content>&lt;blockquote&gt;
 &lt;p&gt;To be updated with hacks, quick tutorials and other useful usecases with 🦡🦡🦡🦡🍄🍄🐍&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;From the great people of &lt;a href=&#34;https://shop.pimoroni.com/products/badger-2040?variant=39752959852627&#34;&gt;Pimoroni&lt;/a&gt;;
+&lt;h1 id=&#34;introduction-badgeros&#34;&gt;Introduction BadgerOS&lt;/h1&gt;
+&lt;p&gt;Here is where the funs starts to happen. It&amp;rsquo;s always a pleasure working with a product developed by Pimoroni. The documentation is always up to standards and the examples just work. In this example for a conference badge it&amp;rsquo;s an easy 1 minute coding session to customise the badge. In the build-in &lt;strong&gt;BadgerOS&lt;/strong&gt; there are a few working examples.&lt;/p&gt;
+&lt;h2 id=&#34;badgepy&#34;&gt;BADGE.PY&lt;/h2&gt;
+&lt;p&gt;Badge is a functional Badge for conferences and a great conversation starter. It comes with a build-in txt file that can be used updated without a lot of programming experience. Adding a personal touch with a picture needs a little skill with the command prompt.
+This was very helpfull.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;The name badge image needs to be named &amp;lsquo;badge-image.bin&amp;rsquo; and in the root directory of your Badger alongside badge.txt (not in the /images directory) &lt;strong&gt;!!&lt;/strong&gt;
+This image needs to be exactly 104 pixels in width and 128 pixels in height so you&amp;rsquo;ll need to resize it with a graphics program like GIMP before you run it through the conversion script. When you come to convert it, don&amp;rsquo;t use the &amp;ndash;resize flag as this will stretch it to 296 x 128, instead use python3 convert.py &amp;ndash;binary badge-image.png&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Other examples include&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Checklist
+With a small check if you cleared the item.&lt;/li&gt;
+&lt;li&gt;Clock
+Sadly not the best usecase for an e-paper display. With an update cycle of half a second it flashes a lot.&lt;/li&gt;
+&lt;li&gt;E-Book
+Fun to read a book (or small note) on a screen the size of a business card :-)&lt;/li&gt;
+&lt;li&gt;Fonts
+Example fonts on the device&lt;/li&gt;
+&lt;li&gt;Image&lt;/li&gt;
+&lt;li&gt;QR gen&lt;/li&gt;
+&lt;li&gt;Launcher&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The name badge image needs to be named &amp;lsquo;badge-image.bin&amp;rsquo; and in the root directory of your Badger alongside badge.txt (not in the /images directory) &lt;strong&gt;!!&lt;/strong&gt;
+This image needs to be exactly 104 pixels in width and 128 pixels in height so you&amp;rsquo;ll need to resize it with a graphics program like GIMP before you run it through the conversion script. When you come to convert it, don&amp;rsquo;t use the &amp;ndash;resize flag as this will stretch it to 296 x 128, instead use python3 convert.py &amp;ndash;binary badge-image.png
 #A hackable, programmable badge with E Ink® display, powered by Raspberry Pi RP2040.&lt;/p&gt;
 &lt;p&gt;In honour of Raspberry Pi&amp;rsquo;s 10th birthday, we&amp;rsquo;ve fused a RP2040 microcontroller with an EPD display to make a stylishly monochrome, maker friendly, e-paper badge(r) to attach to your person, your office door or to prop up on your desk. With the support of the fun guys (and gals and non-binary pals) at Ineltek and Raspberry Pi we&amp;rsquo;ve been able to keep it as low cost as possible, hoorah!&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://ramonmoorlag.nl/img/badger.webp&#34; alt=&#34;Badger&#34;&gt;&lt;/p&gt;

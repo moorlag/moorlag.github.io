@@ -7,7 +7,37 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>(c) 2022 Ramon Moorlag</copyright>
-    <lastBuildDate>Sun, 03 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://ramonmoorlag.nl/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 14 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://ramonmoorlag.nl/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2022</title>
+      <link>https://ramonmoorlag.nl/tags/2022/</link>
+      <pubDate>Thu, 14 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://ramonmoorlag.nl/tags/2022/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+    <item>
+      <title>computer science</title>
+      <link>https://ramonmoorlag.nl/tags/computer-science/</link>
+      <pubDate>Thu, 14 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://ramonmoorlag.nl/tags/computer-science/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://ramonmoorlag.nl/tags/projects/</link>
+      <pubDate>Thu, 14 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://ramonmoorlag.nl/tags/projects/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
     <item>
       <title>2040</title>
       <link>https://ramonmoorlag.nl/tags/2040/</link>
@@ -24,16 +54,6 @@
       <pubDate>Sun, 03 Apr 2022 00:00:00 +0000</pubDate>
       
       <guid>https://ramonmoorlag.nl/tags/badger/</guid>
-      <description></description>
-      <content></content>
-    </item>
-    
-    <item>
-      <title>computer science</title>
-      <link>https://ramonmoorlag.nl/tags/computer-science/</link>
-      <pubDate>Sun, 03 Apr 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://ramonmoorlag.nl/tags/computer-science/</guid>
       <description></description>
       <content></content>
     </item>

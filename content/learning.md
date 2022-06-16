@@ -6,7 +6,7 @@ coverImage: "kiwihug-265638.jpg"
 
 # It comes naturally, if you allow it. Learning!
 
-When you compare learning to the production industry you see similarities. People are grouped in development, expertise or interest. In education people are grouped by production date and intelligence. With the development of Agora Roermond we tried to (and succeeded) with a new system. No grouping based on production date, but on things that connect them as a group. One mega group with everyone in it. **Just like in our society.** 
+When you compare learning to the production industry you see similarities. People are grouped in development, expertise or interest. In education people are grouped by production date and intelligence. With the development of Agora Roermond we tried to (and succeeded) with a new system. No grouping based on production date, but on things that connect them as a group. One mega group with everyone in it. **Just like in our society.**
 
 ## Based on my own experience...
 

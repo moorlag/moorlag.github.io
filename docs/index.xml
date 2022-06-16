@@ -9,6 +9,22 @@
     <copyright>(c) 2022 Ramon Moorlag</copyright>
     <lastBuildDate>Wed, 15 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://ramonmoorlag.nl/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>About</title>
+      <link>https://ramonmoorlag.nl/about/</link>
+      <pubDate>Thu, 16 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://ramonmoorlag.nl/about/</guid>
+      <description>Hi there My name is Ramon Moorlag, and this is my blog. My thanks go out to Radek for this beauty of a template. Serendipity is the one thing I have a firm belief in. Without that, the following wouldn’t have happened. ❤️ Co-founder Agora Roermond. 🚀A new school, with a unique learning system based on the Agile framework, started a new computer science curriculum and had so much fun teaching computer science (ds.</description>
+      <content>&lt;h1 id=&#34;hi-there&#34;&gt;Hi there&lt;/h1&gt;
+&lt;p&gt;My name is Ramon Moorlag, and this is my blog. My thanks go out to Radek for this beauty of a template. Serendipity is the one thing I have a firm belief in. Without that, the following wouldn’t have happened. ❤️
+Co-founder Agora Roermond. 🚀A new school, with a unique learning system based on the Agile framework, started a new computer science curriculum and had so much fun teaching computer science (ds. Pierson College). Ex-community manager and growth hacker at Leraar24.
+Besides that, I enjoy traveling, seeing the world, talking to people, and tasting new cultures. And a firm believes in the continued development of people once they realize that living is learning. 🥳
+Have a problem that needs solving? Talk to me; I’m also self-employed.
+&lt;img src=&#34;https://ramonmoorlag.nl/img/ramon.jpeg&#34; alt=&#34;Ramon Moorlag&#34;&gt;&lt;/p&gt;
+</content>
+    </item>
+    
+    <item>
       <title>Final projects Computer Science</title>
       <link>https://ramonmoorlag.nl/posts/2022-14-05-final-projects/</link>
       <pubDate>Wed, 15 Jun 2022 00:00:00 +0000</pubDate>
@@ -350,25 +366,6 @@ I felt a full array of emotions while listing to the Playlist.</description>
 Top contributes&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://ramonmoorlag.nl/img/chart-2.png&#34; alt=&#34;&#34;&gt;
 Top artists&lt;/p&gt;
-</content>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>https://ramonmoorlag.nl/about/</link>
-      <pubDate>Fri, 25 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://ramonmoorlag.nl/about/</guid>
-      <description>Hi there My name is Ramon Moorlag and this is my blog. My thanks goes out to Radek for this beauty of a template.
-Serendipity is the one thing I have a firm believe in. Without that the following wouldn&amp;rsquo;t have happened. ❤️
-Co-founder Agora Roermond. 🚀A new school, with a new learning system based on the Agile framework, started a new curriculum computer science and having so much fun with teaching computer science (ds.</description>
-      <content>&lt;h1 id=&#34;hi-there&#34;&gt;Hi there&lt;/h1&gt;
-&lt;p&gt;My name is Ramon Moorlag and this is my blog. My thanks goes out to Radek for this beauty of a template.&lt;/p&gt;
-&lt;p&gt;Serendipity is the one thing I have a firm believe in. Without that the following wouldn&amp;rsquo;t have happened. ❤️&lt;/p&gt;
-&lt;p&gt;Co-founder Agora Roermond. 🚀A new school, with a new learning system based on the Agile framework, started a new curriculum computer science and having so much fun with teaching computer science (ds. Pierson College). ex-community manager and growth hacker at Leraar24.&lt;/p&gt;
-&lt;p&gt;Besides that I enjoy traveling, seeing the world, talking to people and tasting new cultures. And a firm believe in the continued development of people once they realize that living is learning. 🥳&lt;/p&gt;
-&lt;p&gt;Have a problem that needs solving? Talk to me, I&amp;rsquo;m also self-employed.
-&lt;img src=&#34;https://ramonmoorlag.nl/img/ramon.jpeg&#34; alt=&#34;Ramon Moorlag&#34;&gt;&lt;/p&gt;
 </content>
     </item>
     

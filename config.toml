@@ -60,8 +60,8 @@ publishDir = "docs"
     readOtherPosts = "Read other posts"
     newerPosts = "Newer posts"
     olderPosts = "Older posts"
-    missingContentMessage = "Page not found..."
-    missingBackButtonLabel = "Back to home page"
+    missingContentMessage = "This is akward. You're looking at my 404..."
+    missingBackButtonLabel = "Quick break the akwardness. Back to home page"
 
     [languages.en.params.logo]
       logoText = "Moorlag"

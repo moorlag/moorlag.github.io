@@ -16,13 +16,15 @@
       <guid>https://ramonmoorlag.nl/posts/2022-14-07-dino-game/</guid>
       <description>The random things I find online Ever played the Dino game when Chrome (thinks) it&amp;rsquo;s offline? With this &amp;lsquo;hack&amp;rsquo; you can enter God Mode, literally. The Dino will fly in the sky. And with an insert tag we can even add wings to REX :-)
 Fun little project for the introduction of Computer Science for our new students (age 12-13 yrs).
-1- open chrome://dino/ 2- open chrome&amp;#39;s dev tools 3- In the console type Runner().</description>
+Source
+1- open chrome://dino/ ] 2- open chrome&amp;#39;s dev tools 3- In the console type Runner().</description>
       <content>&lt;h1 id=&#34;the-random-things-i-find-online&#34;&gt;The random things I find online&lt;/h1&gt;
 &lt;p&gt;Ever played the Dino game when Chrome (thinks) it&amp;rsquo;s offline?
 With this &amp;lsquo;hack&amp;rsquo; you can enter God Mode, literally. The Dino will fly in the sky. And with an insert tag we can even add wings to REX :-)&lt;/p&gt;
 &lt;p&gt;Fun little project for the introduction of Computer Science for our new students (age 12-13 yrs).&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.reddit.com/r/gaming/comments/uo68ju/comment/i8cwgpw/?utm_source=reddit&amp;amp;utm_medium=web2x&amp;amp;context=3&#34;&gt;Source&lt;/a&gt;&lt;/p&gt;
 &lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;1- open chrome://dino/
-
+]
 2- open chrome&amp;#39;s dev tools
 
 3- In the console type Runner().tRex.groundYPos = 10; // to make the Dino be higher than obstacles

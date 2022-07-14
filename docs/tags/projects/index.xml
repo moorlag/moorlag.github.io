@@ -7,7 +7,61 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>(c) 2022 Ramon Moorlag</copyright>
-    <lastBuildDate>Wed, 15 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://ramonmoorlag.nl/tags/projects/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 14 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://ramonmoorlag.nl/tags/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Random Hack of Chrome Dino</title>
+      <link>https://ramonmoorlag.nl/posts/2022-14-07-dino-game/</link>
+      <pubDate>Thu, 14 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://ramonmoorlag.nl/posts/2022-14-07-dino-game/</guid>
+      <description>The random things I find online Ever played the Dino game when Chrome (thinks) it&amp;rsquo;s offline? With this &amp;lsquo;hack&amp;rsquo; you can enter God Mode, literally. The Dino will fly in the sky. And with an insert tag we can even add wings to REX :-)
+Fun little project for the introduction of Computer Science for our new students (age 12-13 yrs).
+1- open chrome://dino/ 2- open chrome&amp;#39;s dev tools 3- In the console type Runner().</description>
+      <content>&lt;h1 id=&#34;the-random-things-i-find-online&#34;&gt;The random things I find online&lt;/h1&gt;
+&lt;p&gt;Ever played the Dino game when Chrome (thinks) it&amp;rsquo;s offline?
+With this &amp;lsquo;hack&amp;rsquo; you can enter God Mode, literally. The Dino will fly in the sky. And with an insert tag we can even add wings to REX :-)&lt;/p&gt;
+&lt;p&gt;Fun little project for the introduction of Computer Science for our new students (age 12-13 yrs).&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;1- open chrome://dino/
+
+2- open chrome&amp;#39;s dev tools
+
+3- In the console type Runner().tRex.groundYPos = 10; // to make the Dino be higher than obstacles
+
+4- In the console Runner().setSpeed(10); // to make the Dino move faster
+
+5- the following is to add the wings gif:
+
+t.insertAdjacentHTML(&amp;#39;beforebegin&amp;#39;, `&amp;lt;img id=&amp;#34;wings&amp;#34; src=&amp;#34;https://i.pinimg.com/originals/2f/c4/16/2fc416822216737270f1566324e5c1b3.gif&amp;#34; /&amp;gt;
+
+&amp;lt;style&amp;gt; #wings { width: 45px; position: absolute; top: 250px; z-index: 10; left: 23px; &amp;lt;/style&amp;gt;
+
+`);
+&lt;/code&gt;&lt;/pre&gt;</content>
+    </item>
+    
+    <item>
+      <title>Hugo Handson</title>
+      <link>https://ramonmoorlag.nl/posts/2022-12-07-hugo-handson/</link>
+      <pubDate>Tue, 12 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://ramonmoorlag.nl/posts/2022-12-07-hugo-handson/</guid>
+      <description>Thoughts on HugoConf Alive Youtube? Empirse of the sun
+##Bees?
+Resources Videos Mogelijk conf videos anders de tutorials https://www.youtube.com/playlist?list=PLrxYIq_0LFJfimciGTP5bQhYSEu5EdAuA
+Walk the Talk! Link naar demo
+And with that said, we had a good talk about building autonomous weapons. </description>
+      <content>&lt;h1 id=&#34;thoughts-on-hugoconf&#34;&gt;Thoughts on HugoConf&lt;/h1&gt;
+&lt;p&gt;Alive Youtube? Empirse of the sun&lt;/p&gt;
+&lt;p&gt;##Bees?&lt;/p&gt;
+&lt;h2 id=&#34;resources&#34;&gt;Resources&lt;/h2&gt;
+&lt;h2 id=&#34;videos&#34;&gt;Videos&lt;/h2&gt;
+&lt;p&gt;Mogelijk conf videos anders de tutorials &lt;a href=&#34;https://www.youtube.com/playlist?list=PLrxYIq_0LFJfimciGTP5bQhYSEu5EdAuA&#34;&gt;https://www.youtube.com/playlist?list=PLrxYIq_0LFJfimciGTP5bQhYSEu5EdAuA&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;walk-the-talk&#34;&gt;Walk the Talk!&lt;/h2&gt;
+&lt;p&gt;Link naar demo&lt;/p&gt;
+&lt;h3 id=&#34;and-with-that-said-we-had-a-good-talk-about-building-autonomous-weapons&#34;&gt;And with that said, we had a good talk about building autonomous weapons.&lt;/h3&gt;
+</content>
+    </item>
+    
     <item>
       <title>Final projects Computer Science</title>
       <link>https://ramonmoorlag.nl/posts/2022-14-05-final-projects/</link>

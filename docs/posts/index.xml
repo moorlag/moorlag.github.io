@@ -7,7 +7,27 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>(c) 2022 Ramon Moorlag</copyright>
-    <lastBuildDate>Thu, 14 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://ramonmoorlag.nl/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 15 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://ramonmoorlag.nl/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hugo Handson</title>
+      <link>https://ramonmoorlag.nl/posts/2022-15-07-hugo-handson/</link>
+      <pubDate>Fri, 15 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://ramonmoorlag.nl/posts/2022-15-07-hugo-handson/</guid>
+      <description>Thoughts on HugoConf In a few words, HugoConf was like living in the future. A future without the need for database-driven websites and pushing technology like it was/wasn&amp;rsquo;t intended. I enjoy the niece communities a lot. It&amp;rsquo;s inspiring to see how quick a new culture is created in the chatbox and interact with the speakers. The bees in the chat and adopting a Bee as a mascot was fun. Humble the Hugo Bee was born in the chatbox.</description>
+      <content>&lt;h1 id=&#34;thoughts-on-hugoconf&#34;&gt;Thoughts on HugoConf&lt;/h1&gt;
+&lt;p&gt;In a few words, HugoConf was like living in the future. A future without the need for database-driven websites and pushing technology like it was/wasn&amp;rsquo;t intended. I enjoy the niece communities a lot. It&amp;rsquo;s inspiring to see how quick a new culture is created in the chatbox and interact with the speakers. The bees in the chat and adopting a Bee as a mascot was fun. Humble the Hugo Bee was born in the chatbox.&lt;/p&gt;
+&lt;p&gt;There was a program filled with over 30 speakers. From lightning talks to in-depth sessions. Steve Francia, founder of Hugo was a great speaker. Seeing how it was developed as a new (and fast) blog system is inspiring. Quick and easy.
+I enjoyed the session of Joost van der Schee; automatically resizing and compression images in a Hugo
+&lt;a href=&#34;https://www.youtube.com/watch?v=y6_v7Jc6R2I&amp;amp;ab_channel=CloudCannon&#34;&gt;https://www.youtube.com/watch?v=y6_v7Jc6R2I&amp;amp;ab_channel=CloudCannon&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;resources&#34;&gt;Resources&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?time_continue=299&amp;amp;v=0iwNjcFIHNM&amp;amp;feature=emb_title&amp;amp;ab_channel=CloudCannon&#34;&gt;https://www.youtube.com/watch?time_continue=299&amp;amp;v=0iwNjcFIHNM&amp;amp;feature=emb_title&amp;amp;ab_channel=CloudCannon&lt;/a&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=y6_v7Jc6R2I&amp;amp;feature=youtu.be&amp;amp;ab_channel=CloudCannon&#34;&gt;https://www.youtube.com/watch?v=y6_v7Jc6R2I&amp;amp;feature=youtu.be&amp;amp;ab_channel=CloudCannon&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;todo&#34;&gt;Todo&lt;/h3&gt;
+&lt;p&gt;Adding &lt;a href=&#34;https://hugocodex.org/add-ons/image-gallery/&#34;&gt;Image gallery&lt;/a&gt; to my blog.&lt;/p&gt;
+</content>
+    </item>
+    
     <item>
       <title>Random Hack of Chrome Dino</title>
       <link>https://ramonmoorlag.nl/posts/2022-14-07-dino-game/</link>

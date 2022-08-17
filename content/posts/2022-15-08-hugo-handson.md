@@ -14,7 +14,9 @@ draft = false
 In a few words, HugoConf was like living in the future. A future without the need for database-driven websites and pushing technology like it was/wasn't intended. I enjoy the niece communities a lot. It's inspiring to see how quick a new culture is created in the chatbox and interact with the speakers. The bees in the chat and adopting a Bee as a mascot was fun. Humble the Hugo Bee was born in the chatbox.
 
 There was a program filled with over 30 speakers. From lightning talks to in-depth sessions. Steve Francia, founder of Hugo was a great speaker. Seeing how it was developed as a new (and fast) blog system is inspiring. Quick and easy.
-I enjoyed the session of Joost van der Schee; automatically resizing and compression images in a Hugo
+I enjoyed the session of Joost van der Schee; automatically resizing and compression images in a Hugo site.
+
+This was a great conf, well organized and managed. And thanks for the stickers!
 
 {{< youtube y6_v7Jc6R2I >}}
 

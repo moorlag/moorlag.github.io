@@ -17,11 +17,13 @@ There was a program filled with over 30 speakers. From lightning talks to in-dep
 I enjoyed the session of Joost van der Schee; automatically resizing and compression images in a Hugo
 https://www.youtube.com/watch?v=y6_v7Jc6R2I&ab_channel=CloudCannon
 
-
+{{< youtube y6_v7Jc6R2I >}}
 
 ## Resources
 https://www.youtube.com/watch?time_continue=299&v=0iwNjcFIHNM&feature=emb_title&ab_channel=CloudCannon
 https://www.youtube.com/watch?v=y6_v7Jc6R2I&feature=youtu.be&ab_channel=CloudCannon
+{{< youtube 0iwNjcFIHNM >}}
+{{< youtube y6_v7Jc6R2I >}}
 
 ### Todo
 Adding [Image gallery](https://hugocodex.org/add-ons/image-gallery/) to my blog.

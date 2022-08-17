@@ -1,6 +1,6 @@
 +++
 title = "Hugo Handson"
-date = "2022-07-15"
+date = "2022-08-15"
 author = "Moorlag"
 authorTwitter = "Moorlag" #do not include @
 cover = "/img/gohugoio-card.png"
